@@ -1,0 +1,2001 @@
+roll_no,name,class,study_hours,attendance,previous_grade,socioeconomic_status,parental_education,internet_access,extracurricular,sleep_hours,tutoring_sessions,result
+1,Karthik Nair,12-B,8.9,58.0,67.8,Medium,No Formal,Yes,No,7.7,2,Fail
+1,Pooja Krishnan,9-C,18.5,72.9,53.2,Medium,Bachelor,Yes,Yes,6.8,2,Pass
+2,Sneha Nair,9-C,10.0,97.8,80.9,High,Bachelor,No,No,8.3,0,Pass
+1,Ishaan Krishnan,11-B,12.6,74.5,45.7,Medium,Bachelor,Yes,No,5.9,2,Fail
+1,Nikhil Pillai,10-A,9.1,68.1,79.4,Low,Master+,Yes,No,5.6,0,Pass
+1,Kavya Singh,12-C,16.8,100.0,64.3,High,Bachelor,Yes,No,7.4,3,Pass
+2,Pranav Kumar,10-A,10.8,98.1,46.4,Medium,Master+,Yes,Yes,7.5,2,Pass
+1,Rahul Patel,11-C,12.6,88.2,88.3,Medium,Master+,Yes,No,6.0,2,Pass
+1,Divya Shetty,9-B,10.8,72.5,61.1,Low,High School,Yes,No,8.6,1,Fail
+2,Aditya Sharma,12-B,10.3,79.1,92.7,Medium,High School,Yes,Yes,9.3,2,Pass
+1,Diya Joshi,10-C,16.4,72.4,83.1,Medium,High School,Yes,No,6.2,1,Pass
+2,Sneha Shetty,10-C,17.2,74.1,58.8,High,High School,Yes,Yes,8.8,1,Pass
+1,Lakshmi Das,11-A,13.6,69.5,64.8,Medium,Bachelor,Yes,No,4.1,2,Pass
+2,Priya Sharma,12-C,13.8,78.6,71.7,High,High School,Yes,Yes,8.3,2,Pass
+3,Rohan Das,12-B,18.0,69.6,87.4,Medium,High School,Yes,No,6.0,4,Pass
+4,Siddharth Das,12-B,10.8,59.2,68.1,Low,High School,Yes,Yes,8.2,1,Fail
+2,Pranav Sharma,9-B,12.5,84.6,68.5,Medium,Bachelor,No,Yes,5.8,1,Fail
+3,Aarthi Krishnan,9-C,12.5,80.8,59.2,Low,Bachelor,No,No,6.9,2,Pass
+1,Ananya Nair,12-A,24.5,100.0,69.3,High,Master+,No,No,6.0,2,Pass
+5,Nikhil Verma,12-B,7.3,74.0,84.3,Medium,High School,No,Yes,6.7,0,Fail
+2,Siddharth Reddy,11-C,17.8,85.6,66.1,Medium,High School,Yes,No,9.2,0,Pass
+6,Divya Iyer,12-B,4.5,85.8,60.5,Medium,Master+,Yes,No,6.9,1,Pass
+1,Aarav Das,10-B,17.1,83.0,62.1,High,Bachelor,Yes,No,9.5,2,Pass
+2,Pranav Nair,10-B,23.9,94.9,62.2,High,Bachelor,No,Yes,6.5,2,Pass
+3,Vivaan Nair,9-B,16.4,91.3,46.4,Medium,Bachelor,Yes,No,8.8,2,Pass
+3,Arjun Sharma,12-C,12.9,81.9,51.5,Low,No Formal,Yes,No,5.0,0,Pass
+3,Pranav Shetty,11-C,11.2,78.9,87.0,Medium,Master+,Yes,Yes,6.7,4,Pass
+4,Nikhil Sharma,9-C,12.2,73.7,59.1,Low,Bachelor,Yes,Yes,6.4,1,Pass
+2,Varun Pillai,12-A,10.7,61.6,71.9,Low,Bachelor,Yes,No,8.8,0,Fail
+1,Shreya Gupta,9-A,10.1,72.3,31.3,Medium,Bachelor,Yes,Yes,7.2,0,Fail
+4,Diya Singh,12-C,12.6,74.5,74.0,Medium,High School,Yes,Yes,4.5,2,Pass
+4,Aarav Rao,9-B,17.0,72.5,67.7,High,High School,No,Yes,5.4,3,Pass
+7,Ananya Kumar,12-B,10.2,87.3,59.3,Medium,Bachelor,Yes,No,5.8,3,Pass
+3,Ishaan Verma,10-B,10.0,96.4,68.5,Medium,Bachelor,Yes,No,8.1,0,Pass
+5,Diya Joshi,9-B,7.2,71.1,59.1,Medium,No Formal,Yes,No,8.0,1,Fail
+5,Karthik Krishnan,9-C,14.0,81.4,32.3,Low,High School,Yes,No,6.6,1,Fail
+2,Aarthi Das,11-B,14.7,65.6,74.9,Low,Master+,Yes,Yes,6.3,2,Pass
+6,Kavya Shetty,9-B,15.2,78.3,69.4,Medium,High School,Yes,Yes,7.9,0,Pass
+4,Priya Verma,10-B,16.8,69.7,57.6,Low,High School,Yes,Yes,5.6,1,Fail
+3,Meera Menon,12-A,14.4,89.2,52.5,Medium,Bachelor,Yes,Yes,7.5,1,Pass
+5,Karthik Krishnan,12-C,16.0,73.9,45.4,Medium,Bachelor,Yes,Yes,7.4,2,Pass
+3,Vivaan Sharma,10-A,17.5,98.1,73.1,High,Bachelor,No,No,6.7,3,Pass
+2,Aarav Reddy,11-A,13.5,79.1,88.6,Medium,Master+,Yes,Yes,7.5,6,Pass
+4,Karthik Menon,12-A,11.3,74.2,68.8,Medium,High School,Yes,Yes,7.1,3,Pass
+3,Rahul Menon,11-A,27.1,71.0,50.6,High,Master+,Yes,Yes,7.6,2,Pass
+2,Ananya Menon,9-A,13.7,89.0,73.2,High,Master+,Yes,Yes,5.4,0,Pass
+5,Vivaan Singh,12-A,10.7,92.7,65.3,Medium,Bachelor,No,Yes,7.7,1,Pass
+3,Siddharth Singh,9-A,14.2,81.3,74.1,Low,Bachelor,Yes,Yes,8.2,2,Pass
+4,Vivaan Shetty,11-C,15.3,100.0,74.5,Medium,High School,Yes,Yes,7.4,0,Pass
+6,Lakshmi Patel,12-A,5.0,95.2,20.2,Low,High School,Yes,No,7.7,0,Fail
+5,Pranav Patel,11-C,17.6,74.3,69.6,Low,High School,No,No,6.9,1,Fail
+3,Shreya Das,10-C,11.5,74.2,48.0,Low,No Formal,Yes,No,8.1,3,Fail
+4,Diya Pillai,10-C,8.4,87.6,46.1,Medium,Master+,Yes,No,7.1,0,Fail
+5,Vivaan Shetty,10-B,19.9,71.9,63.4,Medium,High School,Yes,No,5.6,2,Pass
+4,Kavya Kumar,11-A,17.1,96.0,71.8,Medium,Bachelor,Yes,No,8.0,2,Pass
+8,Aarthi Sharma,12-B,7.7,86.3,43.0,Medium,High School,Yes,No,5.0,0,Fail
+9,Diya Verma,12-B,22.9,85.1,75.9,Medium,High School,Yes,No,7.3,1,Pass
+5,Divya Sharma,10-C,17.3,90.2,76.7,Medium,High School,Yes,Yes,6.5,3,Pass
+4,Kavya Pillai,9-A,11.9,98.7,62.7,Low,High School,Yes,Yes,6.5,0,Pass
+4,Priya Patel,10-A,20.0,80.1,49.9,Low,Bachelor,Yes,Yes,7.2,1,Fail
+10,Aarthi Rao,12-B,14.8,80.6,52.3,Medium,Master+,Yes,Yes,6.1,3,Pass
+6,Neha Shetty,11-C,13.9,100.0,80.4,Medium,High School,Yes,No,7.6,1,Pass
+5,Varun Rao,10-A,10.7,93.6,44.8,Medium,Master+,Yes,Yes,7.1,1,Pass
+6,Aarthi Nair,9-C,16.9,78.1,80.9,Medium,Bachelor,Yes,No,6.3,2,Pass
+6,Divya Joshi,10-C,16.4,82.1,63.7,Medium,Bachelor,Yes,No,8.6,1,Pass
+3,Divya Sharma,11-B,14.1,84.3,64.7,Medium,High School,Yes,No,7.2,1,Pass
+4,Ananya Kumar,11-B,10.1,86.3,42.1,Medium,No Formal,Yes,Yes,7.8,1,Fail
+6,Varun Singh,10-B,14.6,65.7,63.9,Medium,Master+,Yes,Yes,8.7,2,Pass
+7,Kavya Menon,10-C,11.7,59.5,70.6,Low,Bachelor,Yes,Yes,8.7,3,Fail
+5,Aditya Gupta,9-A,7.3,71.4,47.3,Medium,High School,Yes,No,7.7,1,Fail
+7,Kavya Rao,12-A,4.6,66.4,69.0,Low,Bachelor,Yes,No,6.6,2,Fail
+7,Meera Rao,10-B,16.8,74.3,67.2,Medium,High School,No,No,5.3,1,Pass
+8,Meera Patel,12-A,3.0,93.6,61.0,High,Bachelor,Yes,No,7.2,1,Fail
+8,Divya Krishnan,10-B,13.0,76.0,74.0,Low,High School,Yes,No,8.3,0,Pass
+7,Diya Sharma,11-C,9.6,80.4,31.2,Low,Master+,Yes,No,7.4,2,Fail
+5,Aarthi Verma,11-B,18.5,63.3,66.9,Low,High School,Yes,Yes,3.0,4,Fail
+8,Lakshmi Patel,10-C,9.5,72.5,84.7,Low,High School,Yes,Yes,8.0,1,Fail
+11,Sneha Patel,12-B,17.3,89.0,86.2,Medium,Bachelor,Yes,Yes,8.1,2,Pass
+6,Divya Das,10-A,12.0,89.1,71.5,Medium,High School,Yes,No,6.6,2,Pass
+12,Meera Rao,12-B,14.6,73.3,61.8,Medium,Master+,Yes,No,8.2,2,Pass
+13,Rohan Gupta,12-B,17.7,83.9,57.1,Medium,Bachelor,Yes,No,7.8,1,Pass
+7,Pranav Krishnan,10-A,11.7,100.0,61.8,Medium,High School,Yes,No,6.2,2,Pass
+7,Vivaan Shetty,9-B,21.0,85.8,77.6,High,High School,Yes,No,8.5,4,Pass
+9,Divya Singh,12-A,7.0,69.7,50.7,Low,Master+,Yes,Yes,5.5,2,Fail
+6,Shreya Das,12-C,13.5,75.9,72.6,Low,Bachelor,Yes,Yes,6.9,0,Pass
+14,Vivaan Rao,12-B,16.6,79.1,91.9,Low,Master+,Yes,No,6.8,3,Pass
+10,Ishaan Joshi,12-A,17.3,80.2,65.1,Medium,High School,Yes,No,6.0,1,Pass
+6,Arjun Nair,9-A,23.6,81.6,47.2,Medium,Master+,No,No,7.4,1,Pass
+15,Neha Sharma,12-B,8.2,60.7,43.2,Low,Bachelor,Yes,Yes,8.6,0,Fail
+7,Neha Singh,9-C,7.1,70.4,76.9,Medium,Bachelor,Yes,No,8.5,0,Fail
+8,Pooja Iyer,9-B,7.0,76.2,61.2,Low,High School,Yes,No,7.9,1,Pass
+8,Pranav Das,9-C,17.3,80.0,78.3,Medium,No Formal,Yes,No,5.0,2,Pass
+7,Arjun Reddy,9-A,16.5,75.2,58.5,Medium,Master+,Yes,Yes,5.4,3,Pass
+9,Kavya Sharma,9-C,14.5,79.9,77.6,Medium,Master+,Yes,No,7.2,1,Pass
+9,Neha Pillai,9-B,8.4,82.7,63.8,Medium,High School,Yes,No,7.0,1,Fail
+8,Lakshmi Singh,10-A,17.8,92.7,55.7,Medium,Master+,Yes,No,6.4,1,Pass
+9,Kavya Verma,10-A,7.9,80.8,60.4,Medium,High School,Yes,No,9.3,2,Pass
+9,Aarav Iyer,10-B,17.8,82.8,45.2,Low,High School,Yes,No,7.1,0,Fail
+8,Aarthi Reddy,9-A,26.3,71.5,89.9,Low,No Formal,Yes,No,7.7,1,Pass
+16,Karthik Sharma,12-B,17.8,92.9,68.7,High,High School,Yes,No,8.2,1,Pass
+10,Vivaan Menon,10-B,18.9,90.5,79.0,High,No Formal,No,Yes,7.1,1,Pass
+9,Meera Reddy,10-C,11.5,92.4,58.5,Medium,High School,Yes,Yes,10.1,4,Pass
+10,Shreya Joshi,9-B,2.9,86.6,47.3,Low,High School,No,Yes,5.9,2,Fail
+10,Meera Reddy,9-C,13.0,93.1,66.7,High,Bachelor,No,No,6.3,0,Pass
+9,Priya Krishnan,9-A,8.5,80.8,81.4,Medium,Bachelor,Yes,Yes,5.9,2,Pass
+17,Karthik Singh,12-B,6.8,84.9,58.7,Medium,Bachelor,Yes,Yes,8.9,2,Pass
+11,Sneha Das,9-B,22.6,94.8,53.8,Medium,High School,Yes,No,8.0,2,Pass
+5,Neha Nair,11-A,13.4,70.2,64.2,Low,Bachelor,No,No,6.3,4,Pass
+8,Vivaan Reddy,11-C,13.9,70.5,69.0,Low,High School,Yes,Yes,6.0,2,Fail
+12,Rahul Patel,9-B,14.5,88.2,93.0,High,Bachelor,Yes,Yes,8.7,2,Pass
+10,Varun Singh,10-C,13.1,87.0,71.0,Medium,Bachelor,No,No,7.4,5,Pass
+11,Lakshmi Gupta,9-C,16.8,68.1,71.0,Low,High School,No,Yes,8.7,1,Fail
+12,Neha Patel,9-C,13.8,81.1,76.1,Medium,No Formal,No,No,6.9,2,Pass
+6,Aarthi Kumar,11-B,16.7,80.9,49.9,Medium,Bachelor,Yes,No,7.6,1,Pass
+9,Karthik Verma,11-C,11.0,51.4,48.5,Low,Master+,Yes,Yes,7.4,2,Fail
+11,Aarav Kumar,10-C,14.3,83.4,54.8,High,Bachelor,Yes,No,6.3,1,Pass
+13,Nikhil Nair,9-C,7.0,80.1,47.3,Medium,Master+,Yes,Yes,6.8,0,Fail
+10,Divya Patel,11-C,4.1,80.1,77.1,Medium,Master+,Yes,No,5.6,3,Pass
+7,Diya Kumar,12-C,12.7,99.0,70.1,Medium,High School,Yes,Yes,7.6,0,Pass
+8,Varun Rao,12-C,14.3,67.4,67.1,Medium,Bachelor,Yes,Yes,7.9,1,Pass
+10,Divya Gupta,9-A,7.6,72.1,29.7,Medium,High School,Yes,Yes,8.2,1,Fail
+7,Neha Gupta,11-B,13.8,50.7,94.8,Medium,High School,Yes,No,7.8,2,Pass
+13,Shreya Das,9-B,12.3,72.2,49.5,Low,High School,No,Yes,6.8,2,Fail
+9,Vivaan Nair,12-C,3.2,77.3,94.7,Medium,Master+,Yes,Yes,8.9,3,Pass
+12,Divya Sharma,10-C,7.4,71.9,41.7,Low,Bachelor,Yes,Yes,8.1,1,Fail
+11,Rohan Joshi,11-C,16.0,95.3,54.6,Medium,High School,Yes,No,8.7,2,Pass
+8,Pranav Iyer,11-B,15.9,92.3,35.2,Medium,High School,Yes,Yes,8.7,0,Fail
+12,Rohan Patel,11-C,6.2,78.9,67.1,Low,High School,Yes,No,6.8,0,Fail
+11,Ishaan Menon,12-A,12.8,73.6,46.6,Low,Bachelor,Yes,No,7.5,0,Fail
+14,Neha Das,9-C,19.1,94.3,51.0,Medium,Master+,Yes,No,7.9,1,Pass
+12,Rahul Nair,12-A,15.9,77.8,42.8,Low,High School,No,No,5.6,2,Fail
+11,Neha Krishnan,10-B,15.5,76.2,80.9,High,High School,Yes,Yes,5.6,0,Pass
+15,Aditya Patel,9-C,11.7,61.4,76.0,Medium,Bachelor,No,No,5.4,2,Pass
+13,Lakshmi Verma,10-C,10.9,76.7,91.4,Medium,High School,Yes,No,6.9,0,Pass
+11,Varun Kumar,9-A,16.3,91.1,56.4,Medium,Bachelor,No,Yes,6.6,2,Pass
+9,Varun Das,11-B,13.0,100.0,65.1,Low,High School,Yes,No,5.3,3,Pass
+12,Diya Rao,10-B,19.1,86.7,51.9,High,High School,Yes,Yes,7.2,1,Pass
+14,Pooja Shetty,10-C,14.7,72.8,61.3,Medium,High School,No,No,6.9,1,Fail
+10,Varun Menon,10-A,18.1,67.8,58.7,Medium,Master+,No,No,8.4,4,Pass
+13,Rahul Shetty,11-C,12.5,84.6,68.5,Low,High School,Yes,No,9.4,0,Fail
+18,Siddharth Joshi,12-B,17.9,60.8,80.2,Medium,High School,Yes,Yes,7.5,1,Pass
+15,Priya Gupta,10-C,18.4,88.6,79.9,Medium,Bachelor,Yes,No,6.2,0,Pass
+16,Karthik Iyer,9-C,12.0,95.8,58.2,High,Master+,Yes,No,7.8,2,Pass
+10,Meera Kumar,11-B,5.0,87.2,80.0,Medium,High School,No,Yes,7.0,3,Pass
+19,Aarthi Verma,12-B,21.7,79.4,65.4,Medium,No Formal,Yes,No,6.7,2,Pass
+16,Vivaan Krishnan,10-C,13.3,84.8,57.5,Low,Bachelor,Yes,No,6.0,3,Fail
+17,Rohan Nair,9-C,5.4,84.1,56.1,Medium,High School,Yes,No,6.4,2,Fail
+10,Ishaan Iyer,12-C,10.4,72.7,58.2,Medium,Bachelor,Yes,No,6.8,0,Fail
+13,Meera Reddy,10-B,17.9,100.0,90.4,Medium,High School,Yes,Yes,8.0,1,Pass
+14,Aditya Iyer,10-B,10.6,73.8,66.3,Low,No Formal,Yes,Yes,7.6,2,Fail
+11,Priya Kumar,10-A,13.4,95.3,72.4,High,High School,No,Yes,9.2,2,Pass
+11,Karthik Shetty,11-B,23.0,57.0,66.3,High,Bachelor,Yes,Yes,7.8,5,Pass
+12,Rohan Reddy,9-A,6.8,93.3,96.2,Low,High School,Yes,No,7.5,1,Pass
+14,Aditya Krishnan,11-C,10.0,99.6,84.3,Medium,High School,Yes,No,6.6,1,Pass
+12,Diya Verma,10-A,13.1,78.4,51.9,Low,High School,Yes,Yes,5.8,1,Pass
+17,Pooja Kumar,10-C,16.0,88.7,62.2,Medium,Bachelor,No,No,6.3,2,Pass
+18,Divya Menon,9-C,14.5,84.7,59.0,Low,High School,Yes,Yes,6.2,1,Fail
+20,Sneha Singh,12-B,18.6,74.3,68.0,Medium,Bachelor,Yes,Yes,3.9,0,Pass
+18,Divya Iyer,10-C,15.0,88.6,56.2,Medium,Bachelor,Yes,No,5.8,1,Pass
+21,Vivaan Das,12-B,16.4,72.3,72.1,Medium,High School,Yes,No,8.9,2,Pass
+11,Neha Gupta,12-C,10.7,70.7,82.3,Low,Master+,Yes,Yes,7.4,2,Pass
+12,Aditya Reddy,12-C,16.3,99.5,51.6,High,Master+,Yes,No,6.5,0,Pass
+13,Sneha Krishnan,10-A,12.5,89.7,46.2,Low,High School,Yes,No,7.5,2,Fail
+13,Kavya Kumar,12-C,13.1,69.5,55.2,Low,No Formal,Yes,Yes,4.7,4,Fail
+15,Kavya Nair,11-C,17.9,73.2,59.9,Medium,High School,No,No,7.3,2,Pass
+14,Diya Verma,10-A,16.8,74.3,94.0,Medium,High School,Yes,No,8.5,0,Pass
+15,Meera Reddy,10-A,16.2,94.8,84.0,High,Bachelor,No,Yes,6.9,1,Pass
+13,Rohan Sharma,12-A,12.0,74.0,83.2,High,Master+,Yes,No,4.9,1,Pass
+19,Nikhil Iyer,10-C,14.3,86.3,62.3,Medium,Master+,Yes,No,6.5,0,Pass
+14,Shreya Patel,12-C,15.9,95.0,66.0,High,High School,No,No,8.5,0,Pass
+14,Aarav Rao,9-B,13.0,76.9,41.7,Low,High School,Yes,No,7.3,0,Fail
+15,Lakshmi Pillai,12-C,25.0,94.1,76.9,Medium,No Formal,No,No,5.3,0,Pass
+20,Shreya Patel,10-C,9.4,74.3,68.9,Low,Bachelor,Yes,Yes,9.8,0,Fail
+22,Priya Singh,12-B,18.1,83.4,88.0,High,No Formal,Yes,Yes,5.5,2,Pass
+16,Aarav Sharma,12-C,17.3,66.3,59.0,Low,Master+,Yes,Yes,6.7,1,Fail
+16,Pooja Rao,11-C,12.5,90.2,60.0,Low,Master+,Yes,Yes,5.8,1,Pass
+17,Aarthi Verma,12-C,25.7,72.8,68.4,Medium,High School,Yes,Yes,5.8,1,Fail
+12,Karthik Joshi,11-B,14.1,90.2,82.5,High,Bachelor,Yes,No,6.5,2,Pass
+14,Karthik Das,12-A,17.6,85.1,49.4,High,Bachelor,Yes,Yes,7.8,1,Pass
+6,Arjun Kumar,11-A,10.0,69.4,76.3,Medium,Bachelor,Yes,Yes,8.5,3,Pass
+19,Diya Menon,9-C,14.2,78.7,69.7,High,High School,No,No,6.5,2,Pass
+21,Aarav Shetty,10-C,17.2,100.0,55.2,High,High School,Yes,Yes,5.8,2,Pass
+20,Aarav Krishnan,9-C,18.2,84.4,36.8,Medium,Bachelor,No,No,7.6,2,Fail
+7,Rohan Das,11-A,15.6,69.9,64.1,Medium,No Formal,Yes,No,7.6,2,Pass
+21,Lakshmi Menon,9-C,20.3,85.7,86.3,Medium,Bachelor,Yes,Yes,7.3,1,Pass
+16,Priya Reddy,10-A,13.5,80.2,89.4,Medium,High School,Yes,Yes,7.3,3,Pass
+23,Varun Reddy,12-B,12.3,100.0,71.0,Medium,Bachelor,No,No,6.9,2,Pass
+17,Meera Sharma,11-C,25.5,81.4,89.5,Low,Bachelor,Yes,Yes,7.1,1,Pass
+17,Lakshmi Patel,10-A,16.0,77.4,65.4,Medium,High School,No,No,6.8,4,Pass
+13,Diya Sharma,11-B,8.4,95.0,75.3,Low,High School,Yes,No,8.3,1,Pass
+18,Karthik Rao,11-C,12.5,63.9,63.7,High,Bachelor,Yes,No,9.7,1,Fail
+18,Lakshmi Gupta,10-A,7.3,79.1,54.8,Low,High School,Yes,Yes,7.2,3,Fail
+8,Rahul Gupta,11-A,16.7,100.0,52.5,Low,Bachelor,No,No,7.0,2,Pass
+15,Karthik Singh,9-B,14.2,84.6,41.2,High,Bachelor,Yes,Yes,7.3,2,Pass
+22,Priya Iyer,10-C,12.6,57.2,80.0,Low,High School,No,No,6.2,2,Pass
+15,Rohan Singh,10-B,11.7,73.2,53.0,Low,Bachelor,Yes,No,7.9,0,Fail
+14,Kavya Verma,11-B,17.7,99.5,54.8,Medium,Bachelor,No,Yes,7.5,3,Pass
+15,Diya Menon,11-B,11.8,90.5,53.5,High,Bachelor,Yes,Yes,6.5,0,Pass
+15,Diya Shetty,12-A,6.6,67.9,59.1,Low,High School,Yes,Yes,8.1,2,Fail
+16,Siddharth Rao,10-B,15.1,73.8,90.7,Medium,No Formal,Yes,No,7.0,1,Pass
+22,Pranav Gupta,9-C,17.0,75.3,95.3,Medium,No Formal,No,Yes,5.8,2,Pass
+16,Aarthi Menon,9-B,17.7,90.3,46.7,High,Master+,Yes,No,7.4,2,Pass
+18,Rahul Das,12-C,10.0,98.1,61.0,Medium,Master+,Yes,No,7.3,0,Pass
+17,Rahul Krishnan,10-B,15.4,90.6,47.5,Low,Bachelor,Yes,No,8.2,0,Fail
+19,Kavya Menon,12-C,8.3,83.5,75.8,Low,High School,Yes,No,8.0,1,Pass
+18,Karthik Joshi,10-B,9.4,62.0,66.0,Low,Bachelor,Yes,Yes,6.9,2,Pass
+19,Kavya Krishnan,10-B,7.3,62.1,53.1,Low,Bachelor,Yes,Yes,6.4,2,Fail
+23,Aarthi Joshi,9-C,20.5,88.4,67.0,Medium,Bachelor,Yes,No,7.0,3,Pass
+16,Aditya Sharma,12-A,15.2,61.9,55.3,Low,High School,Yes,Yes,7.4,2,Pass
+20,Meera Sharma,10-B,17.0,79.3,88.6,Medium,Master+,Yes,No,7.6,2,Pass
+23,Varun Krishnan,10-C,20.2,85.6,73.7,Medium,High School,Yes,No,7.4,4,Pass
+19,Kavya Das,11-C,28.1,68.3,75.4,Medium,High School,No,Yes,6.9,4,Pass
+9,Ananya Verma,11-A,3.5,65.7,24.7,Low,Master+,Yes,No,8.2,0,Fail
+20,Aarav Kumar,11-C,12.3,84.9,69.1,High,High School,Yes,Yes,6.2,1,Pass
+17,Aarthi Joshi,9-B,10.9,88.0,95.2,Medium,High School,Yes,No,10.0,3,Pass
+24,Karthik Joshi,12-B,9.7,94.7,84.6,Medium,Bachelor,Yes,No,7.9,1,Pass
+13,Diya Shetty,9-A,6.6,85.3,36.1,Low,Master+,Yes,No,5.6,2,Fail
+14,Rahul Das,9-A,10.5,78.9,57.6,Low,High School,Yes,No,7.2,1,Fail
+18,Rohan Nair,9-B,9.9,77.0,53.2,High,Bachelor,Yes,Yes,7.9,4,Pass
+21,Aarthi Pillai,10-B,15.7,69.1,90.0,Medium,High School,Yes,No,6.6,0,Pass
+19,Siddharth Gupta,10-A,14.3,75.9,69.4,Medium,High School,No,Yes,5.2,2,Pass
+24,Neha Patel,9-C,16.4,86.9,55.3,Medium,High School,Yes,No,5.8,2,Pass
+16,Priya Iyer,11-B,16.5,86.0,66.5,Medium,Bachelor,Yes,Yes,7.7,3,Pass
+10,Priya Krishnan,11-A,19.0,60.8,33.5,High,High School,Yes,Yes,4.9,3,Fail
+20,Meera Nair,12-C,10.1,68.6,46.8,Low,High School,Yes,Yes,5.3,1,Fail
+15,Lakshmi Rao,9-A,26.6,100.0,70.5,High,Bachelor,Yes,Yes,7.6,2,Pass
+25,Aarav Gupta,9-C,13.2,79.0,73.8,Low,Bachelor,Yes,Yes,6.7,0,Pass
+26,Siddharth Verma,9-C,4.7,65.0,38.8,Medium,Bachelor,Yes,Yes,6.2,2,Fail
+24,Shreya Pillai,10-C,9.0,100.0,60.7,Medium,Bachelor,Yes,No,6.4,0,Pass
+21,Meera Kumar,11-C,3.3,77.7,76.1,Low,High School,Yes,No,5.2,1,Fail
+27,Vivaan Sharma,9-C,12.1,82.6,41.7,Low,High School,Yes,Yes,7.6,2,Fail
+20,Diya Patel,10-A,13.4,86.8,69.2,Medium,High School,Yes,No,6.0,3,Pass
+17,Shreya Kumar,11-B,13.7,81.6,70.9,High,Bachelor,Yes,Yes,6.4,1,Pass
+18,Karthik Shetty,11-B,24.1,73.3,90.0,Medium,High School,Yes,No,7.4,1,Pass
+19,Ishaan Rao,11-B,18.7,100.0,66.8,High,High School,No,Yes,6.7,1,Pass
+11,Vivaan Reddy,11-A,19.6,98.0,67.6,High,High School,Yes,No,6.2,1,Pass
+17,Priya Shetty,12-A,9.3,91.9,78.0,Medium,High School,Yes,Yes,4.6,2,Pass
+21,Nikhil Sharma,12-C,9.0,88.9,47.4,Medium,Master+,Yes,Yes,7.4,2,Pass
+22,Pranav Sharma,12-C,12.2,66.0,58.9,Low,Bachelor,Yes,No,7.1,6,Fail
+25,Ananya Menon,10-C,12.9,93.3,55.6,Low,High School,Yes,No,6.4,2,Pass
+22,Lakshmi Reddy,10-B,6.7,75.9,68.1,High,Bachelor,Yes,No,5.8,3,Fail
+23,Diya Nair,10-B,13.1,85.4,77.9,Medium,Bachelor,Yes,Yes,7.0,2,Pass
+26,Diya Verma,10-C,12.1,58.3,69.8,Low,High School,No,No,7.6,2,Fail
+22,Lakshmi Shetty,11-C,12.9,57.5,55.5,Medium,High School,Yes,No,7.1,1,Fail
+20,Aarav Joshi,11-B,9.9,85.8,67.9,Medium,Bachelor,Yes,Yes,9.0,3,Pass
+19,Ishaan Pillai,9-B,13.3,76.3,90.9,High,No Formal,Yes,Yes,7.8,1,Pass
+23,Divya Sharma,12-C,13.1,58.1,54.4,Medium,Bachelor,Yes,Yes,6.9,2,Fail
+28,Lakshmi Shetty,9-C,14.5,88.5,68.0,Medium,Bachelor,Yes,Yes,7.9,1,Pass
+21,Karthik Menon,10-A,17.0,100.0,63.3,Medium,Bachelor,Yes,Yes,7.1,1,Pass
+22,Ananya Reddy,10-A,19.4,98.7,65.1,Medium,Master+,No,Yes,7.1,1,Pass
+23,Arjun Kumar,10-A,12.5,78.9,43.2,Medium,Bachelor,No,No,8.6,0,Fail
+16,Aditya Singh,9-A,13.7,86.1,89.8,High,Bachelor,No,No,5.9,2,Pass
+23,Vivaan Sharma,11-C,16.2,92.7,55.2,Medium,High School,Yes,No,7.0,0,Pass
+20,Meera Kumar,9-B,15.1,91.5,76.4,Low,Bachelor,Yes,No,8.4,2,Pass
+12,Nikhil Patel,11-A,9.8,73.9,53.3,Low,Bachelor,Yes,Yes,7.4,1,Fail
+13,Diya Menon,11-A,18.0,82.4,57.2,Medium,Master+,Yes,No,6.6,0,Pass
+25,Arjun Sharma,12-B,20.9,89.6,87.0,High,Bachelor,Yes,No,5.0,3,Pass
+24,Ananya Gupta,12-C,18.5,84.6,75.9,Low,High School,Yes,No,4.3,0,Fail
+26,Divya Iyer,12-B,20.9,76.4,64.9,Low,Bachelor,Yes,Yes,9.5,2,Pass
+21,Aditya Gupta,9-B,9.7,80.6,76.7,Medium,Master+,Yes,No,7.4,1,Pass
+18,Varun Iyer,12-A,12.1,94.6,58.0,Low,Bachelor,Yes,No,6.3,3,Pass
+14,Aditya Rao,11-A,16.1,100.0,69.9,High,Bachelor,Yes,No,7.4,2,Pass
+29,Sneha Gupta,9-C,13.5,87.7,56.7,Medium,Bachelor,Yes,No,5.9,1,Pass
+25,Aditya Pillai,12-C,8.8,98.6,74.7,Low,Bachelor,Yes,No,6.6,1,Pass
+26,Pranav Sharma,12-C,8.6,81.4,60.3,High,High School,Yes,No,5.9,0,Fail
+24,Neha Singh,10-B,12.5,97.5,82.8,Low,No Formal,Yes,No,5.3,0,Pass
+19,Siddharth Shetty,12-A,8.2,84.5,57.6,Low,Bachelor,No,No,4.5,1,Fail
+21,Pooja Iyer,11-B,12.4,100.0,62.3,Low,Master+,Yes,No,5.1,1,Pass
+27,Shreya Singh,10-C,8.0,63.7,72.6,Low,Master+,Yes,Yes,8.2,2,Pass
+17,Rahul Menon,9-A,6.5,69.7,62.3,Low,High School,Yes,No,5.8,1,Fail
+24,Rohan Shetty,11-C,13.2,83.0,57.8,Low,No Formal,Yes,Yes,7.6,1,Pass
+27,Rahul Menon,12-C,12.8,82.8,61.6,Low,High School,Yes,Yes,8.1,0,Fail
+30,Vivaan Verma,9-C,14.9,100.0,74.5,Low,Bachelor,Yes,Yes,7.0,0,Pass
+22,Siddharth Pillai,9-B,24.9,74.0,56.7,Medium,Bachelor,Yes,No,6.6,5,Pass
+23,Pranav Singh,9-B,15.4,92.9,64.2,Medium,Master+,Yes,Yes,7.2,0,Pass
+28,Sneha Kumar,10-C,16.4,95.9,66.1,Medium,High School,Yes,Yes,6.5,2,Pass
+24,Ananya Gupta,10-A,8.6,90.5,78.1,Medium,Bachelor,Yes,Yes,8.4,0,Pass
+28,Karthik Nair,12-C,7.6,70.5,64.6,Medium,Bachelor,Yes,No,9.3,2,Fail
+27,Rohan Rao,12-B,23.9,100.0,95.3,High,High School,Yes,No,8.7,2,Pass
+22,Karthik Kumar,11-B,11.4,100.0,67.8,High,Master+,Yes,No,4.4,3,Pass
+24,Aarthi Pillai,9-B,6.8,85.2,58.7,Low,Bachelor,Yes,Yes,6.5,1,Fail
+18,Neha Joshi,9-A,11.8,80.5,59.6,Low,No Formal,Yes,Yes,7.0,0,Fail
+31,Ananya Krishnan,9-C,11.5,80.7,43.6,Low,No Formal,Yes,No,7.6,0,Fail
+29,Neha Iyer,12-C,7.5,77.1,47.5,Low,Master+,Yes,Yes,4.9,0,Fail
+25,Rohan Krishnan,9-B,12.5,89.7,58.6,Medium,Bachelor,Yes,No,4.9,6,Pass
+20,Varun Shetty,12-A,20.1,82.4,81.9,Medium,Bachelor,Yes,No,8.6,0,Pass
+25,Diya Shetty,11-C,8.0,67.8,61.5,Low,Bachelor,No,No,6.3,0,Fail
+29,Divya Das,10-C,7.0,69.4,59.2,Medium,High School,Yes,Yes,5.2,1,Fail
+30,Kavya Kumar,12-C,18.7,73.0,83.2,Medium,Bachelor,No,Yes,5.7,1,Pass
+19,Lakshmi Krishnan,9-A,14.5,80.7,83.7,Low,Master+,No,No,7.5,3,Pass
+25,Varun Gupta,10-A,12.9,85.7,87.6,High,High School,Yes,Yes,6.0,1,Pass
+25,Aarav Das,10-B,4.1,80.6,50.1,Low,Bachelor,Yes,No,7.3,2,Fail
+20,Rahul Iyer,9-A,12.3,92.0,63.1,High,High School,Yes,No,5.8,5,Pass
+28,Vivaan Nair,12-B,11.7,70.5,87.4,Low,High School,No,Yes,4.9,0,Fail
+23,Diya Kumar,11-B,21.8,100.0,73.4,High,High School,Yes,Yes,8.7,5,Pass
+26,Nikhil Singh,9-B,10.8,82.8,66.3,High,Master+,Yes,No,7.5,0,Pass
+32,Priya Rao,9-C,15.6,80.8,80.1,High,No Formal,Yes,Yes,6.6,2,Pass
+26,Ananya Krishnan,10-B,19.4,91.8,84.1,High,High School,No,No,6.4,2,Pass
+29,Rahul Sharma,12-B,2.1,60.0,58.0,Medium,Bachelor,Yes,No,8.8,3,Fail
+33,Pooja Reddy,9-C,19.2,72.5,69.1,Medium,High School,Yes,No,7.7,1,Pass
+24,Divya Patel,11-B,8.1,93.8,79.0,Medium,Bachelor,Yes,Yes,8.4,4,Pass
+34,Ishaan Nair,9-C,13.7,57.2,45.8,Low,Master+,Yes,Yes,6.3,1,Fail
+30,Arjun Rao,10-C,15.2,95.4,66.2,Medium,No Formal,No,No,7.1,0,Pass
+26,Ananya Das,11-C,19.4,100.0,50.4,Medium,High School,Yes,No,7.5,4,Pass
+27,Meera Verma,9-B,18.8,81.6,56.2,High,Master+,Yes,No,6.3,0,Pass
+27,Aarthi Iyer,10-B,2.1,85.5,58.1,Medium,High School,Yes,No,6.9,0,Fail
+28,Aditya Kumar,10-B,10.1,95.4,72.7,Medium,No Formal,Yes,No,6.3,2,Pass
+28,Shreya Joshi,9-B,14.7,76.4,61.5,Medium,Master+,Yes,Yes,7.5,2,Pass
+35,Lakshmi Kumar,9-C,11.0,88.4,52.9,Low,Master+,Yes,Yes,5.4,1,Fail
+36,Diya Das,9-C,14.4,69.9,62.7,Low,Bachelor,Yes,No,7.7,2,Pass
+25,Neha Gupta,11-B,17.9,76.3,49.9,Medium,Bachelor,Yes,Yes,7.4,0,Pass
+21,Aarav Shetty,9-A,17.0,72.4,72.0,Medium,Master+,No,No,6.8,2,Pass
+26,Neha Sharma,11-B,10.9,82.1,77.8,Low,Bachelor,Yes,Yes,7.5,2,Pass
+22,Nikhil Verma,9-A,4.8,95.9,64.9,Medium,Bachelor,Yes,Yes,6.6,0,Pass
+23,Neha Verma,9-A,11.7,79.8,63.2,Medium,Bachelor,Yes,Yes,6.2,2,Fail
+24,Shreya Sharma,9-A,16.1,66.7,71.2,Medium,Bachelor,Yes,No,7.7,3,Pass
+31,Arjun Menon,10-C,8.5,69.0,37.6,Medium,Bachelor,No,No,7.7,0,Fail
+27,Kavya Rao,11-C,17.2,86.7,73.5,Medium,High School,Yes,Yes,6.4,0,Pass
+26,Rahul Kumar,10-A,16.5,100.0,100.0,Low,Bachelor,Yes,Yes,6.3,3,Pass
+37,Kavya Verma,9-C,16.6,90.7,68.3,High,Bachelor,Yes,Yes,6.8,3,Pass
+25,Pooja Nair,9-A,0.7,81.4,68.3,High,High School,Yes,Yes,6.3,1,Fail
+27,Arjun Kumar,10-A,7.6,91.2,76.4,Medium,High School,Yes,No,8.8,0,Pass
+28,Lakshmi Sharma,10-A,23.4,79.1,89.0,Medium,Bachelor,Yes,Yes,7.4,1,Pass
+15,Aarthi Gupta,11-A,11.3,77.5,79.6,Medium,High School,Yes,Yes,7.0,0,Pass
+32,Meera Shetty,10-C,6.1,74.5,39.8,High,No Formal,No,Yes,5.9,2,Fail
+16,Kavya Gupta,11-A,20.2,98.9,73.9,Medium,High School,Yes,No,7.9,2,Pass
+29,Diya Pillai,10-B,16.1,55.5,100.0,High,High School,Yes,No,6.3,2,Pass
+27,Nikhil Reddy,11-B,19.5,91.6,74.7,Medium,Bachelor,Yes,No,6.2,2,Pass
+29,Aarav Das,9-B,15.4,76.4,49.8,Medium,High School,Yes,No,7.9,0,Fail
+21,Meera Rao,12-A,14.3,73.1,65.9,Low,High School,Yes,No,7.5,3,Pass
+30,Lakshmi Menon,12-B,15.8,100.0,48.1,Medium,Bachelor,No,No,4.0,0,Fail
+33,Rahul Gupta,10-C,15.5,69.4,79.3,Low,No Formal,No,No,6.8,2,Pass
+30,Nikhil Verma,9-B,25.4,73.8,52.6,Medium,High School,Yes,No,7.2,2,Pass
+38,Lakshmi Das,9-C,20.9,84.4,71.0,High,Bachelor,Yes,Yes,6.6,1,Pass
+31,Aarthi Pillai,12-B,4.1,83.0,50.0,Low,Bachelor,Yes,No,7.2,1,Fail
+39,Divya Rao,9-C,16.2,76.7,58.3,Medium,Bachelor,Yes,No,4.8,1,Fail
+26,Pooja Sharma,9-A,17.7,59.1,82.8,Low,Bachelor,Yes,No,3.6,3,Pass
+40,Meera Singh,9-C,20.0,71.6,67.4,Medium,Master+,Yes,Yes,5.8,1,Pass
+30,Aarav Pillai,10-B,9.9,93.4,54.2,Low,No Formal,Yes,Yes,7.3,3,Fail
+31,Aarav Das,12-C,21.8,86.9,54.0,High,Bachelor,No,No,3.1,1,Fail
+41,Priya Gupta,9-C,16.6,83.4,35.8,Low,Bachelor,Yes,Yes,6.0,0,Fail
+28,Kavya Kumar,11-C,28.9,82.9,52.5,High,High School,Yes,Yes,4.7,0,Pass
+17,Kavya Iyer,11-A,12.2,78.1,71.6,High,Master+,Yes,Yes,6.7,2,Pass
+32,Divya Reddy,12-B,11.5,100.0,79.7,Medium,High School,No,No,9.3,1,Pass
+29,Arjun Das,11-C,12.5,79.7,58.2,Medium,Master+,Yes,No,6.7,1,Pass
+32,Vivaan Verma,12-C,11.5,76.7,88.0,Medium,Bachelor,No,No,6.9,2,Pass
+28,Aarav Singh,11-B,11.5,99.2,60.0,High,Bachelor,No,No,8.0,2,Pass
+33,Shreya Pillai,12-B,0.0,69.3,58.7,Low,High School,Yes,No,7.0,3,Fail
+29,Meera Das,10-A,11.8,74.9,50.9,Medium,Master+,Yes,Yes,6.7,1,Fail
+31,Aarthi Nair,10-B,13.8,78.1,75.9,Low,Bachelor,Yes,Yes,8.1,1,Pass
+29,Siddharth Iyer,11-B,11.5,82.0,95.4,Medium,No Formal,Yes,Yes,7.6,2,Pass
+22,Karthik Iyer,12-A,21.7,81.1,37.3,Low,No Formal,Yes,No,7.3,2,Pass
+42,Meera Krishnan,9-C,14.1,100.0,61.2,Medium,Bachelor,Yes,Yes,6.8,3,Pass
+32,Sneha Sharma,10-B,20.5,86.0,83.7,Medium,High School,Yes,Yes,6.6,3,Pass
+23,Aarthi Singh,12-A,15.3,53.5,45.7,Medium,Bachelor,Yes,No,8.1,2,Fail
+43,Divya Rao,9-C,18.1,85.9,73.9,Medium,Bachelor,Yes,No,6.6,2,Pass
+34,Ananya Pillai,10-C,15.4,82.5,83.1,Medium,High School,Yes,Yes,8.5,1,Pass
+30,Aarthi Iyer,11-C,20.8,82.5,67.1,Medium,Bachelor,Yes,No,5.7,1,Pass
+44,Kavya Verma,9-C,14.3,85.0,73.7,Medium,High School,Yes,No,8.7,2,Pass
+34,Vivaan Patel,12-B,16.5,81.7,90.7,Medium,Master+,Yes,No,7.6,3,Pass
+33,Priya Krishnan,10-B,17.8,85.4,97.3,High,Master+,Yes,No,5.8,2,Pass
+35,Shreya Gupta,12-B,10.6,85.4,61.1,Low,High School,Yes,Yes,7.6,2,Pass
+35,Sneha Rao,10-C,14.0,71.5,54.5,Low,Bachelor,Yes,Yes,6.2,1,Fail
+36,Ananya Das,10-C,23.2,66.6,49.1,Low,Bachelor,Yes,Yes,7.0,1,Fail
+33,Sneha Singh,12-C,12.6,100.0,79.7,Medium,Master+,Yes,No,6.4,1,Pass
+34,Ishaan Nair,12-C,16.1,73.4,46.8,Medium,High School,No,No,6.8,2,Fail
+18,Neha Das,11-A,20.3,83.2,62.5,Medium,Bachelor,Yes,No,8.1,0,Fail
+34,Kavya Gupta,10-B,19.7,64.1,67.4,Medium,Master+,Yes,No,7.6,1,Pass
+36,Sneha Gupta,12-B,14.1,83.4,59.0,Medium,High School,Yes,Yes,5.6,1,Pass
+30,Pranav Das,11-B,4.1,74.8,73.9,High,Bachelor,Yes,Yes,5.7,1,Pass
+35,Rahul Pillai,12-C,16.6,76.7,100.0,Medium,High School,No,Yes,7.3,3,Pass
+35,Priya Patel,10-B,0.9,90.5,60.3,Low,Bachelor,No,Yes,7.4,1,Fail
+45,Pooja Patel,9-C,21.3,87.7,59.9,Medium,High School,Yes,No,6.2,1,Pass
+46,Meera Kumar,9-C,14.8,88.8,80.2,Medium,Master+,Yes,No,8.9,3,Pass
+31,Rohan Gupta,11-B,17.0,56.7,65.4,Low,High School,Yes,Yes,8.0,5,Pass
+30,Shreya Kumar,10-A,7.5,100.0,82.2,Low,High School,No,No,6.2,1,Fail
+36,Aditya Reddy,12-C,8.2,71.7,72.3,High,Bachelor,Yes,Yes,6.1,2,Pass
+37,Diya Joshi,12-C,15.3,100.0,62.5,Medium,Bachelor,No,No,6.7,1,Pass
+31,Lakshmi Iyer,9-B,13.8,94.3,41.0,Medium,Bachelor,Yes,Yes,6.6,0,Pass
+24,Ishaan Nair,12-A,11.5,88.9,43.3,Medium,Bachelor,Yes,No,8.5,2,Pass
+32,Sneha Shetty,11-B,14.4,71.7,40.3,Medium,High School,Yes,Yes,8.2,1,Fail
+37,Pooja Das,10-C,29.8,87.8,75.3,High,Bachelor,Yes,Yes,7.0,1,Pass
+32,Siddharth Joshi,9-B,18.2,76.3,46.9,Medium,No Formal,Yes,No,7.8,2,Pass
+33,Nikhil Patel,9-B,19.2,82.3,83.6,Medium,High School,Yes,Yes,8.0,2,Pass
+36,Priya Gupta,10-B,18.2,79.0,66.4,Medium,Master+,Yes,No,7.1,0,Pass
+47,Karthik Krishnan,9-C,23.4,61.5,66.6,High,Bachelor,Yes,Yes,7.5,2,Pass
+34,Ishaan Kumar,9-B,13.0,95.5,54.2,Medium,High School,Yes,No,7.7,1,Fail
+38,Karthik Reddy,12-C,5.7,85.0,78.7,High,High School,Yes,Yes,7.6,0,Pass
+38,Nikhil Nair,10-C,11.1,72.2,50.7,Low,Master+,Yes,No,6.1,2,Fail
+31,Neha Krishnan,11-C,20.1,79.3,56.2,High,High School,Yes,No,6.2,1,Pass
+39,Pooja Kumar,10-C,9.2,86.3,82.6,Medium,High School,No,No,6.7,2,Pass
+32,Aarthi Menon,11-C,11.1,67.3,67.0,Low,High School,No,Yes,6.2,3,Pass
+40,Rahul Singh,10-C,10.5,54.9,62.7,Medium,No Formal,Yes,No,5.2,1,Fail
+27,Arjun Verma,9-A,21.5,86.9,75.0,Medium,High School,Yes,Yes,7.8,0,Pass
+33,Arjun Kumar,11-B,15.7,84.2,62.1,Low,Master+,Yes,No,7.4,2,Pass
+28,Karthik Singh,9-A,17.3,79.6,71.4,Medium,High School,Yes,Yes,5.4,4,Pass
+33,Aarthi Verma,11-C,19.1,72.2,58.6,High,Bachelor,No,No,6.7,1,Pass
+25,Nikhil Iyer,12-A,11.8,79.1,91.0,Low,Bachelor,Yes,No,6.8,1,Pass
+34,Aarav Gupta,11-C,15.0,64.4,57.9,Medium,Bachelor,Yes,Yes,7.2,1,Pass
+35,Shreya Reddy,11-C,8.1,69.7,87.8,Medium,Bachelor,Yes,Yes,5.7,2,Fail
+26,Shreya Kumar,12-A,3.1,73.0,63.4,Medium,Bachelor,Yes,Yes,5.4,1,Fail
+48,Varun Reddy,9-C,16.8,96.1,81.3,High,Bachelor,No,No,7.6,1,Pass
+37,Varun Patel,12-B,15.6,77.6,76.3,Medium,Bachelor,Yes,Yes,5.2,1,Pass
+29,Rahul Iyer,9-A,18.0,72.6,78.1,Low,Bachelor,No,No,6.7,2,Pass
+49,Arjun Joshi,9-C,23.9,100.0,58.2,High,Bachelor,Yes,No,6.6,4,Pass
+50,Vivaan Menon,9-C,23.8,90.2,85.1,High,Bachelor,Yes,No,6.9,2,Pass
+36,Neha Rao,11-C,7.0,82.1,87.9,Low,High School,No,Yes,7.3,0,Pass
+30,Pooja Das,9-A,14.2,81.6,66.4,High,Bachelor,Yes,Yes,8.9,1,Pass
+37,Pooja Verma,10-B,14.4,70.8,62.5,Low,Bachelor,Yes,Yes,5.1,0,Pass
+35,Aditya Kumar,9-B,28.7,59.8,62.7,High,High School,No,No,8.1,2,Pass
+36,Siddharth Reddy,9-B,21.4,93.6,61.1,Medium,Master+,No,Yes,4.0,0,Fail
+34,Aditya Reddy,11-B,19.6,87.4,90.0,Medium,High School,Yes,Yes,8.7,0,Pass
+37,Neha Shetty,9-B,10.1,75.9,47.9,Low,High School,Yes,Yes,4.5,2,Fail
+41,Kavya Shetty,10-C,11.6,84.4,56.8,High,Master+,No,No,9.9,2,Fail
+31,Pranav Menon,9-A,15.9,86.8,84.6,Low,High School,Yes,No,6.5,2,Pass
+31,Varun Nair,10-A,6.5,59.3,70.7,Low,High School,Yes,Yes,8.5,1,Fail
+27,Arjun Singh,12-A,10.8,70.9,91.7,Low,High School,Yes,Yes,8.3,2,Pass
+37,Rahul Pillai,11-C,13.4,68.4,59.7,Medium,Master+,Yes,Yes,6.5,0,Pass
+51,Meera Patel,9-C,20.0,99.3,63.8,Low,High School,No,Yes,6.6,3,Pass
+42,Aditya Reddy,10-C,14.2,96.5,60.8,High,Bachelor,Yes,No,6.0,1,Pass
+19,Ananya Patel,11-A,1.8,55.6,68.0,Medium,Bachelor,No,No,7.9,1,Fail
+38,Aarav Das,10-B,14.5,59.8,37.2,Low,Bachelor,Yes,No,6.5,1,Fail
+39,Neha Verma,10-B,8.5,76.4,71.6,Low,Master+,Yes,No,6.0,1,Pass
+28,Aditya Iyer,12-A,12.2,72.3,66.5,Low,Bachelor,Yes,No,7.6,2,Pass
+38,Ananya Krishnan,12-B,13.6,66.1,65.2,Medium,High School,Yes,Yes,5.9,1,Pass
+52,Sneha Menon,9-C,14.6,100.0,64.5,High,Master+,No,No,6.6,0,Pass
+38,Neha Pillai,11-C,16.0,81.8,49.5,Low,Bachelor,Yes,Yes,7.1,2,Pass
+39,Shreya Shetty,12-C,8.3,91.7,80.2,High,No Formal,Yes,Yes,6.2,1,Pass
+29,Shreya Singh,12-A,9.4,69.7,45.6,Low,High School,Yes,No,6.4,2,Fail
+40,Pranav Sharma,10-B,19.4,94.7,77.2,High,Bachelor,Yes,Yes,8.8,2,Pass
+35,Lakshmi Kumar,11-B,12.9,81.4,99.0,High,High School,Yes,No,6.8,1,Pass
+32,Aarav Joshi,9-A,6.0,78.6,86.8,Medium,Bachelor,Yes,Yes,6.6,0,Pass
+41,Ananya Singh,10-B,17.3,89.3,44.9,Medium,High School,Yes,Yes,6.8,2,Pass
+38,Divya Patel,9-B,21.6,66.5,62.5,High,Bachelor,Yes,No,7.5,1,Pass
+20,Pooja Gupta,11-A,11.8,97.2,67.9,Low,No Formal,Yes,No,5.8,1,Pass
+36,Sneha Kumar,11-B,2.2,80.2,61.0,Low,Bachelor,Yes,No,7.5,2,Fail
+42,Divya Iyer,10-B,15.5,93.4,42.4,Low,High School,Yes,Yes,7.3,4,Pass
+32,Kavya Shetty,10-A,5.7,69.1,71.4,Medium,High School,Yes,Yes,4.9,1,Pass
+39,Aditya Rao,9-B,15.5,70.9,65.9,Medium,High School,No,No,9.2,0,Pass
+40,Aarthi Kumar,12-C,9.6,68.1,92.8,Medium,High School,Yes,No,8.8,4,Pass
+30,Aarav Rao,12-A,10.2,89.0,66.5,High,Bachelor,Yes,No,6.0,2,Pass
+40,Diya Krishnan,9-B,9.8,78.8,78.4,Low,Bachelor,Yes,No,5.7,2,Pass
+33,Pooja Nair,10-A,13.1,76.4,48.3,Medium,No Formal,No,No,7.3,1,Fail
+39,Rahul Nair,11-C,8.8,65.8,47.6,Low,Master+,Yes,No,5.3,2,Fail
+43,Varun Patel,10-C,14.9,62.8,72.1,Low,High School,Yes,Yes,8.6,0,Fail
+41,Varun Sharma,9-B,11.8,81.4,81.2,Medium,No Formal,No,No,6.4,1,Pass
+53,Sneha Reddy,9-C,20.9,80.4,56.6,High,Bachelor,Yes,No,8.9,0,Pass
+42,Sneha Sharma,9-B,15.4,73.8,66.3,Medium,Bachelor,Yes,No,6.0,1,Fail
+41,Arjun Nair,12-C,8.5,96.6,42.7,Low,Bachelor,Yes,Yes,6.9,4,Fail
+40,Lakshmi Pillai,11-C,9.7,81.0,63.5,Medium,High School,Yes,No,8.5,1,Pass
+43,Sneha Iyer,10-B,3.8,93.2,73.7,Low,High School,No,Yes,6.6,1,Pass
+43,Rahul Rao,9-B,17.5,79.6,63.9,High,Bachelor,Yes,No,7.3,0,Pass
+42,Shreya Das,12-C,12.2,84.9,62.5,Medium,No Formal,Yes,No,8.3,1,Pass
+34,Aarav Sharma,10-A,0.1,77.3,46.2,Low,High School,No,No,6.3,1,Fail
+35,Pranav Iyer,10-A,9.3,57.6,52.9,Low,Master+,Yes,Yes,5.5,0,Fail
+37,Nikhil Verma,11-B,7.5,95.1,86.6,Low,Bachelor,Yes,Yes,5.2,1,Pass
+33,Rohan Gupta,9-A,23.9,84.4,71.0,High,High School,Yes,No,7.7,1,Pass
+38,Diya Pillai,11-B,5.5,91.0,52.0,Medium,High School,Yes,No,7.5,3,Pass
+44,Sneha Singh,10-C,6.8,73.0,61.6,Medium,Bachelor,No,No,8.3,3,Fail
+41,Rahul Verma,11-C,19.5,80.0,43.6,Medium,High School,No,Yes,6.7,0,Fail
+42,Rahul Nair,11-C,20.8,71.6,51.8,Medium,High School,Yes,No,5.3,0,Pass
+54,Aditya Reddy,9-C,8.3,92.8,81.0,Low,High School,Yes,No,4.2,1,Pass
+21,Pranav Shetty,11-A,12.8,89.7,68.0,High,Bachelor,Yes,Yes,10.4,1,Pass
+55,Arjun Sharma,9-C,17.1,86.4,92.5,Medium,Bachelor,No,Yes,7.6,1,Pass
+39,Priya Singh,11-B,2.4,98.3,64.7,Medium,No Formal,Yes,No,7.2,1,Fail
+45,Sneha Sharma,10-C,4.7,95.9,65.5,Medium,High School,Yes,Yes,7.3,2,Pass
+22,Rohan Patel,11-A,12.6,91.2,75.0,Medium,Bachelor,Yes,No,5.3,4,Pass
+34,Lakshmi Pillai,9-A,23.7,68.9,32.6,High,Bachelor,Yes,No,6.0,4,Pass
+46,Pooja Singh,10-C,9.8,69.7,64.9,Low,Bachelor,Yes,No,9.1,0,Fail
+36,Nikhil Singh,10-A,14.5,70.0,65.3,Medium,High School,No,Yes,7.8,4,Pass
+44,Nikhil Nair,10-B,19.7,90.7,86.8,Medium,Bachelor,Yes,No,6.1,1,Pass
+37,Sneha Kumar,10-A,24.5,84.0,79.5,Medium,Master+,Yes,No,5.5,0,Pass
+35,Rahul Das,9-A,9.1,61.3,46.1,Low,Bachelor,Yes,No,6.4,2,Fail
+47,Vivaan Sharma,10-C,11.9,75.7,79.4,Low,High School,No,No,6.6,2,Fail
+56,Pranav Gupta,9-C,21.1,60.1,58.3,Low,Bachelor,Yes,No,9.5,3,Fail
+23,Ishaan Singh,11-A,6.4,81.4,53.3,Medium,High School,Yes,No,6.8,1,Fail
+57,Rahul Patel,9-C,19.1,62.1,68.8,Medium,No Formal,Yes,No,5.6,1,Pass
+36,Nikhil Patel,9-A,8.9,88.3,63.2,Medium,High School,Yes,No,6.9,4,Pass
+38,Aarthi Joshi,10-A,14.5,86.5,87.5,Medium,Master+,Yes,Yes,7.3,1,Pass
+48,Lakshmi Rao,10-C,12.8,100.0,70.8,Medium,High School,No,Yes,5.5,1,Pass
+31,Rahul Reddy,12-A,9.2,92.2,68.9,Medium,Master+,Yes,No,7.5,1,Pass
+39,Pooja Verma,10-A,7.1,72.9,74.6,Low,Bachelor,Yes,Yes,8.5,2,Fail
+40,Vivaan Nair,10-A,15.4,91.8,81.3,Medium,Bachelor,Yes,No,7.2,1,Pass
+37,Karthik Joshi,9-A,19.0,65.2,77.0,Medium,No Formal,No,No,6.0,3,Pass
+32,Karthik Sharma,12-A,11.4,66.5,81.9,Low,Bachelor,Yes,Yes,6.4,1,Pass
+39,Pranav Patel,12-B,14.4,86.0,74.5,Medium,High School,Yes,Yes,5.0,0,Pass
+38,Nikhil Singh,9-A,16.9,56.1,68.3,Medium,High School,Yes,No,6.8,0,Pass
+41,Karthik Sharma,10-A,7.1,77.6,79.3,Low,High School,No,Yes,7.4,0,Pass
+58,Aditya Das,9-C,17.7,69.8,64.7,Medium,High School,No,No,5.9,1,Fail
+39,Meera Kumar,9-A,18.1,83.2,66.5,Medium,Bachelor,Yes,No,9.3,2,Pass
+44,Neha Singh,9-B,27.0,69.1,90.1,Medium,No Formal,Yes,No,8.0,0,Pass
+33,Pooja Joshi,12-A,12.1,87.1,88.7,Medium,High School,Yes,No,4.8,1,Pass
+45,Siddharth Gupta,10-B,11.7,82.2,65.9,Medium,Master+,No,No,4.9,1,Pass
+46,Kavya Menon,10-B,17.8,98.8,59.7,Medium,No Formal,Yes,Yes,5.8,3,Pass
+45,Meera Patel,9-B,18.1,82.1,86.5,Medium,High School,No,Yes,8.9,1,Pass
+59,Aditya Sharma,9-C,11.3,72.8,77.2,Medium,High School,Yes,Yes,8.1,1,Pass
+24,Ananya Krishnan,11-A,12.0,79.0,70.4,Medium,High School,Yes,No,8.9,0,Fail
+40,Karthik Gupta,12-B,16.7,65.9,61.5,Medium,Bachelor,Yes,Yes,7.0,1,Pass
+40,Arjun Pillai,11-B,9.9,86.9,70.6,Medium,High School,No,Yes,6.7,2,Pass
+43,Rohan Menon,11-C,11.9,89.1,65.7,Medium,High School,Yes,Yes,5.5,2,Fail
+47,Pooja Patel,10-B,14.4,100.0,56.7,Medium,Bachelor,Yes,Yes,7.4,1,Pass
+43,Neha Sharma,12-C,21.0,78.5,71.8,High,High School,Yes,Yes,6.8,1,Pass
+44,Aditya Nair,12-C,13.0,82.8,73.7,High,Master+,Yes,No,6.7,2,Pass
+45,Karthik Rao,12-C,4.8,75.1,60.7,Medium,Master+,No,Yes,8.9,2,Fail
+41,Varun Iyer,11-B,4.4,84.5,78.7,Medium,High School,Yes,No,6.8,2,Pass
+44,Pranav Sharma,11-C,7.7,86.6,84.0,Medium,High School,Yes,Yes,8.6,2,Pass
+40,Lakshmi Singh,9-A,7.4,81.4,79.6,Medium,High School,Yes,No,5.1,3,Pass
+46,Vivaan Menon,9-B,15.2,99.0,66.1,High,High School,Yes,Yes,10.2,1,Fail
+60,Karthik Rao,9-C,8.1,74.6,76.6,Medium,High School,Yes,No,6.6,0,Pass
+42,Rahul Joshi,10-A,8.5,89.8,63.1,Low,Bachelor,Yes,No,7.8,2,Pass
+45,Vivaan Gupta,11-C,8.1,84.5,44.7,Low,High School,Yes,Yes,8.0,1,Pass
+41,Pooja Sharma,9-A,13.8,85.9,79.4,High,High School,Yes,No,6.4,4,Pass
+46,Varun Joshi,12-C,18.6,74.2,64.0,Low,High School,Yes,Yes,8.0,0,Fail
+25,Rahul Menon,11-A,15.3,100.0,98.3,Low,Master+,No,No,8.0,1,Pass
+46,Aarthi Singh,11-C,14.1,72.2,86.4,Medium,Master+,Yes,No,6.1,2,Pass
+47,Divya Krishnan,12-C,9.7,81.6,72.0,Low,No Formal,Yes,Yes,6.2,1,Pass
+47,Pranav Reddy,11-C,11.8,73.0,69.5,Medium,Bachelor,Yes,Yes,7.1,1,Pass
+47,Ananya Gupta,9-B,15.6,100.0,68.3,Medium,High School,Yes,Yes,6.9,1,Pass
+48,Divya Kumar,12-C,14.9,88.6,47.9,Low,Bachelor,Yes,No,8.7,2,Pass
+34,Neha Sharma,12-A,11.5,77.9,45.7,High,Bachelor,Yes,Yes,7.8,1,Pass
+42,Sneha Rao,9-A,16.2,92.2,57.8,High,Master+,Yes,No,6.9,1,Pass
+26,Aarthi Kumar,11-A,3.8,85.1,65.3,Medium,No Formal,Yes,Yes,7.7,1,Fail
+49,Neha Sharma,10-C,13.1,71.8,32.5,Low,High School,Yes,No,4.5,1,Fail
+61,Pooja Menon,9-C,17.8,91.1,58.4,Medium,Master+,Yes,Yes,6.3,1,Pass
+50,Priya Kumar,10-C,10.6,82.7,58.5,Low,High School,Yes,No,7.3,2,Fail
+41,Nikhil Rao,12-B,23.1,84.6,63.0,Medium,High School,No,Yes,8.3,2,Pass
+43,Siddharth Sharma,10-A,11.6,85.5,60.7,High,Bachelor,Yes,Yes,7.2,4,Pass
+27,Nikhil Rao,11-A,17.1,91.2,65.2,High,Bachelor,Yes,Yes,8.7,2,Pass
+42,Lakshmi Menon,12-B,13.8,84.8,90.1,Medium,Bachelor,Yes,No,8.0,0,Pass
+51,Sneha Menon,10-C,13.5,82.7,75.3,Medium,Bachelor,Yes,Yes,6.4,1,Pass
+49,Ananya Das,12-C,13.4,74.3,58.2,Medium,Bachelor,Yes,No,6.8,2,Pass
+52,Aarthi Verma,10-C,14.5,100.0,65.0,Medium,High School,Yes,No,7.5,3,Pass
+50,Diya Sharma,12-C,18.2,69.4,65.6,Medium,Bachelor,No,Yes,6.5,1,Pass
+48,Kavya Rao,9-B,20.9,87.1,55.2,Medium,Bachelor,No,Yes,8.8,1,Pass
+35,Aditya Shetty,12-A,12.0,74.2,51.2,Low,Master+,No,Yes,5.7,0,Fail
+49,Meera Pillai,9-B,16.1,99.1,76.1,Low,High School,Yes,Yes,7.4,2,Pass
+36,Meera Verma,12-A,10.5,71.2,60.1,Medium,High School,Yes,No,7.9,1,Fail
+48,Aarthi Das,11-C,15.8,69.2,46.7,Low,Bachelor,No,No,6.6,1,Fail
+28,Divya Das,11-A,8.2,66.4,61.4,Low,High School,No,Yes,6.4,0,Fail
+43,Aarthi Reddy,12-B,21.5,89.9,71.7,High,No Formal,Yes,Yes,6.9,0,Pass
+29,Nikhil Kumar,11-A,27.1,69.5,42.4,High,Bachelor,No,No,8.0,2,Pass
+49,Varun Gupta,11-C,13.4,76.3,65.4,Medium,Bachelor,No,Yes,6.4,1,Pass
+44,Priya Singh,12-B,5.0,60.2,82.2,High,High School,Yes,No,5.7,4,Pass
+51,Aarthi Joshi,12-C,13.3,88.9,76.3,High,No Formal,Yes,No,8.4,1,Pass
+50,Rohan Verma,9-B,18.2,72.0,93.2,Low,No Formal,Yes,Yes,7.5,0,Pass
+45,Divya Iyer,12-B,16.8,64.1,83.5,Medium,Bachelor,Yes,No,8.2,2,Pass
+42,Kavya Rao,11-B,15.2,95.0,86.3,Medium,High School,Yes,No,7.9,3,Pass
+62,Nikhil Shetty,9-C,17.0,62.3,100.0,Low,High School,Yes,No,9.6,1,Pass
+37,Rahul Shetty,12-A,16.4,91.6,76.6,Medium,High School,Yes,No,8.3,2,Pass
+52,Meera Shetty,12-C,20.1,73.6,68.3,Medium,High School,No,No,6.1,2,Pass
+46,Lakshmi Gupta,12-B,18.6,100.0,79.6,Medium,High School,No,No,7.6,0,Pass
+38,Rohan Verma,12-A,19.6,87.0,54.2,Low,High School,Yes,No,6.3,2,Pass
+53,Meera Patel,10-C,13.8,65.9,63.5,Low,Bachelor,Yes,No,6.5,1,Pass
+44,Rahul Reddy,10-A,20.5,75.0,60.9,High,High School,Yes,No,5.3,2,Pass
+48,Siddharth Nair,10-B,10.5,85.3,67.6,Low,High School,Yes,No,6.7,2,Pass
+54,Varun Rao,10-C,9.0,74.9,52.9,Low,High School,Yes,Yes,7.7,0,Fail
+51,Meera Joshi,9-B,20.5,76.0,52.4,Low,High School,Yes,No,6.9,1,Pass
+30,Shreya Menon,11-A,15.1,97.3,71.8,Medium,High School,No,Yes,5.7,2,Pass
+39,Vivaan Gupta,12-A,18.0,73.0,64.1,Medium,No Formal,Yes,Yes,5.2,0,Fail
+53,Neha Patel,12-C,14.6,83.1,39.0,Medium,No Formal,Yes,Yes,9.5,0,Fail
+43,Aditya Das,11-B,9.1,89.5,41.6,Low,High School,Yes,Yes,7.4,0,Fail
+47,Kavya Nair,12-B,12.1,87.7,45.9,Low,Bachelor,No,No,6.0,2,Fail
+52,Aarav Singh,9-B,23.2,84.1,57.6,High,High School,Yes,Yes,7.6,2,Pass
+45,Arjun Nair,10-A,16.8,78.5,71.8,Medium,Bachelor,Yes,No,9.6,1,Pass
+54,Siddharth Menon,12-C,5.4,61.1,69.1,Medium,Bachelor,Yes,No,7.7,1,Fail
+40,Pooja Rao,12-A,12.9,69.3,80.9,Medium,No Formal,Yes,Yes,3.7,2,Pass
+55,Ishaan Gupta,12-C,22.9,85.8,76.5,Medium,No Formal,Yes,Yes,10.2,1,Pass
+55,Nikhil Singh,10-C,10.9,76.3,77.0,Low,High School,Yes,No,4.8,0,Fail
+43,Arjun Verma,9-A,5.0,82.9,74.5,Medium,No Formal,Yes,No,6.8,0,Fail
+41,Siddharth Krishnan,12-A,23.5,94.5,68.9,Medium,Bachelor,Yes,Yes,5.6,4,Pass
+49,Meera Kumar,10-B,17.4,67.8,81.4,Medium,No Formal,Yes,Yes,6.1,5,Pass
+31,Diya Reddy,11-A,15.6,83.2,82.9,High,Bachelor,Yes,Yes,7.3,3,Pass
+63,Kavya Reddy,9-C,12.1,84.3,71.3,Medium,High School,Yes,Yes,4.5,0,Pass
+48,Meera Iyer,12-B,19.4,73.6,83.8,Medium,Bachelor,Yes,Yes,6.9,6,Pass
+56,Arjun Iyer,10-C,13.3,100.0,37.2,High,Bachelor,Yes,No,8.4,0,Fail
+42,Aditya Krishnan,12-A,19.7,92.9,61.9,Medium,Bachelor,No,Yes,6.0,1,Pass
+32,Neha Krishnan,11-A,18.7,89.5,65.7,High,Master+,No,Yes,5.3,2,Pass
+50,Lakshmi Iyer,10-B,15.2,100.0,82.1,Medium,Master+,Yes,No,6.8,1,Pass
+57,Divya Joshi,10-C,16.7,68.0,92.0,High,High School,Yes,No,6.6,1,Pass
+56,Karthik Shetty,12-C,13.1,81.9,45.7,Medium,High School,Yes,Yes,6.3,2,Fail
+50,Shreya Rao,11-C,19.2,86.4,85.8,Medium,High School,No,No,5.6,1,Pass
+51,Kavya Shetty,11-C,9.7,71.0,49.6,Medium,High School,Yes,No,7.6,1,Fail
+33,Rahul Verma,11-A,3.9,81.6,46.0,Low,Bachelor,Yes,Yes,7.7,0,Fail
+53,Siddharth Verma,9-B,17.1,68.7,62.7,Medium,High School,Yes,Yes,5.7,1,Fail
+64,Karthik Das,9-C,19.2,94.3,65.5,High,High School,No,No,5.9,1,Pass
+54,Priya Patel,9-B,16.4,94.7,44.2,Medium,Bachelor,Yes,No,7.2,2,Pass
+58,Ananya Iyer,10-C,14.0,81.3,71.1,Low,High School,Yes,No,5.8,2,Fail
+52,Aarthi Verma,11-C,12.4,59.8,75.5,Medium,Bachelor,Yes,Yes,7.2,1,Fail
+59,Kavya Kumar,10-C,15.9,66.4,76.8,Low,High School,Yes,No,8.8,2,Pass
+65,Aarthi Menon,9-C,11.8,84.8,55.9,Low,Bachelor,Yes,Yes,6.9,3,Fail
+51,Neha Kumar,10-B,13.6,86.3,69.4,High,Bachelor,Yes,No,5.5,3,Pass
+66,Priya Menon,9-C,12.4,49.7,65.6,Medium,No Formal,No,No,7.5,1,Fail
+46,Varun Reddy,10-A,24.1,96.9,89.6,Medium,Bachelor,Yes,Yes,6.8,2,Pass
+34,Kavya Joshi,11-A,5.3,83.6,26.3,Medium,High School,Yes,Yes,6.8,0,Fail
+52,Pranav Singh,10-B,14.5,68.2,48.6,Low,Bachelor,No,No,7.6,4,Pass
+44,Siddharth Rao,9-A,3.6,89.9,62.1,Low,Bachelor,Yes,No,7.8,3,Fail
+67,Neha Patel,9-C,13.5,73.9,50.8,Medium,High School,Yes,Yes,7.0,1,Fail
+47,Rohan Gupta,10-A,11.8,73.7,62.4,Medium,Bachelor,Yes,No,6.9,0,Pass
+55,Diya Joshi,9-B,5.6,90.3,68.2,High,Master+,No,Yes,9.5,2,Pass
+43,Aarav Krishnan,12-A,15.9,100.0,56.8,Medium,Bachelor,Yes,Yes,8.4,0,Pass
+56,Aarthi Shetty,9-B,12.1,100.0,66.9,Medium,Bachelor,Yes,Yes,8.0,5,Pass
+45,Nikhil Menon,9-A,3.5,86.3,74.8,Medium,Bachelor,Yes,No,7.2,2,Pass
+53,Pranav Shetty,11-C,20.2,91.5,66.7,High,High School,Yes,Yes,5.8,1,Pass
+54,Vivaan Singh,11-C,21.2,91.5,59.7,Medium,Bachelor,Yes,No,8.4,2,Pass
+55,Rahul Pillai,11-C,23.5,70.9,67.7,High,Bachelor,Yes,Yes,7.2,1,Pass
+46,Shreya Pillai,9-A,15.8,89.7,65.9,Medium,High School,Yes,No,6.3,1,Pass
+35,Vivaan Rao,11-A,16.2,77.2,45.6,High,High School,Yes,No,6.7,0,Pass
+44,Aarav Menon,12-A,18.6,81.8,68.5,Low,High School,No,Yes,5.8,3,Pass
+44,Rohan Das,11-B,22.4,79.3,59.7,Medium,High School,Yes,Yes,8.3,0,Pass
+60,Priya Kumar,10-C,19.7,88.0,83.7,Medium,High School,No,Yes,7.8,1,Pass
+61,Ishaan Das,10-C,9.3,83.4,74.3,Medium,High School,No,Yes,7.2,2,Pass
+57,Meera Patel,12-C,15.0,45.1,82.4,Medium,Bachelor,Yes,No,6.9,2,Pass
+68,Rahul Gupta,9-C,18.2,88.1,55.8,High,High School,Yes,No,6.2,0,Pass
+36,Divya Shetty,11-A,7.0,93.7,64.8,High,High School,Yes,Yes,4.4,1,Pass
+53,Divya Sharma,10-B,14.3,83.4,44.6,Low,Bachelor,No,No,5.3,4,Pass
+45,Shreya Iyer,12-A,25.4,80.8,56.1,Medium,High School,Yes,No,6.1,1,Pass
+47,Aarav Singh,9-A,17.2,100.0,83.5,Medium,High School,Yes,Yes,5.9,1,Pass
+56,Ananya Reddy,11-C,21.4,85.7,86.8,Medium,Bachelor,Yes,Yes,7.3,2,Pass
+54,Karthik Iyer,10-B,12.9,83.3,45.9,Low,Master+,Yes,Yes,8.0,3,Fail
+62,Ananya Das,10-C,11.6,90.5,55.6,Low,Bachelor,No,No,6.8,0,Fail
+63,Aarthi Sharma,10-C,15.9,86.4,64.9,Medium,No Formal,Yes,Yes,8.7,3,Pass
+57,Rohan Gupta,9-B,9.9,71.2,74.2,Medium,High School,Yes,No,6.1,0,Fail
+46,Pooja Sharma,12-A,11.2,56.7,45.4,High,Master+,Yes,Yes,6.8,1,Fail
+45,Pranav Reddy,11-B,20.3,76.3,43.6,Medium,Bachelor,Yes,No,6.9,1,Pass
+46,Diya Rao,11-B,22.9,95.1,76.9,High,Bachelor,Yes,Yes,8.3,2,Pass
+57,Rohan Verma,11-C,9.0,77.8,38.7,Medium,Bachelor,Yes,No,7.1,1,Fail
+47,Divya Singh,11-B,18.8,91.6,59.7,Medium,High School,Yes,Yes,7.2,1,Pass
+58,Divya Kumar,11-C,11.6,79.8,64.3,Low,High School,No,Yes,5.0,1,Fail
+48,Neha Rao,10-A,15.7,97.5,71.8,Medium,Bachelor,Yes,Yes,5.9,0,Pass
+48,Nikhil Gupta,9-A,18.3,82.5,68.0,High,Master+,Yes,No,8.3,1,Pass
+69,Sneha Gupta,9-C,21.0,91.6,64.9,High,High School,Yes,No,4.5,3,Pass
+48,Pooja Kumar,11-B,16.4,92.1,81.8,High,Bachelor,Yes,Yes,8.6,0,Pass
+70,Aarthi Iyer,9-C,19.1,96.0,66.0,Low,High School,Yes,No,7.6,1,Pass
+64,Karthik Menon,10-C,15.5,61.5,56.9,Medium,Master+,Yes,No,6.1,1,Fail
+37,Priya Pillai,11-A,15.1,72.5,62.5,Low,High School,Yes,No,6.0,1,Pass
+59,Arjun Shetty,11-C,7.8,88.2,67.4,Low,Bachelor,No,No,9.3,1,Pass
+49,Sneha Gupta,9-A,24.8,100.0,90.1,Medium,High School,No,Yes,8.7,3,Pass
+38,Lakshmi Das,11-A,16.3,84.9,77.0,Medium,Bachelor,Yes,No,6.9,0,Pass
+47,Ananya Menon,12-A,17.6,78.5,83.0,Medium,Bachelor,Yes,No,7.2,3,Pass
+65,Karthik Gupta,10-C,8.0,95.1,61.5,High,High School,Yes,No,6.2,1,Pass
+50,Rohan Pillai,9-A,9.9,92.4,58.7,Medium,Bachelor,Yes,Yes,7.2,1,Pass
+60,Ananya Iyer,11-C,22.2,81.7,66.7,High,Master+,No,No,6.2,1,Pass
+49,Diya Krishnan,11-B,13.4,82.0,60.0,Low,Master+,No,Yes,6.9,4,Fail
+49,Sneha Patel,10-A,2.4,92.2,47.9,Low,High School,Yes,No,9.2,3,Fail
+39,Ananya Gupta,11-A,19.2,100.0,83.7,Medium,Bachelor,No,Yes,6.9,1,Pass
+49,Arjun Singh,12-B,13.3,94.9,82.4,High,Bachelor,Yes,Yes,5.7,1,Pass
+50,Aarav Shetty,11-B,19.1,78.5,57.7,Low,Bachelor,Yes,No,5.4,2,Pass
+48,Kavya Reddy,12-A,13.6,81.4,75.0,Medium,High School,Yes,No,7.2,1,Pass
+58,Diya Krishnan,9-B,15.0,88.7,69.1,Medium,Bachelor,Yes,Yes,6.1,1,Pass
+66,Shreya Nair,10-C,17.9,76.6,72.1,Low,High School,No,No,7.3,2,Pass
+51,Rahul Nair,11-B,9.5,84.3,47.2,Medium,High School,No,No,5.1,1,Fail
+50,Pranav Shetty,10-A,11.0,73.3,68.0,High,High School,Yes,No,7.8,2,Pass
+50,Aarthi Kumar,12-B,13.0,97.6,65.2,Medium,High School,Yes,No,5.7,2,Pass
+61,Siddharth Gupta,11-C,16.1,64.3,70.7,Low,High School,Yes,Yes,7.1,0,Pass
+55,Kavya Menon,10-B,9.3,80.8,61.2,High,High School,Yes,Yes,6.6,2,Pass
+51,Ananya Krishnan,12-B,5.7,83.2,31.0,Medium,Bachelor,Yes,No,9.1,3,Fail
+58,Priya Joshi,12-C,20.1,100.0,54.9,High,Bachelor,Yes,Yes,7.2,0,Pass
+71,Shreya Patel,9-C,9.0,72.9,61.1,Low,No Formal,Yes,No,9.3,2,Fail
+40,Divya Shetty,11-A,12.0,74.0,66.9,Medium,Bachelor,Yes,No,7.7,1,Pass
+67,Karthik Iyer,10-C,4.7,75.4,89.6,Medium,Master+,Yes,No,8.7,1,Fail
+59,Arjun Gupta,12-C,8.6,97.9,70.2,Low,Master+,No,Yes,6.7,2,Pass
+68,Divya Joshi,10-C,16.0,52.3,71.1,High,Bachelor,Yes,No,7.4,3,Fail
+56,Nikhil Das,10-B,16.7,66.0,61.5,Low,Master+,Yes,No,8.5,3,Pass
+60,Aarav Pillai,12-C,8.1,100.0,77.5,Low,Bachelor,Yes,Yes,8.1,0,Pass
+49,Diya Shetty,12-A,22.3,89.1,57.7,Medium,Master+,Yes,Yes,7.6,4,Pass
+59,Shreya Singh,9-B,10.6,68.7,64.0,Medium,Master+,Yes,Yes,6.6,1,Pass
+62,Kavya Krishnan,11-C,12.6,85.5,54.8,High,High School,Yes,Yes,6.8,0,Fail
+50,Pranav Nair,12-A,23.7,86.8,89.9,High,Master+,Yes,No,8.4,0,Pass
+72,Priya Patel,9-C,13.1,88.2,67.5,Low,Bachelor,Yes,No,8.6,1,Pass
+41,Meera Joshi,11-A,11.2,100.0,56.1,Medium,Bachelor,Yes,Yes,6.3,1,Pass
+52,Priya Kumar,12-B,11.2,82.7,60.4,Low,Master+,Yes,No,6.1,1,Fail
+53,Sneha Menon,12-B,20.8,75.5,73.1,Medium,High School,No,Yes,5.9,0,Pass
+73,Rohan Joshi,9-C,23.3,95.4,66.5,High,High School,Yes,Yes,8.0,1,Pass
+54,Siddharth Singh,12-B,9.9,73.6,58.5,Medium,Bachelor,Yes,Yes,5.9,3,Fail
+69,Varun Iyer,10-C,13.8,69.6,56.8,Medium,Bachelor,Yes,No,8.0,0,Fail
+57,Ananya Nair,10-B,14.5,60.9,70.7,Medium,Master+,Yes,No,7.7,2,Pass
+58,Ananya Kumar,10-B,11.1,67.2,65.0,High,Master+,Yes,No,6.3,0,Fail
+42,Varun Kumar,11-A,13.7,71.2,59.6,Medium,Bachelor,Yes,No,8.9,2,Fail
+51,Kavya Nair,9-A,12.0,63.9,43.3,Low,Master+,Yes,Yes,5.2,2,Fail
+63,Ananya Shetty,11-C,19.7,85.8,67.1,Medium,High School,Yes,No,9.0,2,Pass
+52,Aarthi Kumar,9-A,18.0,63.6,59.5,Low,Master+,Yes,Yes,7.4,1,Pass
+51,Shreya Joshi,12-A,10.4,40.3,57.5,Low,No Formal,Yes,Yes,4.5,4,Fail
+51,Nikhil Verma,10-A,10.9,65.5,64.8,Low,Bachelor,Yes,No,8.9,1,Pass
+52,Rohan Patel,11-B,17.3,76.3,76.5,Medium,No Formal,Yes,Yes,8.2,2,Pass
+53,Neha Verma,9-A,11.1,74.7,75.8,Medium,Bachelor,Yes,Yes,6.5,1,Fail
+60,Pooja Iyer,9-B,16.9,100.0,73.7,Medium,High School,Yes,Yes,5.8,1,Pass
+74,Karthik Pillai,9-C,13.6,74.6,62.6,Medium,No Formal,Yes,Yes,5.1,1,Fail
+55,Vivaan Verma,12-B,11.2,96.6,62.1,High,Bachelor,Yes,No,9.9,3,Pass
+61,Neha Joshi,9-B,9.2,81.8,51.4,Medium,Bachelor,Yes,Yes,5.9,3,Fail
+75,Shreya Iyer,9-C,21.2,81.5,57.7,Medium,High School,Yes,No,5.5,1,Pass
+64,Varun Kumar,11-C,11.2,68.0,62.3,Low,Bachelor,Yes,No,7.3,0,Fail
+56,Aditya Kumar,12-B,24.2,85.3,59.0,High,High School,Yes,No,5.0,1,Pass
+54,Divya Verma,9-A,9.4,68.8,63.3,Low,High School,Yes,Yes,5.8,1,Pass
+70,Kavya Iyer,10-C,15.5,84.0,52.5,Medium,High School,Yes,No,8.2,2,Pass
+65,Kavya Singh,11-C,28.0,83.2,46.7,High,Bachelor,No,Yes,7.6,1,Pass
+52,Priya Patel,10-A,8.7,70.7,77.5,Medium,Bachelor,Yes,Yes,6.5,0,Pass
+55,Arjun Patel,9-A,4.5,93.9,59.4,Medium,Bachelor,No,No,7.0,0,Pass
+52,Varun Rao,12-A,20.4,87.1,54.3,Medium,Bachelor,Yes,Yes,6.5,2,Pass
+53,Aarav Patel,10-A,9.9,76.6,50.7,Medium,Bachelor,Yes,No,6.9,1,Pass
+66,Diya Gupta,11-C,11.9,79.7,67.9,Low,Bachelor,Yes,Yes,6.1,3,Pass
+71,Meera Rao,10-C,9.1,77.0,81.2,Low,Master+,Yes,No,6.3,2,Pass
+43,Arjun Menon,11-A,15.3,71.6,60.4,Medium,High School,Yes,No,6.3,4,Pass
+57,Aarav Singh,12-B,7.2,78.8,59.0,Low,High School,Yes,No,6.1,3,Fail
+72,Ananya Patel,10-C,15.1,78.5,85.0,High,High School,Yes,Yes,8.3,3,Pass
+53,Meera Joshi,12-A,14.2,66.7,36.7,Low,Bachelor,Yes,Yes,7.9,0,Fail
+73,Rahul Singh,10-C,9.0,62.5,93.5,Medium,Bachelor,No,No,5.9,2,Pass
+54,Priya Singh,10-A,10.5,77.7,100.0,Medium,High School,Yes,No,5.6,6,Pass
+56,Nikhil Iyer,9-A,12.3,88.8,28.1,Medium,Master+,Yes,Yes,6.8,5,Pass
+55,Rohan Sharma,10-A,6.9,73.7,64.6,Medium,Master+,Yes,Yes,9.6,0,Fail
+67,Vivaan Joshi,11-C,11.9,100.0,55.9,Medium,High School,Yes,No,5.8,1,Fail
+53,Vivaan Shetty,11-B,16.6,96.6,66.3,High,High School,Yes,No,6.8,1,Pass
+59,Varun Iyer,10-B,12.0,97.7,60.1,Medium,High School,Yes,No,7.1,0,Pass
+60,Ananya Patel,10-B,14.6,95.5,81.4,High,High School,Yes,No,6.9,1,Pass
+57,Nikhil Patel,9-A,15.9,100.0,68.4,High,Master+,Yes,Yes,6.5,0,Pass
+61,Pranav Pillai,12-C,10.7,72.6,53.2,Medium,Bachelor,Yes,Yes,8.4,0,Fail
+61,Nikhil Nair,10-B,15.5,47.3,59.6,Low,No Formal,Yes,No,7.5,3,Pass
+74,Nikhil Verma,10-C,21.2,76.6,73.2,Medium,High School,Yes,No,8.0,0,Pass
+58,Shreya Sharma,12-B,9.7,84.7,45.4,Low,No Formal,Yes,Yes,7.7,4,Fail
+68,Sneha Verma,11-C,16.4,83.8,43.0,Medium,High School,Yes,No,8.1,2,Pass
+62,Rohan Reddy,12-C,14.8,89.3,97.9,High,High School,Yes,Yes,8.9,0,Pass
+62,Karthik Patel,10-B,15.8,97.9,57.0,Medium,Bachelor,No,Yes,8.6,3,Pass
+56,Neha Kumar,10-A,21.8,86.6,64.1,Medium,Bachelor,Yes,No,9.8,0,Pass
+69,Siddharth Kumar,11-C,14.5,87.6,56.4,Low,Master+,Yes,Yes,8.5,2,Pass
+63,Nikhil Verma,12-C,7.1,74.7,77.7,High,No Formal,No,Yes,6.2,4,Pass
+59,Aditya Menon,12-B,14.3,64.9,86.8,Low,Bachelor,Yes,No,8.0,4,Pass
+63,Kavya Reddy,10-B,18.2,97.4,70.1,Low,No Formal,No,Yes,7.9,2,Pass
+70,Vivaan Verma,11-C,10.9,79.2,40.7,Low,High School,Yes,Yes,9.3,2,Fail
+57,Rahul Iyer,10-A,17.0,70.5,42.6,Low,Master+,Yes,No,5.8,1,Fail
+58,Pranav Reddy,10-A,10.5,74.5,60.4,Medium,Bachelor,Yes,Yes,7.7,3,Pass
+64,Arjun Sharma,10-B,6.6,74.2,62.2,Medium,High School,Yes,No,6.2,0,Fail
+58,Priya Menon,9-A,14.7,73.5,41.9,Medium,High School,Yes,Yes,7.6,2,Pass
+64,Rahul Krishnan,12-C,3.2,62.6,73.5,Low,Bachelor,Yes,Yes,6.7,1,Fail
+76,Siddharth Sharma,9-C,10.8,60.0,46.8,Low,Master+,No,No,7.6,0,Fail
+75,Aditya Das,10-C,20.4,79.7,86.9,Medium,Bachelor,Yes,Yes,5.3,2,Pass
+59,Priya Kumar,10-A,2.5,70.9,87.5,Low,No Formal,No,No,8.0,3,Pass
+77,Karthik Iyer,9-C,7.6,95.3,62.5,Medium,High School,No,No,7.2,0,Pass
+60,Ananya Das,10-A,6.8,81.5,68.1,Low,High School,Yes,No,7.2,0,Fail
+54,Meera Das,12-A,13.7,85.2,48.8,Medium,No Formal,Yes,Yes,9.3,0,Pass
+61,Aarav Singh,10-A,12.2,73.1,74.7,Medium,Bachelor,No,Yes,6.5,4,Pass
+54,Divya Iyer,11-B,21.0,80.5,59.0,Medium,Bachelor,Yes,No,7.4,3,Pass
+71,Sneha Sharma,11-C,16.8,82.3,46.8,Low,No Formal,Yes,No,7.1,0,Fail
+55,Varun Das,12-A,14.5,86.6,57.9,Low,Bachelor,Yes,No,7.2,2,Pass
+72,Kavya Gupta,11-C,16.7,84.9,63.5,High,Bachelor,Yes,No,9.7,3,Pass
+73,Aarthi Rao,11-C,14.0,90.9,57.4,Low,Bachelor,No,Yes,7.1,2,Fail
+56,Shreya Iyer,12-A,9.7,82.1,79.3,Medium,High School,Yes,Yes,6.3,1,Pass
+44,Pooja Joshi,11-A,18.3,91.5,55.0,Medium,High School,Yes,No,9.2,6,Pass
+74,Ishaan Reddy,11-C,8.4,76.1,90.3,Medium,High School,No,No,6.6,1,Fail
+59,Ananya Pillai,9-A,18.2,60.2,47.4,Medium,High School,Yes,Yes,5.1,1,Fail
+45,Kavya Das,11-A,19.9,85.2,88.6,Medium,High School,Yes,No,6.1,2,Pass
+65,Meera Iyer,12-C,17.1,94.7,55.8,High,High School,Yes,No,5.5,1,Pass
+62,Pooja Menon,10-A,11.1,84.9,62.0,Low,High School,Yes,Yes,4.8,0,Fail
+62,Shreya Singh,9-B,16.0,87.1,59.1,Medium,High School,Yes,Yes,6.6,1,Pass
+75,Priya Gupta,11-C,0.0,73.8,57.2,Low,Master+,Yes,No,6.9,2,Fail
+78,Ishaan Krishnan,9-C,15.5,72.3,77.2,Medium,Bachelor,Yes,No,8.4,1,Pass
+55,Kavya Singh,11-B,13.4,88.6,87.0,Medium,High School,Yes,No,7.8,1,Pass
+66,Vivaan Reddy,12-C,11.7,83.1,78.7,Low,Master+,Yes,Yes,7.7,1,Fail
+76,Lakshmi Patel,10-C,17.5,75.3,60.3,Medium,High School,Yes,No,5.9,2,Fail
+63,Ananya Pillai,9-B,15.6,99.3,72.6,High,High School,Yes,No,8.1,3,Pass
+65,Karthik Patel,10-B,6.3,67.4,51.1,Low,Bachelor,Yes,No,8.7,1,Fail
+64,Vivaan Joshi,9-B,13.3,75.0,52.1,Medium,High School,No,Yes,7.5,1,Fail
+66,Priya Iyer,10-B,14.3,100.0,50.0,Medium,High School,No,Yes,7.5,2,Pass
+77,Kavya Nair,10-C,12.6,88.4,55.9,Low,High School,Yes,No,5.5,1,Fail
+60,Divya Iyer,12-B,12.8,73.7,65.5,Low,Bachelor,Yes,Yes,8.3,0,Pass
+67,Rahul Krishnan,12-C,17.2,81.4,35.2,Low,Bachelor,Yes,Yes,9.1,2,Fail
+67,Lakshmi Pillai,10-B,10.6,87.9,69.4,High,High School,Yes,No,7.4,2,Pass
+57,Kavya Singh,12-A,12.9,45.1,83.2,Low,High School,No,Yes,6.3,1,Pass
+63,Rohan Kumar,10-A,18.4,67.1,77.7,Low,High School,No,No,6.8,0,Pass
+79,Shreya Krishnan,9-C,3.3,77.4,53.8,Low,Bachelor,Yes,No,6.5,2,Fail
+61,Lakshmi Krishnan,12-B,12.9,73.7,42.4,Low,High School,Yes,No,6.6,2,Fail
+68,Pooja Rao,10-B,11.1,85.0,72.4,Medium,Master+,No,Yes,7.8,1,Pass
+58,Lakshmi Joshi,12-A,10.1,91.6,29.6,Low,Bachelor,Yes,No,7.3,2,Fail
+76,Arjun Krishnan,11-C,9.5,78.1,81.5,Medium,High School,Yes,No,8.2,1,Pass
+59,Diya Patel,12-A,13.2,69.3,63.0,Medium,Bachelor,Yes,No,7.4,5,Pass
+56,Diya Patel,11-B,25.2,89.9,95.6,High,No Formal,Yes,Yes,6.0,0,Pass
+57,Siddharth Singh,11-B,5.7,74.1,37.8,Low,High School,Yes,Yes,6.4,1,Fail
+60,Shreya Rao,9-A,10.2,84.1,82.9,High,High School,Yes,No,6.3,2,Pass
+64,Karthik Joshi,10-A,7.5,78.5,64.6,Medium,High School,Yes,Yes,6.8,5,Fail
+78,Siddharth Singh,10-C,20.6,100.0,57.4,Low,Bachelor,Yes,No,9.2,1,Pass
+65,Rahul Iyer,10-A,11.7,55.1,46.8,Medium,Master+,No,Yes,9.3,7,Fail
+46,Rahul Patel,11-A,15.9,81.3,78.3,High,High School,No,Yes,8.0,1,Pass
+60,Neha Pillai,12-A,10.0,78.0,71.5,Low,High School,Yes,No,7.1,0,Fail
+80,Aarthi Sharma,9-C,11.3,76.6,95.0,High,Bachelor,Yes,No,5.4,3,Pass
+77,Aarav Patel,11-C,12.8,92.8,80.1,Medium,High School,Yes,No,7.3,1,Pass
+68,Varun Sharma,12-C,26.3,91.8,57.7,Medium,High School,Yes,No,6.1,2,Pass
+66,Divya Shetty,10-A,23.0,85.4,55.9,High,Master+,Yes,No,9.0,1,Pass
+79,Rahul Reddy,10-C,9.7,78.8,46.8,Medium,Bachelor,Yes,No,5.1,3,Fail
+67,Arjun Reddy,10-A,19.2,84.7,90.6,High,Master+,Yes,Yes,7.5,1,Pass
+61,Ishaan Joshi,12-A,9.8,80.7,55.1,Medium,High School,Yes,Yes,6.0,1,Pass
+62,Aarthi Reddy,12-B,5.1,81.1,86.7,Medium,No Formal,Yes,Yes,7.0,0,Fail
+58,Neha Pillai,11-B,19.1,79.7,73.4,Medium,High School,Yes,No,7.8,0,Pass
+68,Pooja Rao,10-A,17.8,81.0,66.6,Low,Master+,No,Yes,8.2,1,Pass
+47,Rohan Shetty,11-A,19.2,91.0,61.7,Medium,High School,Yes,No,6.9,2,Pass
+48,Vivaan Nair,11-A,11.7,67.2,75.2,Medium,High School,No,Yes,7.9,0,Fail
+63,Arjun Reddy,12-B,11.2,65.4,61.8,Low,No Formal,Yes,No,6.2,0,Fail
+65,Sneha Iyer,9-B,15.7,57.0,56.8,Low,Bachelor,Yes,No,7.3,3,Pass
+66,Shreya Krishnan,9-B,16.0,92.4,75.7,Medium,Bachelor,No,No,8.2,0,Pass
+69,Rohan Shetty,10-A,10.0,81.0,60.0,Low,Bachelor,No,No,7.4,0,Pass
+69,Aarav Kumar,10-B,3.9,84.1,50.8,Low,No Formal,No,Yes,6.4,1,Fail
+59,Meera Iyer,11-B,14.6,64.8,74.4,Medium,Bachelor,No,No,6.7,1,Pass
+60,Vivaan Nair,11-B,19.4,100.0,65.1,Medium,High School,Yes,Yes,8.2,2,Pass
+62,Meera Iyer,12-A,8.0,74.7,72.8,Medium,High School,Yes,No,5.7,1,Fail
+69,Karthik Iyer,12-C,17.2,84.0,59.6,Medium,High School,Yes,Yes,5.9,2,Pass
+67,Varun Krishnan,9-B,17.7,96.3,53.1,High,Bachelor,No,Yes,7.7,3,Pass
+63,Pooja Sharma,12-A,17.8,70.2,90.3,Medium,High School,Yes,Yes,6.5,1,Pass
+70,Rahul Krishnan,12-C,16.4,71.4,83.7,Low,Master+,Yes,No,5.3,1,Pass
+70,Sneha Sharma,10-B,8.5,80.2,74.4,Low,High School,No,No,8.6,2,Fail
+61,Karthik Shetty,9-A,5.9,100.0,60.6,Medium,High School,No,Yes,5.7,3,Pass
+71,Varun Rao,12-C,9.3,81.6,57.8,Low,Bachelor,No,Yes,6.8,1,Fail
+62,Arjun Reddy,9-A,18.4,100.0,85.4,Medium,Bachelor,Yes,Yes,6.3,1,Pass
+63,Karthik Joshi,9-A,13.3,100.0,65.0,High,No Formal,Yes,No,6.6,1,Pass
+71,Pooja Kumar,10-B,8.5,82.4,53.1,Low,Bachelor,No,No,5.9,0,Fail
+81,Shreya Krishnan,9-C,2.9,66.1,88.2,Low,High School,Yes,Yes,7.9,4,Pass
+80,Shreya Joshi,10-C,24.8,98.7,69.3,High,High School,Yes,No,7.1,1,Pass
+82,Sneha Verma,9-C,18.1,64.0,90.8,Medium,Bachelor,No,No,8.2,1,Pass
+64,Aarthi Shetty,9-A,15.8,97.2,42.4,Low,Bachelor,Yes,No,6.3,2,Fail
+72,Nikhil Iyer,12-C,20.8,88.4,77.3,High,High School,Yes,No,9.6,1,Pass
+81,Sneha Rao,10-C,18.9,54.2,99.0,High,High School,Yes,No,4.7,4,Pass
+78,Pranav Das,11-C,12.8,77.9,66.4,Medium,Bachelor,Yes,No,5.1,2,Pass
+73,Kavya Patel,12-C,13.2,89.8,62.3,Medium,High School,No,Yes,9.1,1,Pass
+82,Karthik Singh,10-C,9.9,75.2,45.7,Low,Master+,Yes,Yes,7.6,1,Fail
+72,Siddharth Iyer,10-B,25.2,86.6,77.2,Low,Bachelor,Yes,Yes,7.4,1,Pass
+79,Karthik Pillai,11-C,16.8,71.8,55.2,Medium,Master+,Yes,Yes,7.5,1,Pass
+61,Nikhil Patel,11-B,9.7,62.3,60.7,Low,High School,No,Yes,7.7,1,Fail
+65,Aditya Sharma,9-A,16.3,81.1,48.7,Medium,Bachelor,No,No,7.4,1,Pass
+64,Aarthi Verma,12-A,10.9,86.4,91.8,High,No Formal,Yes,No,5.8,1,Pass
+68,Siddharth Shetty,9-B,19.5,73.8,78.2,Low,High School,Yes,Yes,8.0,2,Pass
+62,Kavya Kumar,11-B,10.7,96.7,65.6,Medium,No Formal,Yes,Yes,7.8,2,Pass
+83,Sneha Nair,9-C,14.5,67.8,45.8,Low,No Formal,Yes,No,8.7,1,Fail
+84,Pranav Das,9-C,21.3,89.8,91.5,High,Master+,Yes,No,9.1,2,Pass
+66,Ishaan Iyer,9-A,13.9,78.8,56.9,Low,Bachelor,Yes,Yes,7.4,4,Pass
+63,Varun Gupta,11-B,14.5,63.3,50.5,Medium,Bachelor,Yes,No,5.5,2,Fail
+73,Karthik Joshi,10-B,14.1,66.2,41.3,Medium,Bachelor,Yes,Yes,9.1,1,Fail
+80,Varun Kumar,11-C,13.7,82.1,57.0,Medium,Bachelor,Yes,Yes,5.8,0,Fail
+74,Aditya Kumar,10-B,11.1,100.0,45.6,Medium,Bachelor,Yes,No,7.4,3,Pass
+67,Divya Sharma,9-A,11.8,89.0,57.3,Medium,Bachelor,Yes,No,6.7,1,Pass
+65,Rahul Patel,12-A,21.4,61.3,76.4,Medium,Bachelor,Yes,Yes,6.5,1,Pass
+66,Aarav Gupta,12-A,13.5,44.7,60.7,Medium,Bachelor,Yes,No,7.9,1,Pass
+64,Pooja Nair,12-B,12.1,94.8,75.0,High,High School,Yes,No,7.3,0,Pass
+68,Varun Verma,9-A,11.4,80.8,55.9,Medium,Master+,No,Yes,7.6,0,Fail
+74,Ishaan Das,12-C,19.5,95.7,66.9,Medium,No Formal,Yes,No,6.0,1,Pass
+49,Ananya Iyer,11-A,15.4,67.4,88.9,Low,High School,No,Yes,6.8,2,Pass
+69,Varun Singh,9-A,16.8,86.2,61.1,Medium,Master+,Yes,No,6.1,3,Pass
+70,Ananya Rao,9-A,12.7,92.2,71.4,Medium,High School,Yes,Yes,6.8,2,Pass
+50,Karthik Rao,11-A,16.9,76.6,44.1,Medium,High School,Yes,Yes,6.9,1,Pass
+64,Pooja Singh,11-B,8.8,72.9,83.3,Low,High School,Yes,Yes,9.2,1,Pass
+85,Nikhil Reddy,9-C,14.7,86.3,63.3,High,High School,No,No,6.7,3,Pass
+83,Nikhil Iyer,10-C,18.8,88.5,80.7,Medium,Master+,No,Yes,4.4,1,Pass
+86,Nikhil Nair,9-C,18.4,81.8,64.3,Medium,Bachelor,Yes,No,8.7,3,Pass
+75,Neha Nair,12-C,7.1,89.7,70.6,Low,High School,Yes,Yes,7.5,1,Pass
+65,Aditya Pillai,11-B,11.7,80.5,79.4,High,Master+,Yes,No,6.8,2,Pass
+70,Pranav Verma,10-A,12.5,62.1,55.7,Low,Bachelor,No,No,6.5,2,Fail
+75,Nikhil Pillai,10-B,20.6,100.0,77.3,Low,Master+,No,Yes,5.9,1,Pass
+76,Ishaan Verma,12-C,6.4,78.7,59.4,High,High School,Yes,No,9.3,2,Pass
+51,Pooja Gupta,11-A,17.4,79.2,80.9,High,High School,No,No,7.1,1,Pass
+84,Pooja Kumar,10-C,5.1,77.2,56.5,Low,No Formal,No,No,4.9,0,Fail
+77,Ishaan Shetty,12-C,10.8,82.8,70.9,Medium,No Formal,Yes,Yes,7.4,1,Pass
+52,Nikhil Reddy,11-A,12.2,77.4,59.5,Medium,Bachelor,Yes,No,8.4,0,Pass
+71,Aarthi Reddy,9-A,13.9,85.8,70.7,High,High School,No,No,7.2,2,Pass
+53,Aarav Verma,11-A,11.3,81.5,51.0,Medium,Bachelor,Yes,Yes,5.9,1,Fail
+78,Sneha Pillai,12-C,14.0,84.1,69.5,Medium,Bachelor,Yes,No,5.8,2,Pass
+65,Varun Krishnan,12-B,11.3,53.7,66.6,Medium,No Formal,No,Yes,5.9,0,Fail
+87,Neha Nair,9-C,6.7,100.0,58.4,Medium,High School,Yes,No,8.8,2,Pass
+66,Siddharth Joshi,12-B,17.9,80.2,65.2,Medium,Bachelor,No,No,6.9,2,Pass
+67,Aarav Iyer,12-A,17.8,89.0,67.9,Medium,Master+,Yes,No,5.0,2,Pass
+88,Priya Patel,9-C,16.2,61.5,53.4,Low,High School,Yes,Yes,7.5,2,Pass
+66,Rohan Krishnan,11-B,8.3,80.3,68.2,High,Master+,No,Yes,7.2,0,Pass
+79,Ananya Rao,12-C,17.5,77.9,55.9,High,Bachelor,Yes,Yes,6.5,1,Pass
+89,Meera Pillai,9-C,17.4,99.6,98.8,Medium,Bachelor,Yes,No,5.8,1,Pass
+67,Diya Krishnan,12-B,6.8,71.0,76.8,Low,High School,Yes,Yes,5.7,3,Fail
+85,Siddharth Shetty,10-C,12.0,87.1,65.8,Low,Bachelor,Yes,Yes,8.3,0,Pass
+71,Ishaan Sharma,10-A,13.4,74.2,82.4,Medium,Bachelor,Yes,Yes,7.3,1,Pass
+76,Divya Nair,10-B,21.2,72.6,34.3,Low,High School,Yes,No,7.6,3,Fail
+67,Diya Krishnan,11-B,25.6,83.1,34.2,High,Master+,No,Yes,7.3,2,Pass
+68,Rohan Singh,12-A,5.7,97.4,60.4,Medium,Master+,No,No,7.4,2,Pass
+68,Divya Menon,12-B,26.5,59.3,46.7,Medium,High School,Yes,Yes,6.4,0,Fail
+90,Vivaan Reddy,9-C,11.4,70.2,66.7,High,Bachelor,Yes,Yes,6.8,0,Pass
+69,Priya Sharma,12-B,18.9,58.6,68.9,Medium,Bachelor,Yes,Yes,8.4,2,Pass
+70,Aarav Verma,12-B,18.9,68.9,78.9,Medium,Bachelor,Yes,Yes,8.7,0,Pass
+91,Priya Menon,9-C,9.0,72.3,50.1,Medium,Bachelor,No,No,5.5,4,Fail
+77,Aditya Joshi,10-B,16.5,62.6,71.6,Medium,No Formal,Yes,Yes,6.8,0,Pass
+69,Priya Iyer,9-B,13.5,73.2,66.2,Medium,No Formal,No,Yes,8.0,1,Pass
+69,Divya Iyer,12-A,16.8,57.8,70.9,Medium,High School,Yes,Yes,9.3,2,Pass
+78,Priya Singh,10-B,17.2,73.8,62.7,High,Master+,Yes,Yes,9.1,1,Pass
+86,Rahul Krishnan,10-C,20.0,96.4,85.4,Medium,High School,No,Yes,6.0,2,Pass
+71,Aarthi Kumar,12-B,12.4,82.8,60.6,Low,Master+,Yes,Yes,8.5,0,Pass
+68,Arjun Patel,11-B,13.2,84.2,90.8,Medium,High School,No,Yes,7.1,4,Pass
+80,Diya Singh,12-C,19.5,70.0,54.9,Medium,High School,No,No,8.3,2,Pass
+70,Nikhil Sharma,12-A,14.9,59.6,72.4,Low,Master+,Yes,No,7.9,2,Pass
+81,Aarthi Rao,12-C,15.7,64.3,61.2,Low,Bachelor,Yes,No,5.5,1,Fail
+72,Pranav Singh,9-A,10.7,81.5,61.4,Medium,High School,Yes,Yes,7.7,0,Fail
+73,Ishaan Sharma,9-A,8.8,92.4,74.9,Medium,No Formal,No,No,8.2,1,Pass
+74,Shreya Pillai,9-A,13.2,96.8,65.8,High,High School,No,No,7.0,0,Pass
+72,Sneha Sharma,10-A,8.9,85.6,24.7,Low,High School,Yes,No,6.7,2,Fail
+69,Lakshmi Das,11-B,15.9,69.1,20.0,Low,High School,Yes,Yes,5.1,1,Fail
+70,Sneha Joshi,11-B,18.9,82.3,83.8,Medium,Bachelor,Yes,No,7.8,1,Pass
+54,Ishaan Shetty,11-A,15.2,82.1,87.2,High,High School,Yes,No,7.3,0,Pass
+81,Siddharth Pillai,11-C,19.2,75.6,88.4,Low,No Formal,No,No,5.9,6,Pass
+72,Vivaan Singh,12-B,18.8,100.0,61.8,Low,High School,No,No,6.6,2,Pass
+55,Arjun Kumar,11-A,13.2,56.9,43.9,Low,High School,Yes,No,7.2,1,Fail
+73,Aarthi Rao,10-A,9.9,79.2,60.1,Medium,Master+,Yes,No,6.3,2,Fail
+87,Ishaan Reddy,10-C,21.9,96.5,66.2,Medium,High School,Yes,Yes,7.0,1,Pass
+71,Shreya Das,12-A,11.7,60.4,47.9,Low,No Formal,Yes,Yes,4.9,2,Fail
+73,Ananya Sharma,12-B,12.6,70.3,85.1,Low,Bachelor,Yes,No,8.6,3,Pass
+72,Vivaan Rao,12-A,12.3,75.7,97.4,Medium,Master+,No,Yes,7.0,2,Pass
+82,Sneha Singh,11-C,11.6,83.3,76.7,High,Bachelor,Yes,Yes,5.7,1,Pass
+74,Siddharth Pillai,12-B,6.7,62.8,65.8,Medium,Bachelor,Yes,Yes,4.0,2,Fail
+88,Kavya Patel,10-C,17.2,89.1,47.9,Medium,Master+,Yes,Yes,8.2,2,Pass
+70,Siddharth Menon,9-B,8.1,86.0,83.7,Low,Bachelor,Yes,Yes,7.7,1,Pass
+83,Lakshmi Gupta,11-C,27.3,84.1,63.1,Low,Master+,Yes,No,7.3,1,Pass
+71,Arjun Krishnan,9-B,6.6,67.6,58.0,Low,No Formal,No,Yes,8.0,2,Fail
+84,Rohan Pillai,11-C,7.7,83.0,72.7,Medium,Bachelor,Yes,No,8.0,2,Pass
+82,Aarav Kumar,12-C,18.6,75.2,61.8,High,Master+,Yes,Yes,7.2,0,Pass
+72,Sneha Shetty,9-B,23.6,82.0,72.1,High,Master+,Yes,No,6.7,3,Pass
+71,Sneha Sharma,11-B,16.3,100.0,49.8,High,High School,Yes,No,6.5,2,Pass
+75,Neha Kumar,12-B,18.9,87.1,85.2,High,Bachelor,Yes,No,7.5,3,Pass
+85,Pranav Reddy,11-C,6.8,71.7,68.5,High,High School,Yes,Yes,8.7,2,Pass
+86,Aarthi Menon,11-C,8.6,80.2,78.2,Low,Bachelor,Yes,Yes,6.9,2,Pass
+73,Karthik Pillai,12-A,6.6,61.8,59.2,Low,High School,No,No,8.8,2,Fail
+74,Rohan Singh,12-A,4.5,67.6,64.1,Medium,Bachelor,Yes,No,7.4,2,Fail
+73,Meera Joshi,9-B,14.6,69.5,49.0,Medium,Bachelor,Yes,Yes,7.5,1,Fail
+76,Aarthi Gupta,12-B,0.8,72.7,72.6,Low,High School,Yes,No,9.9,1,Fail
+75,Aarav Iyer,12-A,9.4,97.2,57.7,High,High School,No,No,9.0,1,Pass
+75,Sneha Singh,9-A,11.3,88.9,59.2,Medium,High School,Yes,Yes,9.0,0,Pass
+72,Priya Das,11-B,9.8,88.3,66.0,Medium,Bachelor,No,No,6.0,1,Fail
+77,Varun Singh,12-B,14.0,64.8,63.7,Low,Bachelor,Yes,Yes,9.6,0,Fail
+78,Arjun Menon,12-B,13.5,71.5,38.1,Low,Bachelor,No,Yes,6.9,2,Fail
+76,Rahul Singh,12-A,16.5,81.3,58.8,Low,High School,Yes,No,6.7,2,Pass
+83,Kavya Singh,12-C,19.8,78.5,81.1,High,Bachelor,Yes,No,4.4,2,Pass
+76,Sneha Kumar,9-A,19.7,78.7,60.7,Medium,Bachelor,Yes,No,7.4,1,Pass
+79,Rohan Shetty,10-B,14.0,87.3,62.9,Medium,No Formal,Yes,No,5.7,4,Pass
+92,Nikhil Iyer,9-C,13.5,73.8,64.3,Low,High School,Yes,No,7.5,0,Pass
+74,Shreya Sharma,9-B,16.6,84.7,64.2,Medium,High School,Yes,Yes,5.6,2,Pass
+74,Pranav Das,10-A,14.7,100.0,51.6,Medium,High School,Yes,Yes,9.2,2,Pass
+77,Nikhil Shetty,12-A,12.0,79.9,65.5,Medium,High School,Yes,Yes,7.7,4,Fail
+73,Pranav Pillai,11-B,12.3,96.2,79.9,Medium,High School,Yes,No,9.7,2,Pass
+84,Ananya Menon,12-C,7.9,84.7,47.3,Low,No Formal,Yes,No,5.8,2,Fail
+74,Diya Verma,11-B,18.1,68.4,64.8,High,No Formal,No,No,8.9,3,Pass
+75,Divya Patel,10-A,11.5,64.8,42.7,Low,High School,Yes,Yes,4.8,3,Fail
+89,Nikhil Rao,10-C,12.7,76.0,83.2,High,Bachelor,Yes,Yes,7.2,2,Pass
+78,Lakshmi Gupta,12-A,8.7,67.7,60.7,Low,Bachelor,No,No,6.2,2,Fail
+80,Priya Rao,10-B,5.9,76.9,50.1,Low,High School,Yes,No,6.5,2,Fail
+76,Nikhil Singh,10-A,20.9,93.4,71.3,High,Bachelor,Yes,Yes,6.4,1,Pass
+79,Pooja Verma,12-A,12.4,93.1,45.1,Low,Bachelor,Yes,No,5.9,2,Pass
+90,Vivaan Iyer,10-C,9.7,85.7,51.5,Medium,High School,Yes,No,5.5,0,Fail
+80,Aarthi Nair,12-A,18.0,76.7,45.6,Medium,High School,Yes,No,6.5,0,Fail
+85,Kavya Rao,12-C,9.2,53.0,47.1,Low,High School,Yes,Yes,7.1,0,Fail
+75,Rohan Singh,9-B,7.0,82.8,85.0,Medium,Bachelor,No,No,8.4,0,Pass
+56,Priya Das,11-A,21.1,86.3,59.7,High,High School,Yes,Yes,7.4,1,Pass
+93,Pooja Verma,9-C,13.3,88.2,76.5,High,High School,Yes,Yes,8.4,1,Pass
+81,Ananya Das,12-A,12.0,100.0,54.3,Medium,Bachelor,Yes,No,5.2,0,Fail
+94,Divya Verma,9-C,14.2,96.9,76.6,Medium,Master+,Yes,Yes,6.5,0,Pass
+86,Meera Iyer,12-C,17.7,87.4,47.6,Low,High School,No,Yes,7.9,0,Pass
+79,Pranav Iyer,12-B,12.1,66.5,62.5,Low,Bachelor,Yes,Yes,7.4,1,Pass
+57,Rohan Kumar,11-A,6.0,71.8,62.7,Low,High School,Yes,Yes,6.0,2,Fail
+77,Diya Joshi,9-A,18.7,84.9,100.0,High,Bachelor,Yes,No,8.1,0,Pass
+77,Rahul Nair,10-A,13.6,76.7,78.8,High,Bachelor,No,Yes,6.4,2,Pass
+78,Arjun Iyer,10-A,23.4,88.0,57.7,Medium,Bachelor,Yes,No,6.1,5,Pass
+80,Ananya Rao,12-B,14.0,86.3,75.6,Medium,High School,Yes,No,7.6,2,Pass
+81,Nikhil Patel,12-B,2.8,68.9,95.9,Medium,High School,Yes,Yes,7.0,1,Pass
+75,Ananya Pillai,11-B,15.8,96.4,43.2,Medium,Bachelor,Yes,No,6.4,3,Pass
+95,Vivaan Krishnan,9-C,23.7,83.2,54.2,Medium,High School,Yes,Yes,6.3,1,Pass
+76,Siddharth Nair,11-B,21.9,61.3,62.7,Medium,Master+,Yes,Yes,5.7,2,Pass
+87,Rohan Singh,12-C,21.2,77.4,56.2,Low,High School,Yes,Yes,6.5,1,Fail
+77,Priya Reddy,11-B,6.9,81.4,57.3,Low,High School,Yes,Yes,8.3,0,Fail
+88,Diya Iyer,12-C,20.6,97.7,51.7,High,High School,Yes,Yes,7.3,1,Pass
+96,Varun Kumar,9-C,10.4,78.0,85.7,Medium,High School,Yes,Yes,8.2,2,Pass
+58,Shreya Gupta,11-A,17.1,95.9,50.1,High,Bachelor,Yes,No,7.6,6,Pass
+76,Shreya Singh,9-B,5.6,80.2,59.2,Low,High School,Yes,No,6.3,0,Fail
+78,Arjun Pillai,11-B,10.8,66.2,80.6,Medium,Bachelor,Yes,No,5.0,1,Pass
+59,Diya Shetty,11-A,8.6,61.0,61.6,Low,Bachelor,Yes,No,5.9,2,Fail
+79,Nikhil Nair,10-A,16.5,91.5,48.3,Low,Master+,Yes,No,6.2,1,Pass
+82,Aditya Das,12-A,16.0,92.4,43.1,Low,Bachelor,No,Yes,6.1,0,Fail
+83,Karthik Pillai,12-A,13.4,81.9,58.8,Low,Master+,Yes,No,8.2,3,Pass
+91,Arjun Reddy,10-C,9.2,100.0,59.4,High,Master+,Yes,Yes,8.2,3,Pass
+80,Lakshmi Patel,10-A,12.4,94.7,68.9,Medium,High School,Yes,No,9.7,1,Pass
+78,Sneha Sharma,9-A,10.3,90.2,46.4,Medium,Master+,No,No,6.1,1,Pass
+77,Rohan Reddy,9-B,18.3,71.1,77.4,Medium,Master+,Yes,Yes,8.9,2,Pass
+81,Rahul Kumar,10-B,19.9,100.0,67.6,Medium,High School,Yes,No,8.9,1,Pass
+92,Pranav Iyer,10-C,19.3,88.4,68.7,Medium,Bachelor,Yes,No,6.7,4,Pass
+84,Ananya Krishnan,12-A,8.2,73.4,82.2,Low,High School,Yes,No,7.6,1,Pass
+89,Aditya Krishnan,12-C,2.3,78.0,63.9,High,Bachelor,Yes,Yes,8.5,1,Fail
+79,Nikhil Gupta,9-A,7.2,89.1,59.8,High,No Formal,Yes,No,6.9,1,Fail
+80,Aarthi Das,9-A,21.1,61.9,58.3,Medium,Bachelor,Yes,No,6.8,4,Pass
+79,Neha Verma,11-B,12.0,90.4,63.3,Medium,High School,Yes,Yes,6.2,2,Pass
+93,Aditya Rao,10-C,8.2,66.6,60.7,Low,Bachelor,No,No,4.2,0,Fail
+60,Priya Singh,11-A,24.2,90.4,58.4,High,No Formal,Yes,Yes,7.1,2,Pass
+82,Shreya Pillai,10-B,20.3,75.7,37.7,Medium,Bachelor,No,No,6.1,1,Pass
+83,Nikhil Krishnan,10-B,12.1,74.8,54.1,Low,High School,No,Yes,5.7,2,Fail
+94,Lakshmi Joshi,10-C,12.5,72.9,71.0,Medium,Bachelor,No,Yes,7.5,2,Pass
+80,Meera Reddy,11-B,13.3,80.1,67.9,Medium,High School,Yes,Yes,5.3,1,Fail
+81,Shreya Das,9-A,15.1,100.0,82.8,Medium,High School,Yes,No,8.0,3,Pass
+90,Arjun Kumar,12-C,22.0,98.6,93.4,Medium,High School,Yes,No,7.6,0,Pass
+95,Pranav Kumar,10-C,16.1,86.3,76.6,Medium,Master+,Yes,Yes,6.5,2,Pass
+78,Kavya Singh,9-B,15.6,77.7,81.4,Low,High School,Yes,Yes,6.9,3,Pass
+87,Karthik Das,11-C,21.8,96.1,80.7,High,Bachelor,Yes,No,5.6,0,Pass
+82,Rahul Nair,9-A,8.2,95.6,89.9,Medium,No Formal,Yes,Yes,7.9,3,Pass
+88,Neha Patel,11-C,17.8,72.0,91.9,Medium,Bachelor,Yes,Yes,7.2,0,Pass
+97,Karthik Das,9-C,10.5,77.1,75.3,Low,High School,Yes,No,7.3,0,Pass
+96,Divya Nair,10-C,3.4,64.1,79.9,High,High School,Yes,Yes,7.6,0,Fail
+89,Vivaan Shetty,11-C,1.4,91.5,59.1,Low,High School,Yes,No,6.2,4,Fail
+84,Priya Menon,10-B,6.9,100.0,61.4,Low,High School,Yes,Yes,5.2,2,Fail
+85,Ananya Gupta,12-A,16.7,83.0,61.3,Medium,High School,Yes,No,8.1,3,Pass
+97,Aarthi Reddy,10-C,12.6,52.5,70.7,Low,High School,Yes,No,7.8,3,Fail
+90,Rahul Verma,11-C,12.9,85.3,51.9,Low,Bachelor,Yes,Yes,6.4,0,Pass
+79,Rohan Krishnan,9-B,23.8,71.2,63.3,Medium,Master+,Yes,No,7.5,1,Pass
+82,Nikhil Iyer,12-B,7.7,74.0,33.0,Medium,High School,Yes,No,8.5,0,Fail
+61,Kavya Pillai,11-A,15.9,93.5,94.1,High,Master+,Yes,No,8.4,1,Pass
+91,Pranav Joshi,11-C,15.5,85.1,62.9,Medium,High School,No,Yes,6.3,2,Pass
+85,Vivaan Reddy,10-B,10.3,76.1,72.4,Medium,High School,No,Yes,5.2,2,Fail
+81,Kavya Gupta,10-A,14.1,74.2,86.4,Medium,High School,Yes,No,5.4,0,Pass
+98,Aarthi Shetty,10-C,6.0,83.5,70.2,Medium,High School,Yes,Yes,6.6,1,Pass
+82,Neha Singh,10-A,21.0,77.1,86.2,Medium,High School,Yes,Yes,8.8,2,Pass
+83,Priya Krishnan,9-A,10.6,68.7,48.6,Medium,Master+,Yes,Yes,6.1,0,Fail
+62,Shreya Sharma,11-A,26.2,82.0,100.0,High,Bachelor,Yes,No,6.3,2,Pass
+92,Priya Krishnan,11-C,13.8,86.1,81.2,Medium,Bachelor,No,Yes,6.3,1,Fail
+63,Vivaan Verma,11-A,17.1,75.9,64.9,Low,High School,No,Yes,6.4,1,Fail
+81,Lakshmi Nair,11-B,13.7,65.0,86.0,Medium,High School,Yes,No,7.0,1,Pass
+82,Meera Rao,11-B,15.8,97.9,53.6,High,Bachelor,Yes,Yes,5.5,2,Pass
+83,Pranav Gupta,12-B,9.1,45.1,58.0,Low,High School,No,Yes,8.3,4,Fail
+93,Lakshmi Krishnan,11-C,14.6,76.6,86.2,Medium,High School,Yes,No,6.8,1,Fail
+64,Ananya Nair,11-A,17.6,78.6,43.9,High,High School,Yes,Yes,10.0,2,Fail
+86,Ishaan Patel,10-B,10.1,83.8,73.8,Medium,High School,Yes,No,5.6,1,Fail
+80,Divya Joshi,9-B,15.4,92.7,77.5,High,Bachelor,Yes,Yes,8.9,1,Pass
+87,Vivaan Rao,10-B,10.9,95.5,93.6,Medium,No Formal,No,No,8.7,1,Pass
+94,Aditya Gupta,11-C,25.5,73.5,43.8,Medium,High School,No,No,6.5,0,Fail
+65,Pooja Singh,11-A,13.6,89.0,88.5,Medium,Master+,Yes,Yes,6.5,1,Pass
+66,Siddharth Verma,11-A,23.7,88.3,62.2,High,Master+,Yes,Yes,5.9,1,Pass
+83,Aditya Nair,11-B,13.0,61.5,59.7,Medium,High School,Yes,No,5.9,6,Pass
+84,Pranav Verma,9-A,15.3,100.0,48.9,Medium,High School,Yes,Yes,7.0,1,Pass
+91,Varun Gupta,12-C,7.4,64.7,50.8,Medium,Bachelor,No,Yes,7.0,2,Fail
+95,Neha Krishnan,11-C,11.8,87.0,71.6,Medium,No Formal,Yes,No,5.1,0,Fail
+99,Kavya Reddy,10-C,15.1,86.7,50.4,Medium,High School,Yes,No,9.8,0,Fail
+96,Varun Pillai,11-C,21.9,85.3,76.4,Medium,No Formal,Yes,No,6.7,0,Pass
+84,Arjun Shetty,12-B,17.1,80.1,60.7,High,High School,Yes,Yes,7.1,1,Pass
+98,Nikhil Joshi,9-C,20.9,91.9,49.0,Medium,Master+,No,Yes,6.2,2,Pass
+88,Rahul Sharma,10-B,17.2,63.3,58.6,Medium,Bachelor,Yes,No,6.7,5,Pass
+99,Ananya Menon,9-C,22.1,81.2,70.7,Medium,Master+,Yes,Yes,6.6,3,Pass
+83,Ishaan Reddy,10-A,13.7,75.2,62.1,Medium,Bachelor,No,Yes,7.0,2,Pass
+85,Varun Nair,9-A,26.0,73.9,66.5,Medium,Bachelor,Yes,Yes,7.0,3,Pass
+92,Neha Das,12-C,9.6,83.1,71.7,Low,Bachelor,Yes,Yes,8.0,2,Pass
+85,Pranav Verma,12-B,8.2,90.9,77.2,Low,Bachelor,Yes,No,7.3,3,Pass
+86,Pranav Pillai,12-A,7.9,77.9,61.7,Medium,High School,Yes,Yes,7.8,2,Fail
+100,Aarav Reddy,10-C,25.7,91.4,51.4,Medium,High School,Yes,No,7.0,1,Pass
+86,Pranav Iyer,12-B,18.1,82.6,67.1,Medium,Bachelor,Yes,Yes,7.3,1,Pass
+100,Karthik Rao,9-C,10.3,67.3,68.6,Low,High School,Yes,Yes,6.7,2,Fail
+81,Kavya Nair,9-B,20.2,78.9,45.5,Medium,High School,Yes,Yes,8.2,1,Pass
+101,Divya Shetty,10-C,15.4,74.4,49.5,Low,High School,Yes,No,7.4,1,Fail
+84,Ishaan Iyer,10-A,23.8,73.6,55.9,Medium,Bachelor,Yes,No,6.8,3,Pass
+93,Varun Nair,12-C,8.3,91.1,67.1,High,High School,Yes,No,6.8,1,Pass
+87,Aditya Das,12-A,10.7,80.8,51.3,Low,High School,Yes,Yes,6.9,3,Pass
+87,Divya Nair,12-B,11.7,62.9,75.9,Medium,High School,Yes,Yes,7.0,2,Pass
+94,Nikhil Rao,12-C,2.1,58.2,39.5,Low,High School,Yes,No,6.9,2,Fail
+84,Lakshmi Singh,11-B,17.3,83.1,39.9,Low,Master+,Yes,Yes,6.3,3,Pass
+67,Kavya Reddy,11-A,10.6,68.2,57.3,Low,High School,Yes,No,7.9,0,Fail
+82,Shreya Singh,9-B,15.7,81.6,59.5,Low,High School,Yes,Yes,8.0,1,Fail
+86,Aarthi Menon,9-A,25.8,91.4,45.6,Medium,No Formal,Yes,Yes,9.1,0,Pass
+88,Karthik Pillai,12-B,14.2,70.7,61.5,High,Bachelor,Yes,Yes,6.3,1,Pass
+68,Rahul Iyer,11-A,9.9,61.1,56.4,Low,Bachelor,Yes,Yes,7.8,2,Fail
+89,Sneha Patel,12-B,14.6,100.0,60.5,Medium,High School,Yes,No,4.7,1,Pass
+87,Varun Pillai,9-A,18.9,86.2,68.1,Medium,High School,No,No,8.0,0,Pass
+85,Pranav Sharma,11-B,13.2,81.0,60.7,High,Bachelor,Yes,No,5.3,2,Pass
+102,Pranav Reddy,10-C,10.8,70.8,86.7,Medium,Master+,Yes,No,5.8,2,Pass
+89,Karthik Kumar,10-B,17.3,71.9,68.8,Low,High School,Yes,Yes,7.4,2,Pass
+97,Meera Reddy,11-C,15.9,67.7,54.7,Medium,High School,Yes,No,6.3,0,Fail
+103,Arjun Sharma,10-C,3.8,92.6,67.3,Medium,High School,Yes,Yes,6.1,2,Fail
+101,Neha Verma,9-C,9.9,76.7,71.7,High,No Formal,Yes,No,6.4,2,Pass
+95,Siddharth Menon,12-C,21.5,95.1,83.0,Medium,Bachelor,Yes,Yes,7.9,5,Pass
+98,Siddharth Singh,11-C,16.0,77.2,57.6,Medium,Master+,No,No,5.9,1,Pass
+90,Sneha Kumar,10-B,8.2,65.5,72.7,Low,Master+,Yes,No,6.9,2,Pass
+86,Meera Sharma,11-B,13.1,76.9,66.6,Medium,Bachelor,Yes,No,6.5,1,Pass
+102,Meera Joshi,9-C,16.1,54.5,90.9,High,High School,Yes,No,8.0,0,Pass
+91,Vivaan Das,10-B,17.7,80.6,84.1,Medium,Master+,Yes,No,8.0,0,Pass
+85,Lakshmi Verma,10-A,7.2,80.0,68.8,Medium,High School,Yes,No,4.8,1,Fail
+92,Pooja Sharma,10-B,11.8,95.9,66.3,High,High School,Yes,No,8.3,3,Pass
+86,Vivaan Nair,10-A,17.4,63.4,77.1,High,Bachelor,Yes,Yes,6.3,0,Pass
+96,Sneha Das,12-C,13.5,95.9,63.5,Medium,No Formal,Yes,No,7.3,2,Pass
+103,Meera Patel,9-C,16.9,91.8,89.5,Medium,Bachelor,Yes,Yes,5.9,2,Pass
+99,Rohan Reddy,11-C,7.9,97.0,67.1,Medium,Master+,Yes,No,7.4,1,Pass
+90,Pranav Kumar,12-B,15.8,81.4,60.3,Medium,Bachelor,Yes,No,10.1,0,Fail
+91,Siddharth Reddy,12-B,19.5,94.2,59.6,Medium,Bachelor,Yes,Yes,7.2,0,Pass
+92,Rahul Shetty,12-B,14.4,60.3,45.0,Low,High School,Yes,No,6.4,3,Fail
+93,Karthik Krishnan,10-B,16.7,94.6,77.8,High,No Formal,Yes,No,6.7,4,Pass
+69,Aditya Pillai,11-A,15.5,76.7,58.5,High,Bachelor,No,No,5.2,1,Pass
+100,Aditya Rao,11-C,11.8,66.2,85.4,High,Bachelor,Yes,No,8.7,3,Pass
+93,Neha Joshi,12-B,15.6,72.5,51.9,High,Master+,No,No,7.4,0,Fail
+88,Priya Pillai,12-A,20.3,82.1,67.8,Medium,High School,Yes,No,5.7,1,Pass
+104,Meera Joshi,10-C,13.4,72.1,82.1,Medium,High School,Yes,Yes,5.8,2,Pass
+83,Kavya Singh,9-B,9.6,86.5,35.9,Medium,High School,Yes,Yes,7.0,0,Fail
+94,Vivaan Verma,10-B,11.5,60.3,94.3,Medium,Bachelor,Yes,No,8.1,3,Pass
+95,Sneha Kumar,10-B,15.0,56.5,60.0,Medium,Bachelor,Yes,Yes,5.6,1,Fail
+87,Arjun Gupta,10-A,10.1,94.5,64.0,Low,Master+,Yes,Yes,8.3,3,Pass
+94,Divya Joshi,12-B,16.4,92.8,74.0,Medium,High School,Yes,Yes,6.9,2,Pass
+84,Varun Krishnan,9-B,14.6,65.4,72.2,Low,High School,Yes,Yes,5.9,0,Fail
+96,Kavya Verma,10-B,16.4,78.0,65.8,Low,No Formal,Yes,No,6.4,1,Pass
+88,Vivaan Rao,10-A,21.1,94.2,80.0,Medium,High School,Yes,Yes,9.1,3,Pass
+105,Diya Das,10-C,19.0,87.0,73.3,Medium,High School,No,Yes,5.3,1,Pass
+85,Siddharth Kumar,9-B,7.3,79.8,86.7,Low,Bachelor,Yes,No,6.1,1,Pass
+97,Varun Pillai,12-C,11.5,99.1,77.3,High,High School,Yes,No,8.1,0,Pass
+87,Meera Nair,11-B,15.6,77.2,97.5,High,High School,Yes,Yes,7.3,0,Pass
+88,Priya Rao,9-A,9.7,78.4,74.6,Low,Bachelor,Yes,No,6.1,1,Fail
+101,Kavya Krishnan,11-C,6.3,77.8,36.7,Low,Bachelor,Yes,Yes,8.2,0,Fail
+88,Rahul Joshi,11-B,11.8,78.7,100.0,Medium,High School,Yes,No,8.2,1,Pass
+97,Meera Menon,10-B,11.6,77.3,58.0,Medium,High School,Yes,Yes,7.4,2,Pass
+89,Neha Nair,12-A,12.6,86.9,90.9,High,Bachelor,Yes,Yes,6.3,0,Pass
+90,Aarthi Rao,12-A,10.4,78.4,62.4,Low,Bachelor,Yes,Yes,6.5,0,Pass
+91,Aarthi Nair,12-A,19.9,69.4,80.9,Medium,Bachelor,Yes,No,7.3,2,Pass
+89,Lakshmi Reddy,11-B,13.0,87.6,52.4,Low,High School,Yes,Yes,5.4,1,Fail
+89,Pranav Krishnan,10-A,26.4,70.3,74.8,Medium,Bachelor,Yes,No,8.6,0,Pass
+89,Meera Menon,9-A,16.9,83.4,66.5,High,Master+,Yes,No,9.0,2,Pass
+104,Siddharth Reddy,9-C,10.5,74.5,84.1,Low,High School,Yes,Yes,6.7,3,Pass
+98,Aditya Das,12-C,12.0,82.3,68.1,Low,High School,Yes,No,7.4,2,Pass
+99,Rahul Reddy,12-C,15.3,56.6,79.1,Medium,Master+,Yes,Yes,8.4,0,Pass
+105,Ananya Rao,9-C,16.2,92.7,35.7,Medium,High School,No,Yes,9.3,3,Fail
+92,Neha Iyer,12-A,26.4,77.9,68.8,High,Bachelor,Yes,Yes,8.9,3,Pass
+86,Rahul Nair,9-B,11.8,100.0,75.7,High,Master+,Yes,Yes,4.9,1,Pass
+106,Rohan Singh,9-C,16.3,72.3,65.1,Low,High School,Yes,Yes,6.6,3,Fail
+90,Karthik Das,9-A,13.0,77.4,75.5,Low,Bachelor,Yes,No,7.6,2,Pass
+98,Pooja Menon,10-B,6.1,100.0,60.9,Medium,High School,Yes,No,6.4,0,Fail
+99,Karthik Shetty,10-B,15.9,74.7,62.7,Low,Master+,Yes,Yes,9.1,0,Pass
+102,Shreya Krishnan,11-C,22.3,100.0,86.5,High,Master+,Yes,Yes,9.0,3,Pass
+90,Neha Joshi,10-A,9.7,82.5,34.1,Medium,Master+,Yes,No,6.0,2,Fail
+87,Lakshmi Verma,9-B,12.0,83.0,70.3,Low,No Formal,Yes,Yes,6.8,0,Pass
+91,Pranav Krishnan,9-A,7.4,86.8,65.3,High,Bachelor,Yes,No,6.1,0,Pass
+100,Aarav Shetty,12-C,5.7,88.2,49.2,Low,Master+,No,No,6.8,6,Pass
+70,Pranav Kumar,11-A,19.2,73.8,70.7,Medium,Bachelor,Yes,Yes,6.7,1,Pass
+95,Aarthi Nair,12-B,11.7,70.2,83.2,Medium,Bachelor,Yes,No,8.1,3,Pass
+88,Shreya Das,9-B,8.5,74.3,80.5,Medium,No Formal,Yes,No,5.9,2,Pass
+91,Aarav Shetty,10-A,15.1,83.2,64.1,Medium,Master+,Yes,No,3.9,2,Pass
+107,Aditya Shetty,9-C,11.4,79.4,78.3,Medium,No Formal,Yes,No,5.1,1,Fail
+93,Pooja Pillai,12-A,13.6,94.5,82.2,High,High School,Yes,Yes,5.8,1,Pass
+89,Kavya Shetty,9-B,19.7,100.0,68.8,High,Master+,Yes,No,6.2,2,Pass
+101,Ishaan Das,12-C,8.2,70.3,56.3,Medium,Master+,Yes,Yes,7.2,2,Fail
+108,Rohan Pillai,9-C,7.5,69.2,53.1,Low,Master+,Yes,Yes,5.7,1,Fail
+103,Rohan Sharma,11-C,14.8,64.8,77.7,Medium,High School,Yes,No,5.5,2,Pass
+92,Arjun Menon,10-A,20.8,100.0,69.4,High,High School,Yes,Yes,5.9,3,Pass
+96,Shreya Sharma,12-B,20.2,85.7,51.4,Medium,High School,No,No,5.7,3,Pass
+92,Vivaan Reddy,9-A,10.7,87.8,42.4,Medium,High School,Yes,No,6.3,3,Fail
+106,Rohan Singh,10-C,18.7,65.9,77.6,Medium,Master+,No,No,6.3,0,Pass
+90,Pooja Sharma,11-B,8.1,78.0,54.3,Low,Bachelor,No,No,7.8,2,Fail
+94,Pooja Krishnan,12-A,23.1,88.1,70.6,Medium,High School,Yes,No,5.8,1,Pass
+104,Vivaan Menon,11-C,8.3,79.0,83.4,Medium,No Formal,Yes,No,6.6,0,Pass
+109,Pooja Das,9-C,20.6,94.9,47.7,Medium,High School,No,No,6.3,1,Fail
+71,Rohan Nair,11-A,12.7,100.0,69.4,High,Master+,Yes,No,8.0,2,Pass
+107,Ananya Shetty,10-C,26.1,74.6,67.6,High,Bachelor,Yes,No,6.8,1,Pass
+97,Neha Menon,12-B,17.0,69.7,71.3,Medium,No Formal,Yes,Yes,8.3,2,Pass
+91,Priya Singh,11-B,8.9,71.5,83.3,Medium,High School,Yes,Yes,5.6,0,Pass
+95,Diya Pillai,12-A,11.4,100.0,47.4,Medium,High School,No,Yes,6.9,1,Pass
+90,Rahul Singh,9-B,19.9,98.5,78.0,High,High School,Yes,Yes,6.3,2,Pass
+105,Kavya Gupta,11-C,19.3,80.4,80.4,Medium,Master+,No,Yes,5.5,0,Pass
+72,Shreya Das,11-A,15.6,86.4,67.4,High,Bachelor,Yes,No,6.9,1,Pass
+100,Lakshmi Joshi,10-B,12.2,68.2,60.1,Low,No Formal,Yes,No,9.1,2,Fail
+93,Priya Kumar,10-A,19.8,96.7,75.9,High,Bachelor,Yes,No,6.0,0,Pass
+73,Priya Krishnan,11-A,12.7,73.4,66.8,Low,High School,No,No,6.8,0,Fail
+94,Varun Patel,10-A,5.5,74.9,70.2,Low,High School,No,No,5.4,3,Pass
+95,Diya Kumar,10-A,9.9,89.3,73.9,Medium,Bachelor,No,No,5.2,0,Pass
+106,Aarav Kumar,11-C,13.2,75.7,48.3,Low,No Formal,Yes,No,6.1,2,Fail
+102,Aditya Patel,12-C,18.1,75.2,75.9,Low,High School,Yes,Yes,6.5,0,Pass
+110,Vivaan Patel,9-C,20.1,78.1,78.3,Low,Bachelor,Yes,No,6.5,0,Pass
+96,Lakshmi Shetty,12-A,17.9,91.5,68.6,Medium,Master+,No,Yes,6.7,1,Pass
+93,Varun Singh,9-A,15.4,100.0,45.1,Medium,High School,Yes,Yes,5.0,1,Pass
+111,Sneha Verma,9-C,15.7,85.0,60.4,Low,Bachelor,Yes,Yes,6.2,1,Pass
+112,Sneha Reddy,9-C,10.7,91.6,68.7,Medium,High School,Yes,No,7.6,1,Pass
+113,Neha Gupta,9-C,15.2,83.6,54.0,High,Bachelor,Yes,No,5.4,0,Pass
+103,Meera Reddy,12-C,7.9,69.5,57.0,Low,High School,Yes,Yes,6.6,1,Fail
+108,Diya Menon,10-C,5.8,85.8,42.3,Low,Bachelor,Yes,No,7.4,1,Fail
+98,Pooja Rao,12-B,17.7,88.1,78.5,High,High School,Yes,Yes,6.1,3,Pass
+91,Pranav Pillai,9-B,16.9,68.9,72.3,High,Master+,Yes,Yes,7.4,1,Pass
+107,Aarav Das,11-C,17.4,78.1,43.0,Medium,Master+,Yes,Yes,5.2,3,Pass
+109,Aarav Iyer,10-C,18.7,85.0,74.9,High,High School,Yes,Yes,8.1,3,Pass
+108,Diya Iyer,11-C,13.2,71.9,61.2,Low,Bachelor,Yes,No,7.4,5,Pass
+97,Aarav Rao,12-A,16.8,99.8,73.2,Medium,No Formal,Yes,Yes,7.1,0,Pass
+74,Aarthi Iyer,11-A,13.8,87.8,60.5,Medium,Bachelor,Yes,Yes,8.3,2,Pass
+92,Rahul Pillai,11-B,14.1,94.5,50.8,Low,High School,Yes,Yes,6.6,5,Pass
+110,Neha Singh,10-C,10.4,85.2,55.2,Medium,High School,Yes,No,6.3,2,Fail
+92,Sneha Shetty,9-B,15.8,83.0,58.5,Medium,Bachelor,No,No,8.6,1,Pass
+93,Vivaan Verma,9-B,17.3,70.8,66.3,Medium,High School,Yes,No,9.2,3,Pass
+96,Diya Rao,10-A,10.7,82.1,68.1,Medium,Bachelor,Yes,No,6.2,4,Pass
+75,Kavya Krishnan,11-A,14.3,82.2,63.3,Medium,Bachelor,Yes,No,6.9,2,Pass
+94,Neha Joshi,9-A,8.9,61.6,56.1,Low,No Formal,Yes,Yes,8.3,1,Fail
+97,Diya Nair,10-A,9.4,71.5,57.1,Low,No Formal,No,Yes,6.9,1,Fail
+109,Rohan Shetty,11-C,8.4,78.1,100.0,Medium,Bachelor,No,No,7.7,2,Pass
+104,Arjun Menon,12-C,18.3,83.0,51.2,Low,Bachelor,Yes,Yes,7.9,5,Pass
+99,Nikhil Das,12-B,17.3,83.5,54.2,Low,No Formal,No,No,6.3,3,Fail
+114,Pranav Das,9-C,14.7,71.0,100.0,Low,High School,Yes,No,7.5,3,Pass
+94,Priya Krishnan,9-B,21.9,83.6,67.9,Low,Bachelor,Yes,Yes,7.0,2,Pass
+93,Rohan Joshi,11-B,15.1,83.8,50.7,High,Bachelor,Yes,No,5.5,2,Pass
+100,Lakshmi Shetty,12-B,29.2,47.6,77.8,Medium,Bachelor,Yes,Yes,5.8,2,Pass
+101,Diya Patel,10-B,14.9,80.2,57.3,High,High School,Yes,Yes,6.2,0,Fail
+98,Priya Verma,12-A,13.3,90.9,74.7,Low,Bachelor,Yes,No,8.1,3,Pass
+76,Rohan Pillai,11-A,12.0,61.8,63.0,Medium,Bachelor,Yes,No,8.2,2,Pass
+105,Karthik Joshi,12-C,15.9,83.4,59.8,Medium,High School,Yes,Yes,7.9,5,Pass
+106,Ananya Shetty,12-C,18.2,100.0,88.5,Medium,No Formal,Yes,Yes,7.5,1,Pass
+95,Arjun Reddy,9-B,15.4,76.9,77.9,High,No Formal,Yes,Yes,7.5,1,Pass
+98,Neha Patel,10-A,24.9,86.0,83.6,High,Bachelor,Yes,Yes,7.3,1,Pass
+115,Aditya Shetty,9-C,17.2,70.4,76.1,High,High School,Yes,Yes,7.5,0,Pass
+96,Nikhil Krishnan,9-B,13.4,97.5,55.8,Low,Bachelor,Yes,Yes,7.6,2,Pass
+102,Ananya Joshi,10-B,7.5,77.0,70.6,Low,Bachelor,Yes,No,5.3,5,Fail
+94,Sneha Menon,11-B,16.1,82.6,82.9,Medium,High School,Yes,No,6.1,1,Pass
+107,Diya Kumar,12-C,11.3,94.3,63.9,Low,Bachelor,Yes,No,5.8,2,Pass
+95,Lakshmi Singh,9-A,11.0,89.9,91.2,Medium,Bachelor,Yes,No,8.3,4,Pass
+97,Aarav Rao,9-B,10.1,71.5,77.9,Medium,No Formal,No,No,9.0,0,Pass
+116,Nikhil Krishnan,9-C,27.4,74.2,69.0,Medium,Bachelor,Yes,No,4.4,2,Pass
+99,Ananya Gupta,12-A,14.7,91.9,73.5,High,Bachelor,Yes,No,8.9,1,Pass
+110,Vivaan Rao,11-C,6.7,74.5,67.9,Medium,High School,Yes,No,7.1,1,Pass
+99,Rahul Menon,10-A,8.5,52.6,44.5,Low,Bachelor,Yes,No,8.2,0,Fail
+98,Varun Krishnan,9-B,11.7,77.4,60.7,Low,Bachelor,Yes,No,7.6,0,Fail
+100,Rahul Gupta,10-A,16.7,64.2,69.1,Medium,High School,Yes,No,8.7,1,Fail
+117,Neha Iyer,9-C,16.8,100.0,60.2,Medium,Master+,Yes,Yes,7.3,1,Pass
+96,Ananya Singh,9-A,15.4,80.1,66.7,Low,Bachelor,No,Yes,5.4,2,Pass
+111,Aarav Menon,10-C,10.8,71.1,66.3,Medium,Bachelor,Yes,Yes,6.9,1,Pass
+77,Aditya Kumar,11-A,15.7,73.6,76.8,Medium,No Formal,Yes,Yes,7.6,4,Pass
+101,Aditya Das,10-A,11.6,63.3,79.3,High,High School,No,Yes,6.7,0,Pass
+101,Ishaan Kumar,12-B,10.9,68.8,68.3,Medium,High School,Yes,Yes,7.8,0,Pass
+100,Aarav Menon,12-A,9.4,94.2,46.9,Medium,Bachelor,No,Yes,6.9,1,Fail
+97,Aditya Menon,9-A,6.1,100.0,87.1,Low,Bachelor,Yes,No,6.3,0,Pass
+112,Sneha Menon,10-C,19.3,90.7,64.0,Medium,Bachelor,Yes,Yes,5.7,0,Pass
+95,Priya Gupta,11-B,17.4,80.9,64.9,Medium,High School,No,Yes,6.5,0,Fail
+103,Arjun Pillai,10-B,18.9,76.8,61.2,Medium,Bachelor,Yes,Yes,7.2,1,Pass
+102,Aarthi Nair,10-A,14.2,70.5,59.2,Medium,Bachelor,No,Yes,4.6,2,Pass
+111,Ananya Kumar,11-C,15.9,100.0,83.6,Low,Bachelor,Yes,No,6.1,1,Pass
+98,Nikhil Joshi,9-A,3.2,75.7,81.4,Low,Bachelor,No,No,4.6,1,Fail
+102,Kavya Krishnan,12-B,16.3,100.0,68.2,Low,Master+,Yes,Yes,6.3,2,Pass
+113,Sneha Sharma,10-C,16.9,100.0,68.5,High,No Formal,Yes,No,8.4,0,Pass
+114,Lakshmi Reddy,10-C,17.1,61.1,74.7,Medium,Bachelor,Yes,Yes,5.6,0,Pass
+99,Pranav Krishnan,9-B,13.9,70.0,63.0,Low,Master+,No,No,7.8,2,Fail
+78,Shreya Nair,11-A,11.1,78.0,67.3,High,Bachelor,Yes,No,10.4,0,Fail
+112,Shreya Verma,11-C,6.5,81.0,70.7,Medium,High School,Yes,No,8.7,1,Fail
+79,Varun Shetty,11-A,10.4,81.3,59.8,Medium,Master+,No,Yes,7.2,1,Fail
+104,Vivaan Reddy,10-B,18.8,100.0,73.5,High,High School,Yes,No,8.0,6,Pass
+103,Kavya Reddy,10-A,15.5,65.1,64.9,Low,High School,Yes,No,5.4,0,Fail
+80,Rahul Verma,11-A,5.2,80.7,70.4,Low,High School,Yes,No,5.1,0,Fail
+100,Varun Kumar,9-B,9.1,89.4,57.3,Medium,High School,Yes,Yes,7.0,2,Fail
+105,Priya Singh,10-B,8.4,78.0,71.9,Low,High School,Yes,No,7.5,3,Pass
+113,Rahul Iyer,11-C,12.2,83.3,53.3,Medium,High School,Yes,Yes,8.3,0,Fail
+114,Ananya Gupta,11-C,5.2,65.5,54.0,Low,Master+,Yes,Yes,6.3,1,Fail
+115,Pooja Shetty,10-C,4.9,79.3,54.6,Low,High School,Yes,No,7.2,1,Fail
+116,Aarav Pillai,10-C,7.9,84.1,47.0,Low,Bachelor,Yes,Yes,7.2,1,Fail
+106,Kavya Sharma,10-B,14.4,85.9,80.2,Medium,Master+,Yes,Yes,6.8,1,Pass
+103,Ishaan Gupta,12-B,6.1,84.8,48.4,Low,Bachelor,Yes,No,6.9,1,Fail
+96,Lakshmi Pillai,11-B,11.4,95.0,52.2,Low,High School,Yes,No,6.0,1,Fail
+101,Pranav Iyer,9-B,21.3,97.2,87.6,High,No Formal,Yes,No,7.3,0,Pass
+99,Nikhil Joshi,9-A,7.5,82.9,58.0,Medium,Bachelor,Yes,No,7.2,4,Pass
+100,Meera Pillai,9-A,13.0,67.9,63.4,Medium,Bachelor,Yes,No,6.5,1,Pass
+102,Arjun Sharma,9-B,17.1,70.8,47.8,Low,Bachelor,Yes,No,7.8,5,Pass
+103,Aarthi Verma,9-B,11.9,79.4,77.7,Medium,High School,Yes,Yes,8.2,2,Pass
+117,Pranav Menon,10-C,9.1,81.0,73.9,Low,Bachelor,No,Yes,7.8,2,Pass
+115,Neha Iyer,11-C,19.8,76.3,76.3,Medium,Bachelor,Yes,No,5.7,2,Pass
+101,Priya Reddy,12-A,10.5,66.8,69.5,Low,Bachelor,No,Yes,7.1,0,Fail
+81,Rahul Patel,11-A,21.5,71.7,71.0,High,Master+,Yes,Yes,5.9,1,Pass
+108,Aarthi Kumar,12-C,18.1,66.2,62.7,High,Bachelor,Yes,No,7.1,1,Pass
+97,Diya Kumar,11-B,10.3,75.2,50.6,Low,Bachelor,No,Yes,5.9,1,Fail
+104,Arjun Joshi,10-A,14.4,60.4,80.1,Low,Bachelor,Yes,Yes,8.5,5,Pass
+116,Aarthi Pillai,11-C,13.6,66.0,72.7,Low,Bachelor,Yes,No,7.9,0,Pass
+107,Sneha Nair,10-B,19.1,77.3,56.3,Medium,Bachelor,Yes,Yes,8.4,1,Fail
+105,Priya Das,10-A,9.3,62.0,62.6,Low,High School,Yes,No,8.3,5,Fail
+104,Diya Das,12-B,16.2,90.6,65.8,High,Bachelor,Yes,Yes,6.7,2,Pass
+109,Siddharth Singh,12-C,13.7,90.9,50.2,Medium,Bachelor,Yes,No,6.5,3,Pass
+117,Nikhil Verma,11-C,19.5,79.4,72.5,High,High School,Yes,Yes,9.1,0,Pass
+82,Rohan Kumar,11-A,8.9,76.8,60.2,Medium,High School,Yes,No,6.8,3,Fail
+98,Aarthi Sharma,11-B,21.1,92.4,56.7,High,Bachelor,Yes,Yes,5.4,3,Pass
+105,Priya Sharma,12-B,14.3,69.4,41.3,Low,Bachelor,Yes,Yes,8.2,1,Fail
+118,Priya Patel,9-C,7.4,72.6,44.1,Medium,High School,Yes,No,7.2,0,Fail
+106,Rohan Menon,10-A,20.0,96.4,60.8,Medium,High School,Yes,Yes,8.8,1,Pass
+119,Siddharth Reddy,9-C,27.2,96.6,68.8,High,High School,No,No,7.3,2,Pass
+99,Priya Gupta,11-B,19.0,89.2,53.7,Medium,Master+,Yes,Yes,7.0,0,Pass
+108,Meera Krishnan,10-B,23.1,97.1,79.1,High,Master+,No,Yes,8.8,3,Pass
+109,Aarthi Joshi,10-B,12.4,54.3,61.1,Low,Bachelor,Yes,Yes,5.2,3,Pass
+106,Meera Pillai,12-B,7.7,100.0,78.1,High,High School,Yes,No,6.3,1,Pass
+101,Pooja Pillai,9-A,4.8,86.7,63.4,Medium,Bachelor,Yes,Yes,5.9,3,Fail
+107,Priya Das,12-B,15.3,94.1,55.0,Medium,Bachelor,No,Yes,4.4,2,Fail
+110,Shreya Menon,10-B,13.0,90.6,71.6,High,Master+,No,No,8.0,2,Pass
+104,Karthik Rao,9-B,9.4,82.6,48.3,Medium,No Formal,Yes,Yes,6.3,3,Fail
+105,Aarav Kumar,9-B,13.7,78.7,73.6,Medium,No Formal,Yes,No,8.1,3,Pass
+100,Varun Reddy,11-B,17.1,86.4,52.9,Medium,Bachelor,Yes,No,7.5,2,Pass
+102,Varun Singh,12-A,4.7,74.3,74.9,Low,High School,Yes,No,7.7,3,Fail
+108,Siddharth Menon,12-B,11.8,92.4,61.3,Medium,Bachelor,Yes,No,6.5,0,Fail
+102,Varun Reddy,9-A,19.5,59.0,76.9,Low,Bachelor,Yes,Yes,6.1,4,Pass
+109,Sneha Kumar,12-B,6.6,71.5,46.3,Low,High School,No,No,7.1,0,Fail
+106,Priya Joshi,9-B,20.3,100.0,60.5,High,High School,Yes,No,8.1,0,Pass
+107,Neha Kumar,10-A,11.6,74.5,71.3,Medium,Bachelor,Yes,Yes,6.9,0,Pass
+120,Meera Rao,9-C,16.7,79.1,82.4,Medium,Bachelor,No,No,6.2,1,Pass
+108,Priya Nair,10-A,19.5,71.4,89.3,Medium,High School,Yes,No,5.6,0,Pass
+111,Ishaan Nair,10-B,17.7,86.0,66.6,Medium,High School,Yes,Yes,7.2,1,Pass
+110,Aarav Joshi,12-B,18.5,73.2,91.7,Medium,Bachelor,Yes,Yes,6.3,3,Pass
+118,Nikhil Reddy,10-C,10.2,83.8,65.9,High,High School,No,No,6.9,0,Pass
+119,Aarthi Kumar,10-C,21.6,96.2,85.4,High,Bachelor,Yes,No,6.7,1,Pass
+112,Shreya Verma,10-B,9.7,73.6,52.8,Medium,Bachelor,Yes,No,6.5,2,Fail
+120,Sneha Menon,10-C,15.3,91.5,71.9,Medium,High School,Yes,Yes,7.4,2,Pass
+83,Ananya Gupta,11-A,15.3,91.9,33.2,Medium,Bachelor,Yes,Yes,7.7,0,Fail
+121,Varun Pillai,9-C,16.4,94.7,50.3,Medium,Bachelor,Yes,Yes,9.4,2,Pass
+109,Aditya Iyer,10-A,15.7,83.7,72.5,Medium,High School,No,Yes,7.9,0,Pass
+118,Meera Patel,11-C,9.8,100.0,47.6,Medium,Bachelor,Yes,No,8.9,3,Pass
+103,Diya Rao,12-A,7.3,94.7,72.0,Medium,Master+,Yes,Yes,6.0,1,Pass
+103,Kavya Iyer,9-A,18.4,85.9,78.7,Medium,Bachelor,Yes,Yes,5.1,2,Pass
+121,Vivaan Iyer,10-C,14.9,71.5,59.0,Medium,High School,Yes,No,7.0,1,Pass
+119,Aarthi Gupta,11-C,19.7,80.8,52.4,Medium,Bachelor,Yes,Yes,8.0,2,Pass
+111,Pooja Reddy,12-B,11.8,95.1,55.4,Low,High School,Yes,Yes,7.8,2,Pass
+110,Arjun Nair,12-C,5.0,98.5,48.5,Low,Bachelor,Yes,No,8.5,4,Fail
+104,Sneha Gupta,12-A,18.8,99.7,64.6,Medium,Bachelor,Yes,Yes,4.0,1,Pass
+101,Arjun Menon,11-B,12.1,91.4,67.4,Medium,High School,Yes,No,8.5,3,Pass
+104,Vivaan Gupta,9-A,13.7,62.9,57.7,Low,High School,Yes,Yes,7.4,2,Fail
+112,Sneha Sharma,12-B,10.8,87.8,89.4,Medium,Master+,No,Yes,5.1,0,Pass
+102,Aditya Das,11-B,22.2,67.1,55.9,Medium,High School,No,No,7.9,1,Pass
+113,Varun Shetty,12-B,7.6,60.2,81.5,Low,Bachelor,Yes,Yes,7.2,2,Pass
+105,Sneha Singh,12-A,14.3,88.9,55.4,High,Bachelor,Yes,No,7.5,4,Pass
+106,Pooja Shetty,12-A,16.5,92.3,71.0,High,Bachelor,Yes,Yes,8.2,1,Pass
+110,Varun Rao,10-A,8.5,92.8,82.6,Medium,High School,Yes,No,7.5,1,Pass
+84,Diya Reddy,11-A,15.7,88.0,81.8,Medium,High School,Yes,Yes,5.2,1,Pass
+103,Rohan Rao,11-B,20.1,84.4,56.1,Low,High School,Yes,No,6.8,1,Pass
+107,Pooja Menon,12-A,13.5,74.2,77.8,High,Bachelor,No,No,5.1,1,Pass
+122,Kavya Shetty,9-C,16.0,80.7,71.9,Medium,Master+,Yes,No,7.8,0,Pass
+104,Diya Patel,11-B,2.3,67.9,62.4,High,Master+,Yes,Yes,8.7,2,Fail
+85,Lakshmi Patel,11-A,13.8,58.0,74.6,Medium,No Formal,Yes,No,5.5,1,Fail
+123,Nikhil Krishnan,9-C,10.4,86.9,88.1,Low,High School,Yes,No,6.2,3,Pass
+111,Ananya Kumar,10-A,7.9,69.0,68.6,Low,High School,Yes,Yes,5.9,3,Pass
+108,Ishaan Pillai,12-A,19.4,92.5,73.9,Medium,Master+,No,No,6.5,5,Pass
+107,Divya Patel,9-B,12.4,95.3,75.4,Medium,High School,Yes,Yes,7.5,1,Pass
+86,Divya Verma,11-A,11.1,70.6,41.5,Low,High School,Yes,Yes,6.5,1,Fail
+120,Arjun Iyer,11-C,12.1,89.1,72.4,Medium,Bachelor,Yes,No,7.8,3,Pass
+111,Sneha Das,12-C,6.4,78.1,55.8,High,Bachelor,No,Yes,8.3,3,Pass
+113,Aarav Singh,10-B,8.3,59.8,57.7,Medium,High School,Yes,Yes,8.3,0,Fail
+122,Arjun Verma,10-C,18.8,83.5,96.3,Medium,Bachelor,Yes,No,5.7,1,Pass
+105,Lakshmi Verma,9-A,1.5,72.3,58.5,Low,No Formal,Yes,No,8.7,1,Fail
+114,Karthik Joshi,10-B,10.2,76.7,55.6,Medium,No Formal,Yes,Yes,8.8,0,Fail
+112,Nikhil Reddy,12-C,12.0,100.0,82.1,Medium,No Formal,Yes,Yes,8.9,1,Pass
+114,Diya Menon,12-B,24.7,67.7,56.7,High,High School,Yes,Yes,6.8,2,Pass
+123,Priya Shetty,10-C,17.8,86.6,59.7,Medium,Master+,Yes,No,6.1,0,Pass
+105,Rahul Pillai,11-B,11.2,70.1,83.5,Medium,Bachelor,Yes,No,5.8,1,Pass
+113,Rohan Krishnan,12-C,18.5,88.9,62.6,Low,Bachelor,No,No,5.7,1,Fail
+115,Ananya Joshi,10-B,8.3,81.6,40.1,Low,High School,Yes,No,7.0,2,Fail
+112,Rahul Patel,10-A,19.0,86.6,73.6,Medium,Bachelor,No,No,8.0,7,Pass
+114,Shreya Iyer,12-C,7.2,70.7,60.4,Medium,Master+,Yes,Yes,8.6,2,Fail
+109,Sneha Patel,12-A,19.4,72.8,87.6,Medium,High School,Yes,Yes,6.4,1,Pass
+87,Nikhil Das,11-A,14.0,97.1,61.5,High,Master+,Yes,Yes,7.0,1,Pass
+124,Divya Menon,9-C,10.9,100.0,84.7,High,Bachelor,Yes,Yes,6.9,1,Pass
+125,Meera Sharma,9-C,14.9,91.8,94.9,High,Bachelor,Yes,Yes,6.2,1,Pass
+108,Karthik Das,9-B,13.4,67.2,50.1,Low,High School,Yes,No,7.9,1,Fail
+106,Meera Sharma,11-B,11.5,86.1,63.3,Medium,Bachelor,No,Yes,7.4,1,Pass
+126,Varun Rao,9-C,18.8,100.0,75.4,High,Bachelor,No,Yes,7.2,2,Pass
+127,Siddharth Menon,9-C,11.1,83.2,54.0,Medium,Master+,Yes,No,7.4,2,Fail
+121,Nikhil Singh,11-C,15.1,95.5,65.8,Low,Master+,Yes,No,7.7,1,Pass
+113,Arjun Nair,10-A,18.2,77.1,66.9,High,High School,Yes,Yes,7.7,1,Pass
+88,Shreya Das,11-A,13.7,81.5,62.6,Medium,Master+,Yes,No,6.0,3,Pass
+128,Pranav Shetty,9-C,11.8,89.4,66.7,Medium,Master+,Yes,No,8.1,3,Pass
+109,Pooja Das,9-B,16.8,90.8,71.0,High,Bachelor,Yes,Yes,7.3,0,Pass
+110,Lakshmi Verma,9-B,16.8,72.8,68.3,Medium,No Formal,Yes,No,6.5,0,Fail
+107,Ishaan Kumar,11-B,24.3,72.3,57.6,Medium,High School,Yes,Yes,7.3,2,Pass
+115,Lakshmi Nair,12-B,18.7,93.9,58.2,Medium,No Formal,Yes,Yes,7.4,1,Pass
+110,Priya Reddy,12-A,18.9,96.3,64.3,Medium,High School,No,Yes,8.3,2,Pass
+111,Rohan Das,9-B,27.4,96.1,61.4,Low,Master+,Yes,Yes,5.7,4,Pass
+89,Pranav Nair,11-A,16.6,100.0,59.9,Medium,High School,Yes,No,8.6,0,Pass
+111,Shreya Verma,12-A,18.4,87.6,74.5,High,Bachelor,Yes,No,7.0,0,Pass
+129,Karthik Gupta,9-C,15.5,74.3,36.6,Low,Bachelor,Yes,Yes,6.4,2,Fail
+90,Siddharth Joshi,11-A,9.0,98.2,55.8,Medium,Bachelor,Yes,No,6.4,4,Fail
+124,Aarthi Rao,10-C,13.8,94.6,66.1,High,High School,Yes,Yes,5.8,4,Pass
+106,Neha Das,9-A,9.5,66.2,50.0,Low,Bachelor,No,Yes,4.9,1,Fail
+115,Arjun Menon,12-C,17.2,69.6,88.8,Medium,Bachelor,Yes,No,7.8,1,Pass
+112,Pooja Singh,12-A,13.1,87.9,66.3,Medium,Bachelor,Yes,Yes,9.4,0,Pass
+122,Aditya Joshi,11-C,14.7,79.9,68.5,Medium,High School,Yes,No,5.1,0,Fail
+112,Diya Iyer,9-B,17.4,77.7,55.2,Low,Bachelor,No,Yes,5.9,2,Pass
+125,Pooja Krishnan,10-C,18.3,94.9,65.8,Medium,No Formal,Yes,No,7.9,1,Pass
+123,Kavya Das,11-C,13.2,91.1,49.0,Medium,Bachelor,Yes,Yes,6.9,1,Pass
+116,Karthik Das,12-B,10.7,98.0,63.6,Medium,High School,No,Yes,8.0,3,Pass
+116,Varun Iyer,12-C,17.7,54.8,48.9,Low,High School,Yes,No,6.9,1,Fail
+124,Neha Reddy,11-C,17.9,85.0,62.1,Medium,Bachelor,Yes,No,6.3,1,Pass
+117,Ananya Reddy,12-B,6.0,90.3,30.2,Medium,High School,Yes,Yes,6.7,2,Fail
+91,Ananya Pillai,11-A,10.4,59.7,46.2,Low,Master+,Yes,No,4.1,1,Fail
+114,Ishaan Nair,10-A,12.8,70.1,82.5,Low,Master+,No,Yes,5.6,2,Pass
+113,Varun Verma,9-B,15.9,67.9,73.6,Low,High School,Yes,Yes,8.1,1,Pass
+118,Vivaan Verma,12-B,18.6,82.3,84.5,Medium,High School,Yes,Yes,8.4,0,Pass
+108,Varun Sharma,11-B,13.4,97.5,81.4,Low,High School,Yes,No,8.7,2,Pass
+117,Vivaan Das,12-C,18.9,100.0,79.4,High,Master+,Yes,No,7.5,1,Pass
+92,Ananya Kumar,11-A,14.3,72.2,59.7,Medium,Bachelor,Yes,No,4.3,3,Pass
+126,Nikhil Patel,10-C,12.6,92.3,55.5,High,No Formal,No,No,6.2,0,Fail
+125,Shreya Iyer,11-C,14.7,92.7,86.1,High,Bachelor,Yes,Yes,8.6,2,Pass
+93,Aditya Shetty,11-A,12.1,82.7,62.9,Low,No Formal,No,Yes,8.9,1,Pass
+118,Ishaan Krishnan,12-C,13.8,86.8,100.0,Medium,Bachelor,Yes,Yes,8.6,1,Pass
+127,Shreya Sharma,10-C,6.6,89.6,64.9,High,Bachelor,Yes,No,6.7,0,Pass
+116,Divya Kumar,10-B,12.0,100.0,93.6,Medium,No Formal,Yes,Yes,5.4,3,Pass
+128,Ananya Menon,10-C,14.3,95.2,63.8,Medium,Bachelor,Yes,No,7.0,2,Pass
+130,Shreya Singh,9-C,12.6,69.3,84.7,Medium,High School,Yes,No,7.0,1,Pass
+129,Karthik Reddy,10-C,10.8,87.5,85.8,Low,Bachelor,Yes,No,8.9,0,Pass
+117,Kavya Shetty,10-B,16.4,92.7,51.7,Medium,Bachelor,Yes,Yes,7.3,1,Fail
+114,Lakshmi Krishnan,9-B,10.6,89.8,63.2,High,Master+,Yes,Yes,7.0,2,Pass
+119,Vivaan Rao,12-B,7.9,99.6,55.5,High,High School,Yes,No,7.1,2,Pass
+109,Kavya Shetty,11-B,10.3,80.3,44.8,Low,Master+,Yes,No,7.5,3,Fail
+115,Siddharth Pillai,9-B,17.8,84.4,75.3,Medium,High School,Yes,No,7.8,0,Pass
+131,Rohan Gupta,9-C,22.4,83.5,63.2,Medium,Master+,Yes,No,6.1,1,Pass
+94,Divya Shetty,11-A,19.9,61.8,70.7,High,High School,Yes,No,5.7,0,Pass
+132,Ananya Menon,9-C,4.7,77.0,69.8,Low,Bachelor,Yes,Yes,8.6,1,Fail
+116,Varun Singh,9-B,14.8,78.0,44.0,High,No Formal,No,No,5.0,3,Pass
+130,Pranav Kumar,10-C,17.3,71.8,88.0,High,Master+,No,Yes,9.0,2,Pass
+113,Lakshmi Das,12-A,12.9,95.2,57.1,Low,Master+,Yes,No,4.7,1,Pass
+133,Priya Nair,9-C,14.7,84.1,69.5,Low,High School,Yes,Yes,6.3,1,Pass
+110,Arjun Iyer,11-B,11.4,85.6,78.7,High,Bachelor,No,Yes,8.2,0,Pass
+126,Aarav Menon,11-C,12.3,71.2,81.2,Low,Bachelor,Yes,Yes,7.0,2,Pass
+118,Nikhil Rao,10-B,16.1,85.6,64.5,Medium,High School,Yes,No,5.4,2,Pass
+127,Neha Iyer,11-C,20.1,97.9,40.3,High,Bachelor,Yes,No,7.5,3,Pass
+111,Pooja Iyer,11-B,10.0,72.1,66.8,Medium,Bachelor,Yes,Yes,7.1,1,Pass
+107,Kavya Shetty,9-A,12.3,81.9,68.8,Medium,Bachelor,Yes,Yes,6.7,1,Pass
+114,Ishaan Gupta,12-A,0.5,92.4,51.5,Medium,High School,Yes,Yes,6.3,0,Fail
+117,Rohan Rao,9-B,8.9,54.8,64.1,Low,Master+,Yes,Yes,7.0,1,Fail
+119,Ananya Shetty,10-B,13.4,85.3,64.9,High,High School,No,No,6.3,2,Pass
+118,Nikhil Shetty,9-B,8.9,76.8,47.2,Medium,Bachelor,Yes,Yes,9.9,1,Fail
+128,Neha Reddy,11-C,12.8,76.4,71.4,Low,High School,Yes,No,6.7,1,Pass
+129,Neha Gupta,11-C,11.7,72.0,54.1,Low,High School,Yes,No,6.6,3,Fail
+108,Kavya Kumar,9-A,4.7,87.7,64.3,High,No Formal,Yes,Yes,6.4,1,Fail
+120,Pranav Singh,10-B,13.1,100.0,55.5,Low,High School,Yes,No,9.1,3,Pass
+115,Rohan Das,12-A,11.4,82.1,87.3,High,Bachelor,No,No,5.0,3,Pass
+112,Aarthi Sharma,11-B,16.4,85.5,65.4,Medium,Bachelor,Yes,No,7.4,2,Pass
+121,Karthik Singh,10-B,9.6,100.0,71.1,High,Bachelor,Yes,No,6.7,0,Pass
+130,Lakshmi Kumar,11-C,16.2,79.4,63.8,High,Bachelor,No,Yes,5.3,0,Pass
+113,Varun Singh,11-B,14.6,100.0,76.5,High,High School,Yes,Yes,6.0,2,Pass
+122,Priya Reddy,10-B,17.5,86.1,88.9,High,No Formal,Yes,No,7.4,0,Pass
+119,Meera Shetty,9-B,12.6,99.4,71.1,Low,Bachelor,Yes,Yes,6.0,1,Pass
+109,Karthik Singh,9-A,12.7,91.0,75.6,Medium,Bachelor,Yes,No,7.3,0,Pass
+116,Aarav Iyer,12-A,6.3,85.7,74.5,Medium,Bachelor,Yes,No,9.1,0,Fail
+131,Vivaan Joshi,10-C,6.6,81.2,46.7,Medium,High School,Yes,Yes,7.2,2,Fail
+117,Shreya Sharma,12-A,13.1,78.5,57.7,High,Bachelor,Yes,Yes,5.3,1,Pass
+123,Aarthi Gupta,10-B,16.0,86.9,67.1,High,No Formal,Yes,Yes,6.0,1,Pass
+131,Aarthi Singh,11-C,11.0,92.8,55.8,Medium,Bachelor,Yes,No,6.7,3,Pass
+115,Shreya Sharma,10-A,17.1,81.8,51.1,Medium,High School,No,Yes,6.6,2,Fail
+132,Arjun Iyer,11-C,12.6,78.2,39.8,Medium,Bachelor,No,Yes,7.2,1,Fail
+120,Divya Reddy,12-B,9.2,79.0,47.1,Medium,High School,Yes,No,7.4,1,Fail
+118,Aditya Das,12-A,12.6,93.9,62.4,Medium,Bachelor,No,No,9.1,1,Pass
+134,Ananya Das,9-C,15.1,96.7,65.0,Medium,No Formal,No,No,7.0,2,Pass
+114,Pranav Reddy,11-B,13.6,70.0,50.9,Low,Bachelor,Yes,No,5.6,1,Fail
+116,Kavya Reddy,10-A,21.4,70.0,63.1,Low,High School,Yes,Yes,8.4,1,Pass
+120,Diya Krishnan,9-B,10.7,86.6,59.9,Medium,Bachelor,Yes,No,8.5,1,Pass
+121,Rohan Iyer,12-B,13.6,100.0,81.3,Medium,High School,Yes,No,7.3,1,Pass
+119,Neha Kumar,12-C,18.1,99.8,67.7,High,No Formal,Yes,Yes,6.7,2,Pass
+122,Pranav Pillai,12-B,13.9,67.0,75.7,Medium,Bachelor,Yes,Yes,7.7,1,Pass
+119,Arjun Sharma,12-A,9.5,74.8,64.8,Low,No Formal,Yes,Yes,6.7,1,Fail
+132,Ishaan Verma,10-C,4.3,66.8,42.4,Low,High School,Yes,No,4.5,3,Fail
+133,Shreya Sharma,11-C,9.4,74.8,60.7,Low,Bachelor,Yes,No,7.7,0,Fail
+115,Priya Shetty,11-B,10.6,100.0,52.7,High,Bachelor,No,No,8.1,2,Pass
+134,Ishaan Patel,11-C,3.4,60.9,60.5,Low,Master+,No,No,8.7,1,Fail
+121,Diya Nair,9-B,10.0,62.6,55.6,Medium,High School,Yes,No,6.1,2,Fail
+120,Arjun Rao,12-A,10.8,76.1,75.3,High,Bachelor,Yes,No,7.3,2,Pass
+120,Karthik Verma,12-C,18.9,89.4,51.2,High,Bachelor,Yes,No,7.3,4,Pass
+121,Vivaan Singh,12-A,15.0,85.4,62.2,Low,High School,Yes,No,7.1,1,Pass
+135,Sneha Sharma,11-C,7.5,83.2,70.0,Low,Bachelor,Yes,Yes,7.1,4,Pass
+133,Ananya Verma,10-C,10.7,92.1,74.7,Low,No Formal,Yes,No,7.0,4,Pass
+117,Aditya Nair,10-A,2.7,56.8,51.3,Low,Master+,No,No,7.3,3,Fail
+95,Arjun Sharma,11-A,9.5,92.3,62.2,Low,Bachelor,Yes,Yes,7.9,0,Pass
+124,Varun Sharma,10-B,16.0,78.3,68.6,Medium,High School,Yes,No,8.5,3,Pass
+123,Rahul Shetty,12-B,20.1,94.8,91.7,High,High School,Yes,No,6.1,0,Pass
+134,Shreya Nair,10-C,10.4,66.1,45.3,Medium,High School,Yes,Yes,6.8,4,Fail
+118,Pranav Nair,10-A,19.3,82.1,53.2,Medium,High School,Yes,No,6.5,1,Pass
+96,Rohan Verma,11-A,4.4,80.8,100.0,Low,Bachelor,Yes,Yes,6.3,2,Pass
+125,Pranav Gupta,10-B,9.8,99.9,66.2,High,Bachelor,Yes,No,5.1,2,Pass
+135,Arjun Kumar,9-C,17.5,63.0,39.5,Medium,Bachelor,No,No,7.0,0,Fail
+136,Pranav Gupta,11-C,24.4,86.4,61.8,High,High School,Yes,Yes,7.6,3,Pass
+116,Varun Iyer,11-B,18.5,73.0,31.2,High,Bachelor,Yes,Yes,6.8,1,Pass
+119,Meera Menon,10-A,13.8,88.1,69.4,Medium,High School,No,Yes,7.0,1,Pass
+110,Pooja Patel,9-A,1.0,87.3,73.3,Low,High School,Yes,Yes,7.5,1,Fail
+126,Ananya Gupta,10-B,1.9,93.4,49.2,Low,Master+,Yes,No,8.7,0,Fail
+122,Ananya Joshi,12-A,14.6,75.6,59.4,Medium,Bachelor,Yes,Yes,6.5,1,Pass
+121,Aarav Patel,12-C,14.2,97.1,82.9,High,Bachelor,Yes,No,5.6,1,Pass
+111,Rohan Nair,9-A,8.5,98.3,41.5,Medium,Master+,Yes,Yes,6.9,3,Pass
+127,Vivaan Patel,10-B,14.3,62.3,47.5,Medium,High School,Yes,Yes,9.3,3,Fail
+122,Karthik Joshi,12-C,14.6,89.3,62.8,Medium,Master+,Yes,No,5.6,0,Pass
+128,Priya Joshi,10-B,16.7,89.5,51.5,Low,Bachelor,Yes,No,7.8,1,Pass
+135,Varun Joshi,10-C,14.7,78.9,61.9,Medium,Bachelor,Yes,No,8.4,2,Pass
+117,Ananya Verma,11-B,20.1,67.5,48.3,Medium,High School,Yes,No,4.2,3,Fail
+136,Nikhil Shetty,10-C,14.0,93.3,69.0,Medium,No Formal,No,No,7.5,2,Pass
+124,Rohan Verma,12-B,13.4,67.6,63.9,Medium,High School,Yes,Yes,7.7,1,Fail
+137,Siddharth Pillai,10-C,17.3,75.9,69.7,Low,No Formal,Yes,Yes,6.7,1,Pass
+138,Pranav Iyer,10-C,9.1,81.5,68.8,Medium,No Formal,Yes,No,6.2,1,Pass
+118,Siddharth Gupta,11-B,26.1,86.6,64.9,Low,Bachelor,Yes,Yes,6.3,1,Pass
+97,Aditya Iyer,11-A,17.9,78.5,49.8,High,Bachelor,Yes,No,6.6,1,Fail
+139,Neha Reddy,10-C,13.9,69.8,68.9,Low,High School,Yes,No,6.6,3,Fail
+140,Lakshmi Kumar,10-C,14.6,79.2,57.4,Low,Bachelor,Yes,No,6.4,2,Pass
+141,Siddharth Patel,10-C,23.4,94.1,63.7,Medium,Master+,Yes,No,6.6,4,Pass
+122,Nikhil Das,9-B,18.0,100.0,80.7,Medium,Bachelor,Yes,No,8.4,0,Pass
+123,Pooja Patel,9-B,6.0,63.9,55.9,Medium,Bachelor,No,Yes,5.5,3,Fail
+123,Rohan Sharma,12-A,21.0,85.8,84.9,Medium,Bachelor,Yes,No,4.9,1,Pass
+142,Lakshmi Krishnan,10-C,14.3,73.0,90.2,High,High School,Yes,No,8.4,2,Pass
+143,Aarav Gupta,10-C,14.5,94.2,76.5,Medium,High School,No,Yes,6.8,1,Pass
+123,Karthik Iyer,12-C,7.6,70.7,52.3,Medium,Master+,Yes,No,6.5,2,Fail
+124,Pooja Kumar,12-A,16.6,73.9,35.4,Medium,Bachelor,Yes,No,6.9,3,Pass
+124,Siddharth Reddy,9-B,8.7,70.9,77.1,Low,Bachelor,Yes,Yes,7.3,4,Pass
+129,Varun Krishnan,10-B,14.5,81.1,67.6,Medium,Master+,Yes,No,6.4,0,Fail
+125,Varun Iyer,12-A,10.6,81.9,51.6,Low,High School,Yes,No,7.6,0,Fail
+120,Rohan Verma,10-A,23.6,87.8,82.4,Medium,High School,Yes,Yes,5.8,2,Pass
+125,Kavya Kumar,12-B,21.9,77.9,49.9,Low,Bachelor,Yes,No,6.6,2,Pass
+119,Vivaan Joshi,11-B,16.2,70.0,64.1,High,No Formal,Yes,Yes,4.3,2,Pass
+137,Pooja Sharma,11-C,14.3,90.7,73.3,Medium,Bachelor,Yes,Yes,8.4,1,Pass
+138,Diya Menon,11-C,14.1,85.4,54.4,High,Bachelor,Yes,Yes,6.8,4,Pass
+136,Diya Patel,9-C,19.5,95.9,64.5,Medium,Bachelor,No,No,7.8,2,Pass
+124,Siddharth Patel,12-C,10.4,69.5,77.2,Low,High School,No,Yes,7.6,2,Pass
+139,Neha Verma,11-C,13.9,66.8,73.0,High,Bachelor,Yes,Yes,7.7,2,Pass
+125,Aditya Das,9-B,18.9,81.6,83.5,Medium,High School,Yes,No,7.0,2,Pass
+125,Sneha Kumar,12-C,11.3,97.6,81.9,Medium,Master+,Yes,Yes,7.5,2,Pass
+144,Rohan Joshi,10-C,13.8,83.9,66.1,Medium,High School,Yes,Yes,5.8,1,Pass
+121,Pranav Nair,10-A,6.1,79.6,33.3,Medium,Master+,Yes,Yes,5.6,1,Fail
+98,Shreya Krishnan,11-A,19.5,75.6,54.5,High,High School,Yes,No,6.9,4,Pass
+145,Ananya Rao,10-C,23.7,100.0,76.7,Medium,High School,Yes,No,6.2,0,Pass
+112,Ananya Iyer,9-A,17.6,69.6,44.3,Medium,Bachelor,Yes,No,8.7,2,Fail
+130,Aditya Kumar,10-B,21.3,73.3,61.4,Medium,High School,Yes,Yes,7.5,1,Pass
+120,Nikhil Nair,11-B,9.8,88.8,70.7,Medium,High School,No,No,6.1,2,Pass
+146,Aarav Krishnan,10-C,17.2,63.7,90.6,High,Bachelor,Yes,No,6.7,1,Pass
+140,Varun Kumar,11-C,9.3,97.3,57.9,Medium,Bachelor,Yes,Yes,7.2,2,Pass
+113,Kavya Nair,9-A,12.9,89.5,57.0,Medium,High School,Yes,Yes,6.9,1,Pass
+122,Neha Shetty,10-A,19.9,96.8,69.3,High,Bachelor,Yes,Yes,7.3,1,Pass
+114,Rohan Iyer,9-A,14.5,88.7,70.9,Medium,Master+,Yes,Yes,7.1,2,Pass
+137,Siddharth Reddy,9-C,6.9,80.1,63.8,Medium,Bachelor,Yes,Yes,5.3,2,Pass
+121,Pranav Pillai,11-B,7.4,69.2,80.7,Medium,High School,Yes,No,4.4,0,Fail
+126,Lakshmi Sharma,9-B,5.1,76.3,50.8,Low,No Formal,Yes,No,6.6,2,Fail
+131,Pranav Shetty,10-B,16.5,70.3,67.7,Medium,Master+,Yes,No,7.7,0,Pass
+126,Ishaan Gupta,12-C,22.3,83.8,68.2,Low,High School,No,Yes,6.6,1,Pass
+115,Lakshmi Iyer,9-A,18.8,87.7,56.4,Low,High School,Yes,No,8.5,0,Pass
+127,Ishaan Menon,9-B,4.5,99.7,77.8,Medium,Bachelor,Yes,No,6.9,2,Pass
+126,Aarthi Kumar,12-A,21.1,86.5,68.1,Medium,High School,Yes,No,8.6,2,Pass
+132,Rohan Singh,10-B,20.7,97.1,81.0,High,Bachelor,Yes,Yes,8.4,1,Pass
+133,Priya Gupta,10-B,4.3,74.4,64.7,Low,No Formal,Yes,No,8.3,2,Fail
+141,Pooja Joshi,11-C,10.5,72.3,67.3,Low,Bachelor,Yes,Yes,5.6,1,Pass
+138,Siddharth Menon,9-C,21.5,91.7,61.1,High,Master+,Yes,No,7.0,1,Pass
+147,Aditya Joshi,10-C,14.8,73.4,53.2,Low,Master+,No,No,8.5,1,Fail
+116,Arjun Reddy,9-A,5.5,81.2,79.1,Low,Master+,Yes,No,7.3,0,Pass
+127,Priya Krishnan,12-C,15.1,65.3,70.9,Low,Master+,Yes,No,7.7,1,Pass
+123,Nikhil Nair,10-A,3.3,71.4,51.7,Medium,High School,Yes,No,5.3,2,Fail
+122,Rohan Shetty,11-B,14.9,93.6,72.5,High,Master+,Yes,No,9.3,1,Pass
+123,Meera Menon,11-B,19.7,92.6,32.8,Medium,Master+,Yes,Yes,6.1,5,Pass
+124,Neha Reddy,10-A,14.1,70.2,58.0,Medium,Bachelor,Yes,Yes,4.6,0,Pass
+139,Kavya Patel,9-C,9.5,86.0,75.5,Low,High School,Yes,No,6.6,0,Pass
+148,Karthik Krishnan,10-C,18.4,75.6,64.2,Medium,High School,Yes,No,4.1,2,Pass
+126,Neha Shetty,12-B,18.9,82.2,67.7,Medium,Bachelor,Yes,No,5.7,2,Pass
+124,Arjun Das,11-B,18.6,95.0,20.0,Low,Bachelor,No,Yes,10.1,2,Fail
+128,Pranav Rao,12-C,16.4,87.7,56.5,Low,High School,Yes,No,6.5,1,Fail
+125,Rohan Gupta,11-B,19.4,91.6,70.7,Medium,High School,Yes,Yes,5.3,2,Pass
+125,Ishaan Iyer,10-A,15.7,100.0,68.5,Low,Bachelor,Yes,Yes,7.0,0,Pass
+134,Priya Pillai,10-B,15.3,73.6,79.5,Medium,No Formal,Yes,Yes,5.9,0,Fail
+127,Meera Kumar,12-B,14.4,70.2,63.1,Medium,Master+,No,Yes,8.0,3,Pass
+117,Aarav Shetty,9-A,10.8,69.3,59.7,Low,High School,No,No,5.9,3,Fail
+142,Kavya Das,11-C,7.9,78.9,47.4,Medium,High School,No,Yes,7.3,1,Fail
+129,Priya Rao,12-C,9.2,53.7,63.1,Medium,No Formal,No,Yes,5.6,3,Fail
+128,Rahul Pillai,12-B,12.6,79.5,48.3,Medium,Master+,Yes,No,10.1,0,Fail
+149,Pooja Patel,10-C,17.2,79.5,44.1,High,Master+,Yes,Yes,7.6,0,Pass
+135,Aarav Nair,10-B,21.2,91.4,50.8,Medium,No Formal,Yes,Yes,6.8,2,Pass
+126,Sneha Iyer,11-B,15.8,90.2,91.1,High,High School,Yes,Yes,6.6,1,Pass
+143,Pooja Kumar,11-C,17.0,70.8,58.2,Low,High School,Yes,Yes,6.3,3,Pass
+127,Diya Iyer,11-B,19.4,89.1,69.1,Medium,High School,Yes,No,6.1,2,Pass
+128,Ananya Pillai,9-B,10.8,86.7,54.8,Low,Bachelor,Yes,Yes,6.1,1,Fail
+144,Pooja Das,11-C,17.0,72.8,40.9,Medium,No Formal,Yes,Yes,9.0,2,Fail
+118,Priya Menon,9-A,12.8,76.1,79.1,Medium,Bachelor,Yes,Yes,6.3,2,Pass
+127,Siddharth Verma,12-A,18.6,51.3,31.6,Low,High School,No,Yes,4.4,1,Fail
+128,Lakshmi Krishnan,12-A,17.2,68.9,58.2,Medium,High School,Yes,Yes,5.6,1,Pass
+99,Lakshmi Reddy,11-A,8.0,73.1,65.2,Medium,High School,Yes,Yes,8.1,3,Pass
+150,Rahul Menon,10-C,12.8,78.9,65.2,Low,High School,No,Yes,6.7,2,Fail
+128,Siddharth Krishnan,11-B,20.2,66.7,51.8,Low,High School,No,Yes,6.8,1,Fail
+151,Diya Iyer,10-C,13.1,75.8,40.3,Medium,No Formal,Yes,No,8.4,0,Fail
+129,Kavya Rao,11-B,16.2,67.3,54.8,Medium,High School,Yes,Yes,6.1,2,Fail
+119,Arjun Verma,9-A,16.7,84.1,55.5,Medium,Master+,Yes,Yes,7.8,1,Pass
+126,Neha Joshi,10-A,6.8,83.1,51.2,Low,High School,Yes,No,6.2,1,Fail
+129,Siddharth Shetty,12-B,16.6,86.8,79.6,Medium,High School,Yes,Yes,7.7,0,Pass
+120,Rahul Krishnan,9-A,9.0,86.1,53.0,High,High School,Yes,No,6.5,2,Pass
+136,Varun Nair,10-B,10.9,63.5,70.2,Medium,Bachelor,Yes,Yes,6.7,0,Fail
+137,Siddharth Das,10-B,19.4,74.6,68.2,Medium,Master+,Yes,No,8.0,2,Pass
+121,Karthik Joshi,9-A,17.8,81.1,83.4,High,Bachelor,Yes,No,7.9,3,Pass
+138,Aarthi Iyer,10-B,14.5,81.2,68.1,High,Bachelor,Yes,Yes,6.8,2,Pass
+145,Divya Sharma,11-C,16.2,82.9,77.1,Medium,Bachelor,Yes,Yes,6.4,4,Pass
+140,Nikhil Nair,9-C,15.7,100.0,67.6,High,High School,Yes,No,8.9,2,Pass
+129,Aarav Das,9-B,16.1,95.7,76.1,High,Master+,Yes,No,7.7,1,Pass
+129,Arjun Das,12-A,17.3,70.1,45.0,Medium,Bachelor,Yes,Yes,6.5,2,Fail
+152,Vivaan Krishnan,10-C,10.4,90.1,29.1,Medium,No Formal,No,No,6.2,1,Fail
+139,Shreya Patel,10-B,12.2,85.7,67.3,Low,High School,No,Yes,8.2,0,Pass
+146,Diya Gupta,11-C,10.4,68.3,68.0,Low,High School,Yes,No,7.1,1,Pass
+100,Kavya Sharma,11-A,6.1,92.2,72.7,Medium,No Formal,Yes,Yes,6.8,3,Pass
+130,Shreya Krishnan,12-A,9.4,80.1,58.7,Medium,Bachelor,Yes,No,7.1,4,Pass
+122,Diya Singh,9-A,21.8,65.1,86.9,Medium,No Formal,No,Yes,7.4,1,Pass
+130,Rohan Das,12-C,15.9,87.5,59.6,Medium,Bachelor,Yes,No,6.9,3,Pass
+147,Priya Kumar,11-C,7.4,84.6,71.9,Medium,Master+,Yes,Yes,8.4,1,Pass
+141,Siddharth Reddy,9-C,8.3,83.3,78.3,High,High School,Yes,No,8.5,2,Pass
+130,Divya Reddy,12-B,11.4,77.6,86.1,Low,High School,Yes,No,7.6,2,Pass
+127,Sneha Shetty,10-A,19.8,69.4,57.6,Low,Bachelor,Yes,No,8.6,2,Pass
+128,Vivaan Nair,10-A,13.1,89.3,56.9,Medium,Bachelor,Yes,No,7.0,1,Fail
+131,Divya Shetty,12-A,22.5,85.5,49.0,High,High School,Yes,No,7.8,2,Pass
+101,Vivaan Kumar,11-A,17.8,88.0,91.7,High,High School,Yes,No,8.2,0,Pass
+153,Kavya Singh,10-C,18.4,90.3,75.9,High,Bachelor,Yes,Yes,8.2,5,Pass
+154,Priya Kumar,10-C,9.3,72.1,76.3,High,Master+,Yes,No,8.1,1,Fail
+148,Priya Sharma,11-C,18.7,71.3,100.0,Medium,High School,No,No,7.8,2,Pass
+142,Ishaan Singh,9-C,12.3,55.5,70.6,Medium,High School,Yes,Yes,9.3,4,Pass
+155,Pranav Patel,10-C,16.3,84.8,43.8,Low,Master+,No,Yes,6.4,2,Pass
+102,Pranav Rao,11-A,9.9,67.5,63.3,Medium,High School,Yes,No,6.8,4,Pass
+132,Rohan Gupta,12-A,16.9,87.6,56.4,High,No Formal,No,No,6.7,2,Fail
+133,Rohan Patel,12-A,15.8,86.5,60.5,Medium,Bachelor,No,No,6.6,1,Pass
+156,Ishaan Gupta,10-C,13.2,89.2,60.4,Medium,No Formal,No,No,4.6,3,Pass
+143,Varun Pillai,9-C,14.0,63.6,53.8,Low,High School,No,Yes,8.6,4,Fail
+131,Divya Reddy,12-C,10.7,77.2,42.5,Low,Bachelor,Yes,No,5.8,1,Fail
+130,Priya Patel,11-B,8.8,98.0,84.3,Low,Bachelor,Yes,No,7.2,0,Pass
+129,Aarav Reddy,10-A,20.0,98.6,66.2,Low,Bachelor,Yes,No,5.3,2,Pass
+131,Rohan Sharma,12-B,21.2,97.8,66.8,High,High School,Yes,No,7.7,0,Pass
+103,Ananya Sharma,11-A,10.2,86.0,76.6,Medium,Bachelor,No,No,6.1,1,Pass
+130,Pooja Gupta,10-A,18.8,73.9,76.6,High,Bachelor,Yes,No,5.6,1,Pass
+130,Shreya Reddy,9-B,10.3,90.6,69.9,Medium,Bachelor,Yes,No,7.2,2,Pass
+123,Vivaan Shetty,9-A,6.1,76.1,71.6,Low,Bachelor,No,No,6.2,0,Fail
+149,Nikhil Joshi,11-C,17.2,84.7,63.9,Low,Bachelor,Yes,No,6.3,0,Pass
+144,Rohan Sharma,9-C,7.5,78.4,79.4,High,Master+,Yes,Yes,7.2,2,Pass
+131,Diya Gupta,10-A,16.6,75.9,72.5,Low,Bachelor,Yes,Yes,8.0,2,Pass
+104,Aditya Sharma,11-A,14.7,88.0,72.3,High,High School,Yes,No,6.0,2,Pass
+145,Karthik Reddy,9-C,10.9,81.0,58.9,Low,Master+,No,No,5.8,1,Fail
+134,Shreya Verma,12-A,16.0,87.9,87.4,Medium,Master+,Yes,No,7.0,1,Pass
+132,Aarav Menon,10-A,18.9,79.0,63.3,High,High School,Yes,No,7.6,2,Pass
+132,Nikhil Sharma,12-C,7.9,61.9,67.5,Low,No Formal,Yes,Yes,8.8,0,Fail
+146,Meera Shetty,9-C,15.6,97.5,67.8,Low,Bachelor,Yes,Yes,5.7,0,Pass
+140,Kavya Krishnan,10-B,16.6,100.0,61.5,High,High School,Yes,No,6.6,1,Pass
+135,Meera Singh,12-A,5.7,83.4,50.7,Low,Bachelor,No,No,8.4,1,Fail
+150,Neha Das,11-C,13.2,66.1,61.0,Medium,Bachelor,Yes,Yes,9.4,0,Pass
+133,Divya Joshi,12-C,20.9,72.7,59.1,Medium,No Formal,Yes,Yes,5.8,1,Pass
+131,Aarav Das,11-B,20.4,84.1,41.6,Low,High School,Yes,Yes,6.1,2,Pass
+132,Lakshmi Menon,11-B,17.6,98.1,56.9,Medium,Master+,Yes,No,7.5,1,Pass
+141,Sneha Shetty,10-B,8.0,67.4,69.7,Medium,No Formal,Yes,No,6.3,3,Fail
+142,Arjun Singh,10-B,16.5,80.5,83.7,Medium,Bachelor,Yes,Yes,6.1,2,Pass
+131,Divya Kumar,9-B,20.3,88.4,77.8,High,High School,Yes,Yes,7.3,0,Pass
+157,Rahul Sharma,10-C,15.6,88.4,25.6,Low,High School,No,No,8.9,0,Fail
+124,Siddharth Patel,9-A,15.9,73.9,71.0,Low,Bachelor,Yes,No,5.4,1,Pass
+133,Neha Reddy,10-A,15.8,63.2,58.2,Medium,High School,Yes,No,8.8,2,Pass
+105,Meera Reddy,11-A,15.6,93.5,76.3,High,Bachelor,Yes,Yes,6.3,5,Pass
+125,Pooja Menon,9-A,9.0,91.5,61.8,Low,Bachelor,Yes,Yes,7.4,0,Pass
+143,Ananya Verma,10-B,2.5,77.0,59.3,Low,No Formal,Yes,Yes,8.9,1,Fail
+106,Lakshmi Reddy,11-A,15.7,86.9,64.6,Medium,High School,Yes,No,7.4,0,Pass
+126,Rahul Kumar,9-A,16.9,80.3,69.7,High,Bachelor,Yes,Yes,6.6,0,Pass
+132,Kavya Shetty,12-B,14.8,67.9,80.8,Low,Bachelor,Yes,No,7.9,1,Pass
+134,Meera Rao,12-C,7.3,94.3,65.7,Medium,Bachelor,Yes,No,6.8,2,Pass
+147,Lakshmi Joshi,9-C,17.2,86.6,81.2,Medium,Bachelor,Yes,No,7.6,3,Pass
+127,Vivaan Singh,9-A,24.3,87.9,79.2,Medium,High School,Yes,Yes,6.8,2,Pass
+128,Lakshmi Gupta,9-A,12.4,96.0,71.3,Low,High School,Yes,Yes,8.0,3,Pass
+158,Karthik Nair,10-C,11.7,65.3,37.0,Low,Bachelor,Yes,No,5.3,3,Fail
+148,Rahul Patel,9-C,15.5,75.4,81.6,Medium,Bachelor,Yes,Yes,5.8,1,Pass
+149,Neha Gupta,9-C,24.2,83.9,59.6,Medium,Bachelor,No,No,5.3,1,Pass
+144,Ishaan Sharma,10-B,10.9,79.2,80.0,High,High School,Yes,Yes,6.9,2,Pass
+107,Divya Iyer,11-A,15.0,91.4,52.4,Medium,Bachelor,Yes,No,5.2,1,Fail
+150,Sneha Rao,9-C,10.0,79.8,49.4,Medium,Bachelor,Yes,No,6.2,3,Pass
+108,Ishaan Pillai,11-A,13.3,74.1,97.7,High,High School,Yes,Yes,5.7,4,Pass
+145,Diya Singh,10-B,13.8,82.8,52.6,Medium,Bachelor,Yes,No,8.8,0,Fail
+132,Aarthi Das,9-B,20.7,84.0,82.0,Medium,Bachelor,Yes,No,5.8,2,Pass
+151,Sneha Das,9-C,25.0,97.2,71.7,High,High School,Yes,No,5.5,0,Pass
+133,Divya Sharma,12-B,14.2,82.7,56.1,Low,High School,Yes,Yes,7.3,0,Pass
+133,Pranav Krishnan,9-B,12.1,87.5,65.4,Medium,High School,Yes,Yes,9.0,0,Fail
+134,Siddharth Shetty,9-B,26.5,85.8,47.8,Medium,Master+,Yes,No,6.9,0,Pass
+151,Sneha Kumar,11-C,9.9,75.7,61.8,Low,High School,Yes,Yes,7.0,2,Fail
+152,Pranav Menon,11-C,11.1,73.4,50.8,Medium,High School,Yes,No,8.5,0,Fail
+134,Aditya Kumar,12-B,3.1,81.5,56.5,Low,No Formal,Yes,Yes,8.1,2,Fail
+129,Aarthi Krishnan,9-A,19.0,74.0,75.0,Low,No Formal,Yes,No,7.5,2,Pass
+135,Neha Rao,9-B,18.8,100.0,69.6,Medium,High School,Yes,Yes,6.3,0,Pass
+133,Pooja Rao,11-B,24.1,94.1,41.2,Low,Bachelor,Yes,No,7.5,3,Pass
+152,Pooja Krishnan,9-C,7.1,89.6,77.9,Medium,No Formal,Yes,Yes,5.4,0,Pass
+159,Ananya Gupta,10-C,23.3,90.5,69.9,High,High School,Yes,Yes,6.3,2,Pass
+146,Ishaan Nair,10-B,16.4,84.9,62.4,High,No Formal,Yes,Yes,8.7,3,Pass
+135,Karthik Pillai,12-C,16.0,62.9,72.5,Low,High School,Yes,No,8.6,2,Fail
+136,Rohan Joshi,12-A,3.8,75.4,59.7,Low,No Formal,Yes,Yes,7.5,4,Fail
+135,Rahul Patel,12-B,19.3,79.2,45.7,Low,Bachelor,Yes,No,4.7,1,Fail
+134,Pooja Singh,11-B,15.9,80.8,87.9,Low,Bachelor,Yes,Yes,5.6,2,Pass
+160,Divya Pillai,10-C,15.8,91.6,69.8,High,Bachelor,Yes,No,6.2,3,Pass
+153,Priya Singh,11-C,17.2,93.1,64.9,Medium,High School,Yes,No,6.8,1,Pass
+153,Pooja Verma,9-C,8.2,69.7,56.3,Low,Master+,Yes,Yes,5.5,1,Fail
+154,Aarav Singh,11-C,13.1,77.8,86.5,High,Bachelor,Yes,Yes,6.7,1,Pass
+161,Divya Pillai,10-C,11.7,99.4,58.7,Medium,No Formal,Yes,Yes,9.1,1,Pass
+137,Diya Joshi,12-A,2.7,87.3,40.4,Low,High School,Yes,No,7.5,4,Fail
+130,Diya Nair,9-A,16.3,73.3,52.5,Low,Bachelor,No,No,7.3,0,Fail
+154,Rahul Sharma,9-C,20.0,80.7,84.6,Medium,High School,No,Yes,5.8,0,Pass
+136,Aarthi Verma,12-B,10.5,80.8,77.6,Medium,High School,Yes,No,5.0,2,Pass
+136,Nikhil Das,9-B,13.7,78.4,58.4,Low,Bachelor,No,No,5.5,3,Fail
+135,Shreya Rao,11-B,14.7,91.7,89.2,High,No Formal,No,No,5.0,4,Pass
+134,Varun Sharma,10-A,17.6,100.0,80.5,High,Master+,Yes,No,7.1,4,Pass
+135,Aarthi Nair,10-A,12.9,88.3,66.3,High,High School,Yes,No,7.5,0,Pass
+136,Divya Sharma,10-A,7.6,86.0,59.7,Low,No Formal,Yes,No,5.8,2,Fail
+136,Pooja Rao,11-B,17.3,57.8,66.6,Low,No Formal,Yes,No,7.2,2,Pass
+131,Karthik Singh,9-A,15.7,80.2,58.4,High,High School,Yes,Yes,8.8,3,Pass
+109,Shreya Nair,11-A,24.1,96.7,66.1,Medium,Master+,Yes,No,9.3,3,Pass
+136,Siddharth Pillai,12-C,14.2,86.8,70.3,Medium,Bachelor,Yes,No,7.9,0,Pass
+162,Aditya Verma,10-C,9.4,30.0,42.4,Medium,Master+,Yes,No,6.8,1,Fail
+110,Priya Verma,11-A,18.1,86.1,59.3,Low,Bachelor,Yes,Yes,7.9,0,Pass
+137,Nikhil Shetty,12-C,17.2,100.0,61.8,Medium,High School,Yes,No,8.6,3,Pass
+138,Siddharth Menon,12-A,19.6,62.0,84.4,High,High School,Yes,Yes,4.6,0,Pass
+137,Pranav Singh,11-B,20.0,100.0,40.2,Medium,No Formal,Yes,No,8.8,1,Pass
+137,Karthik Singh,12-B,10.7,48.7,60.7,Medium,Master+,Yes,Yes,6.3,6,Pass
+138,Ishaan Nair,12-B,15.4,97.3,63.3,High,High School,Yes,No,6.4,2,Pass
+155,Pooja Shetty,11-C,13.1,81.9,79.4,Medium,High School,Yes,Yes,6.6,2,Pass
+132,Aarav Pillai,9-A,7.5,53.8,65.4,Medium,Bachelor,Yes,Yes,7.4,1,Fail
+139,Diya Pillai,12-B,14.7,91.4,95.1,High,Bachelor,Yes,Yes,5.7,2,Pass
+137,Siddharth Iyer,10-A,20.7,95.8,75.3,Medium,High School,Yes,Yes,6.7,5,Pass
+138,Rahul Nair,11-B,13.2,82.4,56.3,Low,Bachelor,Yes,Yes,7.6,2,Fail
+111,Nikhil Shetty,11-A,5.3,85.0,65.4,Low,Bachelor,Yes,No,7.3,0,Fail
+163,Divya Nair,10-C,4.2,73.1,57.0,Low,Bachelor,Yes,No,7.5,4,Fail
+139,Sneha Reddy,12-A,22.3,59.7,78.0,Medium,No Formal,No,No,6.6,2,Pass
+112,Vivaan Pillai,11-A,13.5,90.3,47.3,Medium,High School,Yes,No,7.8,1,Fail
+113,Siddharth Das,11-A,10.8,100.0,54.5,Medium,High School,No,Yes,8.3,2,Fail
+138,Arjun Reddy,12-C,12.6,95.6,72.4,Medium,Master+,Yes,No,8.2,2,Pass
+138,Lakshmi Iyer,10-A,6.6,58.1,83.2,Medium,Master+,Yes,No,7.5,2,Pass
+140,Vivaan Joshi,12-A,23.1,67.8,39.2,High,Bachelor,No,Yes,8.1,0,Pass
+137,Aarthi Krishnan,9-B,10.0,67.8,81.2,Low,High School,No,No,8.0,3,Fail
+114,Kavya Menon,11-A,20.8,62.9,64.0,Medium,High School,Yes,No,10.2,2,Fail
+138,Aarthi Joshi,9-B,14.3,82.5,39.6,Medium,Bachelor,Yes,No,8.5,0,Fail
+139,Meera Patel,9-B,21.1,86.7,24.0,Medium,High School,Yes,No,6.9,0,Pass
+140,Varun Das,9-B,13.3,60.8,40.6,Low,Bachelor,Yes,Yes,5.9,1,Fail
+141,Varun Singh,12-A,18.3,91.3,65.7,Medium,Bachelor,Yes,No,6.7,2,Pass
+139,Ananya Shetty,10-A,19.6,93.2,69.1,High,High School,Yes,Yes,6.6,4,Pass
+140,Kavya Joshi,10-A,17.1,75.4,74.9,Medium,High School,Yes,No,7.6,1,Pass
+164,Varun Kumar,10-C,17.7,83.9,62.3,High,No Formal,Yes,Yes,6.2,3,Pass
+156,Rohan Nair,11-C,14.8,62.6,54.5,High,High School,Yes,No,8.4,3,Pass
+142,Kavya Joshi,12-A,23.6,78.0,60.2,Medium,Bachelor,Yes,No,5.3,1,Pass
+139,Shreya Sharma,11-B,9.5,82.1,66.5,Medium,High School,Yes,Yes,5.0,1,Pass
+155,Aarav Pillai,9-C,14.0,84.0,69.2,Medium,High School,No,Yes,6.8,2,Fail
+115,Rahul Menon,11-A,16.1,90.5,59.0,High,High School,Yes,Yes,6.0,0,Pass
+133,Vivaan Reddy,9-A,14.0,80.9,74.6,Low,No Formal,Yes,No,5.5,0,Fail
+141,Priya Das,9-B,11.9,78.8,57.3,Medium,Bachelor,Yes,No,6.2,3,Fail
+142,Varun Menon,9-B,17.6,89.4,57.8,High,Bachelor,Yes,Yes,6.1,2,Pass
+157,Meera Shetty,11-C,11.2,90.0,54.4,Low,Bachelor,Yes,No,7.0,2,Pass
+140,Ananya Iyer,12-B,6.1,80.9,81.0,Medium,Bachelor,Yes,No,6.3,2,Fail
+156,Pooja Sharma,9-C,14.0,85.8,64.1,Medium,High School,No,No,6.4,0,Pass
+143,Rahul Nair,12-A,10.5,83.8,60.3,High,Bachelor,No,No,7.0,1,Pass
+141,Meera Kumar,10-A,7.3,78.2,83.0,High,No Formal,No,Yes,8.2,2,Pass
+147,Pranav Pillai,10-B,14.7,88.3,96.0,Medium,Master+,No,Yes,8.8,5,Pass
+157,Siddharth Patel,9-C,16.4,75.3,68.9,Medium,No Formal,Yes,Yes,7.2,3,Pass
+134,Diya Reddy,9-A,16.6,86.6,83.3,Medium,High School,Yes,Yes,7.3,1,Pass
+158,Neha Verma,11-C,16.8,82.3,80.5,Medium,No Formal,Yes,No,6.8,2,Pass
+165,Lakshmi Reddy,10-C,4.3,78.4,57.5,Medium,Bachelor,Yes,No,7.6,0,Pass
+143,Diya Patel,9-B,9.2,82.1,70.4,High,High School,Yes,Yes,7.5,1,Pass
+159,Arjun Krishnan,11-C,21.9,71.9,44.0,Low,Master+,Yes,No,8.6,0,Pass
+142,Nikhil Pillai,10-A,6.8,58.3,59.1,Low,No Formal,Yes,Yes,4.7,1,Fail
+166,Aarthi Patel,10-C,17.1,86.6,57.2,Medium,Bachelor,Yes,Yes,6.7,1,Pass
+141,Pranav Verma,12-B,10.6,84.8,60.4,Medium,Bachelor,Yes,No,7.4,0,Fail
+143,Pooja Singh,10-A,14.4,92.2,55.5,Medium,High School,Yes,No,7.0,1,Pass
+144,Priya Sharma,10-A,8.8,71.6,58.0,Low,High School,Yes,No,5.9,0,Fail
+160,Rohan Sharma,11-C,16.8,100.0,73.5,Medium,High School,Yes,Yes,5.4,1,Pass
+139,Pooja Verma,12-C,16.7,81.4,68.3,High,Bachelor,Yes,Yes,8.0,0,Pass
+161,Arjun Kumar,11-C,9.8,67.5,35.9,Low,Master+,Yes,Yes,6.1,1,Fail
+167,Pranav Joshi,10-C,8.7,70.1,55.6,Medium,High School,Yes,No,4.9,3,Fail
+145,Nikhil Sharma,10-A,17.3,65.2,48.7,High,High School,Yes,Yes,8.0,3,Pass
+135,Kavya Nair,9-A,5.9,96.4,65.4,Low,High School,Yes,No,7.6,2,Pass
+144,Meera Shetty,9-B,16.1,98.5,73.0,Medium,High School,No,Yes,6.9,3,Fail
+144,Vivaan Verma,12-A,25.1,85.2,65.6,Low,Bachelor,Yes,No,5.9,1,Pass
+140,Meera Sharma,11-B,22.8,75.2,59.0,High,High School,No,Yes,6.9,3,Pass
+168,Karthik Nair,10-C,17.6,100.0,69.5,Medium,High School,Yes,No,8.5,1,Pass
+140,Varun Das,12-C,15.6,81.8,63.4,High,Master+,Yes,No,5.1,1,Pass
+142,Pranav Singh,12-B,2.3,74.8,46.1,Low,Bachelor,No,No,5.1,3,Fail
+162,Pranav Rao,11-C,7.4,99.2,76.4,Medium,Bachelor,Yes,No,6.2,3,Pass
+148,Meera Iyer,10-B,20.4,89.9,77.5,Medium,No Formal,Yes,No,7.0,0,Pass
+141,Divya Verma,11-B,8.1,100.0,75.3,Low,Master+,Yes,Yes,6.4,0,Pass
+141,Shreya Nair,12-C,8.5,81.0,53.5,Low,Bachelor,Yes,No,7.8,4,Pass
+142,Nikhil Kumar,11-B,11.2,73.2,78.5,Low,Bachelor,Yes,No,8.3,2,Pass
+146,Meera Patel,10-A,10.7,78.7,63.1,High,No Formal,Yes,No,7.3,1,Fail
+116,Nikhil Nair,11-A,7.9,59.8,75.1,Medium,Master+,Yes,No,7.7,0,Fail
+143,Sneha Singh,12-B,13.7,78.7,58.8,Medium,Bachelor,Yes,Yes,7.3,0,Pass
+149,Sneha Patel,10-B,9.5,95.7,62.9,Medium,Bachelor,Yes,No,7.0,4,Pass
+158,Divya Gupta,9-C,10.3,89.2,32.1,Medium,Bachelor,Yes,Yes,5.4,1,Fail
+117,Rohan Patel,11-A,10.1,82.2,61.8,Medium,Bachelor,Yes,Yes,5.8,3,Pass
+118,Meera Reddy,11-A,16.6,70.1,67.3,Medium,Bachelor,Yes,Yes,5.4,0,Pass
+145,Pranav Shetty,12-A,12.8,84.7,60.3,Medium,Master+,No,No,6.8,2,Pass
+136,Ananya Singh,9-A,11.1,90.2,86.6,Low,High School,Yes,Yes,7.3,2,Pass
+142,Aarthi Patel,12-C,19.0,91.2,53.7,High,High School,Yes,No,5.3,1,Pass
+143,Pooja Sharma,12-C,15.3,88.0,62.1,High,Bachelor,Yes,No,7.1,1,Pass
+143,Diya Gupta,11-B,12.6,72.4,53.3,Medium,Bachelor,Yes,No,5.9,1,Fail
+137,Karthik Joshi,9-A,16.4,92.4,58.1,Medium,Bachelor,Yes,Yes,5.7,2,Pass
+159,Vivaan Pillai,9-C,15.3,40.4,76.4,Low,Bachelor,Yes,No,6.2,3,Fail
+147,Meera Joshi,10-A,15.3,90.6,90.7,High,Bachelor,Yes,Yes,5.7,1,Pass
+138,Rohan Nair,9-A,16.4,100.0,60.2,High,Bachelor,No,Yes,7.7,1,Pass
+144,Sneha Verma,11-B,12.1,67.9,59.9,High,High School,Yes,No,6.8,3,Fail
+144,Divya Iyer,12-C,9.7,79.1,49.8,Medium,Master+,Yes,Yes,8.0,1,Pass
+169,Nikhil Kumar,10-C,15.8,77.9,80.3,Low,High School,No,No,6.5,3,Pass
+145,Divya Singh,11-B,14.2,72.4,77.7,Low,Bachelor,No,Yes,6.5,0,Pass
+144,Ananya Sharma,12-B,14.3,90.4,60.5,Low,Master+,No,No,9.2,2,Pass
+146,Meera Menon,12-A,13.4,83.7,42.5,Low,High School,Yes,Yes,5.1,3,Pass
+119,Aarav Iyer,11-A,12.2,79.8,43.7,Low,High School,No,No,8.5,2,Fail
+160,Lakshmi Das,9-C,19.5,95.6,72.4,High,High School,No,No,9.0,1,Pass
+145,Diya Joshi,9-B,16.7,78.2,69.7,Low,Bachelor,Yes,Yes,7.9,5,Pass
+145,Lakshmi Gupta,12-C,16.6,100.0,33.1,Low,High School,Yes,No,6.6,3,Fail
+145,Karthik Rao,12-B,15.5,87.8,65.5,High,High School,No,Yes,8.7,0,Pass
+146,Pooja Kumar,12-C,20.9,84.3,88.7,Medium,Master+,Yes,No,6.6,4,Pass
+170,Meera Shetty,10-C,15.1,61.5,63.0,Medium,High School,Yes,No,6.2,2,Pass
+146,Priya Singh,9-B,17.2,75.5,86.9,Medium,Bachelor,Yes,No,6.5,3,Pass
+163,Rohan Menon,11-C,17.4,99.8,79.1,High,Bachelor,Yes,Yes,6.3,1,Pass
+164,Vivaan Reddy,11-C,15.2,66.0,50.8,Medium,No Formal,Yes,No,5.9,0,Fail
+139,Sneha Iyer,9-A,10.3,56.1,61.9,Medium,No Formal,Yes,No,8.3,0,Fail
+148,Pranav Patel,10-A,17.5,82.4,64.2,Medium,Master+,Yes,No,6.1,2,Pass
+171,Diya Das,10-C,28.2,98.4,52.7,Medium,Bachelor,Yes,Yes,7.0,2,Pass
+149,Ananya Shetty,10-A,12.1,82.5,52.4,Medium,No Formal,Yes,Yes,5.3,2,Fail
+147,Diya Verma,12-C,14.4,78.0,87.1,Medium,Bachelor,Yes,No,7.0,1,Pass
+150,Shreya Rao,10-B,9.8,55.7,48.3,Low,Bachelor,No,No,5.6,2,Fail
+148,Divya Menon,12-C,11.6,87.4,81.1,Medium,No Formal,Yes,No,5.6,2,Pass
+140,Varun Joshi,9-A,19.7,85.9,55.9,Low,Bachelor,Yes,No,6.9,1,Pass
+146,Pranav Patel,12-B,8.6,56.6,61.6,Low,High School,Yes,No,8.3,0,Fail
+146,Varun Singh,11-B,9.6,91.6,69.9,Low,High School,Yes,No,7.5,0,Fail
+120,Aarthi Pillai,11-A,8.1,95.2,61.6,High,Master+,No,No,7.6,1,Pass
+151,Arjun Iyer,10-B,10.2,95.6,74.0,Medium,High School,Yes,Yes,6.8,0,Pass
+147,Varun Kumar,9-B,5.5,89.0,37.3,Medium,High School,No,No,6.6,4,Fail
+148,Ishaan Patel,9-B,19.2,93.8,76.2,High,High School,No,Yes,7.9,2,Pass
+152,Ishaan Gupta,10-B,26.0,84.2,27.4,Low,Bachelor,Yes,No,6.3,2,Pass
+150,Aditya Kumar,10-A,12.2,92.4,62.8,Medium,Bachelor,Yes,No,8.0,0,Pass
+149,Neha Iyer,9-B,5.7,60.2,78.0,Medium,Master+,Yes,No,8.5,0,Fail
+141,Karthik Nair,9-A,16.5,60.0,70.7,Low,High School,Yes,Yes,6.0,2,Pass
+121,Kavya Joshi,11-A,10.4,73.2,47.8,Medium,Bachelor,Yes,No,6.2,0,Fail
+122,Neha Krishnan,11-A,22.5,84.4,53.6,High,Bachelor,Yes,Yes,6.3,2,Fail
+142,Varun Krishnan,9-A,10.6,82.7,52.4,Low,High School,Yes,Yes,5.2,0,Fail
+147,Sneha Shetty,12-A,10.8,85.9,68.6,Medium,No Formal,Yes,No,6.4,1,Pass
+148,Meera Nair,12-A,11.1,91.4,33.6,Low,Bachelor,Yes,No,8.6,1,Fail
+149,Aarav Reddy,12-C,17.8,95.8,65.8,Medium,High School,Yes,Yes,5.7,5,Pass
+143,Pranav Menon,9-A,12.9,71.5,70.4,Medium,Bachelor,Yes,No,8.6,4,Pass
+153,Meera Singh,10-B,11.5,84.9,62.0,Medium,Bachelor,Yes,Yes,6.5,2,Fail
+144,Pranav Das,9-A,13.0,71.8,73.4,Medium,No Formal,No,No,9.5,2,Fail
+150,Ishaan Iyer,9-B,5.6,75.7,65.1,Low,Master+,Yes,No,6.2,4,Pass
+149,Rahul Krishnan,12-A,16.0,85.9,58.4,Medium,Bachelor,Yes,No,6.8,2,Pass
+150,Shreya Kumar,12-A,5.1,41.1,38.9,Medium,High School,No,No,5.9,1,Fail
+145,Priya Gupta,9-A,11.8,100.0,67.9,Medium,Bachelor,No,No,6.2,0,Pass
+154,Meera Shetty,10-B,15.8,84.8,48.7,Low,High School,Yes,No,8.6,3,Pass
+146,Aditya Singh,9-A,15.5,74.9,57.9,Medium,Bachelor,Yes,Yes,7.6,3,Pass
+147,Karthik Joshi,12-B,17.0,100.0,72.7,Medium,High School,Yes,Yes,8.2,0,Pass
+165,Kavya Das,11-C,11.7,73.8,81.8,Low,High School,Yes,No,5.4,2,Pass
+155,Varun Joshi,10-B,17.8,79.6,61.5,Low,High School,Yes,Yes,7.8,1,Pass
+148,Ishaan Joshi,12-B,18.6,76.2,73.8,Medium,High School,Yes,No,5.8,5,Pass
+161,Meera Rao,9-C,16.2,100.0,45.8,Medium,High School,Yes,Yes,5.4,0,Pass
+156,Pranav Patel,10-B,16.6,76.7,65.4,Low,High School,Yes,No,7.3,2,Pass
+123,Kavya Joshi,11-A,19.8,87.8,69.2,High,Master+,Yes,No,7.3,1,Pass
+172,Pranav Gupta,10-C,11.8,96.4,83.2,Medium,No Formal,Yes,No,7.1,3,Pass
+147,Nikhil Gupta,11-B,7.3,89.0,58.4,Medium,No Formal,Yes,No,7.9,0,Pass
+151,Pooja Rao,9-B,16.1,81.3,62.6,Medium,High School,Yes,Yes,8.0,0,Pass
+148,Nikhil Iyer,11-B,16.7,95.3,80.8,Medium,Bachelor,Yes,No,8.8,1,Pass
+124,Diya Menon,11-A,19.5,100.0,64.7,Medium,High School,Yes,Yes,5.6,5,Pass
+152,Arjun Verma,9-B,11.3,89.8,54.5,High,Bachelor,Yes,No,8.8,0,Pass
+157,Ishaan Kumar,10-B,9.5,83.4,100.0,Medium,Bachelor,Yes,No,9.3,1,Pass
+158,Neha Kumar,10-B,16.3,84.0,50.9,Medium,No Formal,Yes,Yes,6.6,2,Pass
+125,Ananya Nair,11-A,13.6,97.7,65.1,Medium,Master+,No,Yes,5.0,1,Pass
+151,Kavya Menon,10-A,4.6,74.8,70.9,Medium,High School,Yes,Yes,5.3,1,Pass
+159,Rahul Kumar,10-B,13.9,74.7,65.7,Low,Bachelor,Yes,Yes,6.4,4,Pass
+153,Neha Pillai,9-B,4.7,63.6,63.3,Medium,High School,Yes,No,9.4,0,Fail
+151,Arjun Nair,12-A,9.3,67.8,63.4,Medium,Bachelor,Yes,Yes,7.0,0,Fail
+126,Vivaan Iyer,11-A,22.8,79.8,66.7,High,Bachelor,Yes,No,6.3,0,Pass
+149,Lakshmi Sharma,11-B,23.1,81.3,50.4,Medium,High School,Yes,No,6.2,0,Pass
+152,Karthik Sharma,10-A,7.9,100.0,96.1,Medium,High School,No,No,5.4,2,Pass
+127,Meera Shetty,11-A,14.4,92.4,66.9,High,High School,Yes,No,8.0,0,Pass
+154,Priya Krishnan,9-B,14.2,71.1,74.4,Medium,No Formal,Yes,Yes,6.9,0,Pass
+153,Aarthi Joshi,10-A,20.9,69.3,57.3,Low,Master+,Yes,No,9.5,1,Fail
+160,Siddharth Shetty,10-B,9.5,94.5,57.0,Low,Bachelor,Yes,No,7.8,0,Fail
+173,Meera Reddy,10-C,9.6,91.5,55.6,Low,Bachelor,Yes,No,8.0,2,Fail
+128,Vivaan Krishnan,11-A,19.7,78.3,40.3,Low,Master+,Yes,Yes,6.7,0,Pass
+154,Rahul Menon,10-A,12.1,76.7,63.8,Medium,Bachelor,Yes,Yes,5.7,1,Pass
+129,Divya Joshi,11-A,17.6,95.5,60.3,Medium,Bachelor,Yes,No,6.0,2,Pass
+150,Aarav Gupta,11-B,6.6,70.1,82.4,Medium,High School,No,No,5.4,2,Fail
+149,Varun Patel,12-B,11.1,82.7,45.2,Low,High School,Yes,Yes,8.1,1,Fail
+147,Sneha Kumar,9-A,5.7,100.0,57.9,Medium,High School,No,No,6.5,1,Fail
+150,Lakshmi Reddy,12-B,6.7,80.5,49.4,Low,High School,Yes,Yes,8.1,1,Fail
+162,Priya Rao,9-C,20.2,76.7,90.2,High,High School,No,No,7.2,1,Pass
+166,Meera Menon,11-C,11.8,82.9,49.8,Low,High School,Yes,Yes,6.6,2,Pass
+161,Shreya Verma,10-B,12.4,76.4,73.9,Medium,High School,Yes,Yes,5.6,1,Fail
+151,Rahul Sharma,12-B,10.3,65.3,79.6,Medium,High School,No,Yes,7.4,3,Pass
+163,Diya Gupta,9-C,12.9,90.4,64.0,Medium,High School,Yes,Yes,6.7,2,Pass
+174,Divya Singh,10-C,15.5,95.4,46.7,Medium,High School,Yes,No,8.1,2,Pass
+155,Kavya Sharma,9-B,18.9,78.3,46.9,Medium,High School,No,Yes,6.1,1,Fail
+152,Divya Patel,12-B,0.0,73.5,74.0,Low,High School,Yes,No,7.7,0,Fail
+167,Nikhil Rao,11-C,11.8,74.5,52.4,High,Bachelor,Yes,No,9.0,2,Pass
+164,Vivaan Menon,9-C,14.8,80.2,71.5,Medium,Bachelor,Yes,No,7.3,1,Pass
+152,Nikhil Iyer,12-A,13.5,75.3,67.6,Medium,High School,Yes,No,7.9,3,Pass
+162,Karthik Sharma,10-B,18.0,73.9,75.3,High,No Formal,No,Yes,7.7,2,Fail
+165,Varun Kumar,9-C,17.3,100.0,76.6,High,High School,Yes,Yes,9.3,0,Pass
+163,Ishaan Shetty,10-B,10.5,83.6,48.9,Low,High School,Yes,No,7.4,2,Pass
+153,Ananya Joshi,12-B,9.4,84.9,48.3,Low,High School,Yes,No,7.8,1,Fail
+154,Karthik Nair,12-B,10.8,88.6,72.0,Low,Master+,No,No,7.0,3,Pass
+156,Varun Pillai,9-B,17.7,87.3,53.2,Low,High School,Yes,No,6.1,1,Pass
+150,Aarthi Krishnan,12-C,10.3,77.0,27.5,Medium,High School,Yes,No,5.6,5,Fail
+151,Aarav Nair,12-C,15.7,89.3,79.1,High,Bachelor,No,No,8.5,0,Pass
+175,Shreya Nair,10-C,16.9,82.8,55.5,High,Bachelor,Yes,Yes,5.8,2,Pass
+168,Ananya Sharma,11-C,21.8,87.3,72.5,Medium,No Formal,No,No,7.9,5,Pass
+176,Siddharth Nair,10-C,12.5,86.1,85.5,Medium,High School,Yes,No,7.5,2,Pass
+177,Rahul Shetty,10-C,20.8,81.4,70.2,High,Master+,Yes,No,8.1,0,Pass
+169,Rahul Shetty,11-C,22.2,70.0,83.9,High,High School,Yes,Yes,6.4,3,Pass
+130,Varun Singh,11-A,11.7,79.8,64.2,Low,Bachelor,No,Yes,6.1,2,Pass
+178,Priya Patel,10-C,12.9,79.5,88.2,Medium,Bachelor,No,Yes,7.5,1,Pass
+164,Aarthi Joshi,10-B,14.4,63.3,55.1,High,High School,Yes,Yes,6.6,2,Pass
+179,Ishaan Iyer,10-C,12.7,88.1,65.9,Medium,Bachelor,Yes,No,5.5,1,Pass
+155,Aarthi Nair,10-A,18.3,93.6,75.4,Medium,High School,Yes,No,9.3,3,Pass
+148,Diya Reddy,9-A,17.2,100.0,67.3,High,High School,Yes,Yes,6.1,1,Pass
+165,Sneha Shetty,10-B,17.2,81.3,86.1,High,High School,Yes,No,5.8,2,Pass
+151,Pooja Das,11-B,10.4,79.5,64.0,High,Master+,Yes,Yes,6.7,3,Pass
+155,Sneha Gupta,12-B,9.2,68.7,95.0,Medium,High School,Yes,No,8.5,4,Pass
+153,Aditya Das,12-A,22.7,80.5,91.7,Low,High School,Yes,Yes,4.4,2,Pass
+154,Aarthi Nair,12-A,13.1,84.4,69.9,Medium,Master+,No,No,8.4,2,Pass
+152,Meera Rao,12-C,10.1,72.3,73.7,Medium,High School,Yes,No,5.9,1,Fail
+131,Priya Shetty,11-A,21.2,79.9,82.7,Medium,Master+,Yes,No,7.3,0,Pass
+132,Siddharth Krishnan,11-A,15.4,58.3,49.4,Medium,Bachelor,Yes,No,6.2,1,Fail
+153,Ananya Singh,12-C,16.9,93.1,47.6,Medium,Bachelor,Yes,Yes,9.4,2,Fail
+166,Aarav Reddy,9-C,13.3,72.8,83.6,Medium,Bachelor,Yes,No,7.1,3,Pass
+149,Rahul Verma,9-A,12.4,81.6,69.8,Medium,Bachelor,Yes,Yes,6.2,2,Fail
+156,Rahul Rao,10-A,13.2,64.9,62.8,Medium,High School,Yes,No,6.6,2,Fail
+133,Ishaan Patel,11-A,7.1,75.0,66.2,Medium,Master+,Yes,No,7.1,2,Pass
+156,Pooja Reddy,12-B,11.6,74.6,28.6,Low,Master+,No,No,7.2,4,Fail
+157,Arjun Sharma,10-A,13.5,77.9,59.3,Low,Master+,Yes,No,7.5,2,Pass
+154,Aditya Gupta,12-C,25.3,91.8,59.5,High,Bachelor,Yes,Yes,7.0,2,Pass
+166,Aditya Gupta,10-B,14.4,99.3,78.9,Medium,Bachelor,Yes,No,5.3,2,Pass
+167,Kavya Iyer,10-B,0.3,86.8,75.9,Low,Bachelor,Yes,Yes,6.6,2,Pass
+155,Aarav Nair,12-A,13.5,93.5,74.1,Medium,No Formal,Yes,No,7.7,5,Pass
+150,Arjun Singh,9-A,27.7,99.4,71.5,Medium,High School,No,No,6.2,0,Pass
+155,Neha Rao,12-C,16.3,84.8,41.0,Low,Bachelor,No,No,7.8,2,Pass
+157,Meera Kumar,9-B,9.9,81.6,74.3,Medium,Bachelor,Yes,No,7.0,2,Pass
+156,Aditya Iyer,12-A,15.0,90.1,70.8,Low,High School,Yes,No,6.7,2,Pass
+168,Diya Shetty,10-B,10.3,94.9,83.4,Medium,High School,Yes,Yes,8.4,1,Pass
+134,Karthik Verma,11-A,5.2,85.8,91.7,Low,Bachelor,Yes,No,4.9,3,Pass
+152,Meera Patel,11-B,10.3,60.5,38.3,Low,High School,Yes,No,6.2,0,Fail
+158,Kavya Das,10-A,12.5,67.9,56.6,Low,Master+,Yes,Yes,8.5,0,Fail
+170,Aarthi Shetty,11-C,4.6,78.7,55.6,Medium,Bachelor,Yes,Yes,9.2,1,Fail
+157,Meera Sharma,12-A,6.3,87.4,64.4,Low,No Formal,Yes,Yes,9.7,2,Fail
+157,Nikhil Krishnan,12-B,16.1,85.7,70.2,High,No Formal,Yes,No,7.1,2,Pass
+158,Rohan Menon,9-B,10.0,91.6,58.7,Low,Bachelor,Yes,No,7.5,1,Fail
+159,Priya Singh,10-A,16.0,97.8,80.4,Medium,High School,Yes,No,8.0,2,Pass
+158,Ishaan Singh,12-A,7.9,96.4,50.6,Medium,Bachelor,No,Yes,8.5,1,Fail
+171,Aarav Iyer,11-C,17.6,96.5,51.4,Medium,High School,Yes,Yes,7.4,1,Pass
+167,Meera Joshi,9-C,6.1,65.6,47.7,Low,No Formal,Yes,No,8.1,0,Fail
+151,Meera Das,9-A,24.2,91.8,65.0,High,High School,No,Yes,7.6,0,Pass
+158,Karthik Reddy,12-B,7.4,78.7,52.8,High,Bachelor,Yes,Yes,7.6,2,Pass
+180,Neha Gupta,10-C,6.5,58.2,61.3,Low,Master+,Yes,Yes,5.9,2,Fail
+135,Lakshmi Verma,11-A,14.1,74.6,59.7,Low,Master+,Yes,Yes,6.6,0,Pass
+159,Rohan Shetty,12-A,24.3,100.0,59.0,High,High School,Yes,Yes,6.4,1,Pass
+152,Pranav Pillai,9-A,15.6,87.5,78.2,Medium,Bachelor,Yes,No,5.6,2,Pass
+169,Nikhil Iyer,10-B,14.8,100.0,61.2,Low,No Formal,Yes,Yes,5.0,1,Fail
+159,Varun Patel,9-B,12.1,80.1,76.9,Low,Bachelor,Yes,Yes,6.5,2,Pass
+159,Aarav Nair,12-B,8.9,100.0,63.3,Medium,Master+,Yes,No,6.7,1,Pass
+170,Shreya Shetty,10-B,11.5,84.1,65.7,Medium,High School,Yes,No,7.1,4,Pass
+160,Meera Joshi,12-A,7.9,82.3,58.1,Medium,Master+,No,No,7.7,2,Fail
+171,Meera Krishnan,10-B,9.6,70.6,69.9,High,High School,Yes,No,7.2,4,Fail
+168,Aditya Reddy,9-C,16.0,95.3,76.0,Medium,High School,Yes,No,6.7,1,Pass
+156,Aarthi Verma,12-C,8.4,76.0,60.2,Medium,Bachelor,Yes,No,5.9,0,Fail
+172,Sneha Verma,11-C,15.6,74.2,73.3,Medium,Master+,Yes,No,8.1,1,Pass
+153,Nikhil Pillai,9-A,7.5,97.4,54.6,Medium,High School,Yes,No,6.9,2,Pass
+153,Priya Krishnan,11-B,13.5,91.9,72.6,Low,Bachelor,Yes,No,6.5,1,Pass
+172,Meera Menon,10-B,9.6,91.6,53.9,Low,High School,Yes,No,6.8,1,Fail
+169,Karthik Patel,9-C,21.0,77.7,77.9,Medium,Bachelor,No,Yes,6.1,2,Pass
+173,Vivaan Nair,10-B,15.6,81.4,66.9,Medium,Bachelor,Yes,Yes,6.4,1,Pass
+161,Priya Sharma,12-A,18.2,77.3,83.3,Low,High School,No,Yes,6.3,1,Pass
+154,Diya Sharma,9-A,10.2,91.4,49.8,Medium,Bachelor,Yes,Yes,6.7,0,Pass
+160,Arjun Das,10-A,14.3,100.0,45.3,Medium,Bachelor,Yes,No,7.8,1,Pass
+174,Aarav Patel,10-B,9.1,86.4,57.4,Medium,Bachelor,No,No,7.5,4,Pass
+136,Rohan Sharma,11-A,11.9,100.0,46.6,Medium,High School,No,Yes,8.9,1,Fail
+160,Rohan Reddy,12-B,14.7,96.8,50.6,High,High School,Yes,Yes,8.5,2,Pass
+162,Vivaan Pillai,12-A,10.4,79.2,74.7,Medium,Master+,Yes,Yes,9.3,3,Pass
+154,Aditya Verma,11-B,5.9,87.9,61.9,Low,Bachelor,No,No,7.7,1,Pass
+160,Diya Rao,9-B,6.9,100.0,59.3,Medium,Bachelor,Yes,Yes,7.7,4,Pass
+157,Varun Joshi,12-C,2.3,100.0,60.6,Medium,Bachelor,Yes,Yes,6.4,1,Fail
+170,Ananya Verma,9-C,6.7,92.2,53.6,Low,Bachelor,Yes,Yes,8.0,0,Fail
+161,Priya Das,10-A,15.1,78.3,85.1,Low,High School,Yes,No,6.2,1,Pass
+163,Shreya Das,12-A,4.0,75.4,51.7,Low,High School,Yes,Yes,5.2,0,Fail
+161,Kavya Gupta,9-B,7.2,88.9,47.5,Medium,Bachelor,Yes,No,8.8,3,Fail
+162,Meera Verma,9-B,23.0,100.0,77.1,Medium,High School,Yes,No,5.5,1,Pass
+171,Aarthi Kumar,9-C,8.8,83.2,59.0,Low,High School,Yes,No,7.5,3,Pass
+162,Aarav Joshi,10-A,17.6,91.5,98.5,High,Bachelor,Yes,No,5.9,0,Pass
+175,Diya Rao,10-B,19.2,86.6,62.6,High,Master+,Yes,Yes,8.4,1,Pass
+176,Neha Nair,10-B,15.3,74.1,73.8,Low,Bachelor,Yes,Yes,8.5,0,Pass
+163,Aarav Das,9-B,8.4,84.1,85.2,High,No Formal,Yes,No,7.6,0,Pass
+164,Neha Shetty,9-B,10.8,79.6,54.7,Low,Master+,Yes,Yes,8.5,1,Pass
+165,Ishaan Shetty,9-B,7.9,100.0,59.6,High,High School,No,No,7.0,3,Pass
+155,Aarthi Krishnan,9-A,28.2,83.1,80.4,High,High School,Yes,No,9.7,1,Pass
+155,Pranav Das,11-B,4.0,78.6,70.0,Low,Master+,Yes,Yes,7.9,1,Pass
+166,Aditya Singh,9-B,8.8,71.6,46.3,Medium,Bachelor,Yes,Yes,5.9,1,Fail
+156,Rahul Verma,9-A,10.8,94.6,54.2,High,Master+,Yes,No,7.1,1,Pass
+173,Ananya Iyer,11-C,8.5,100.0,34.5,High,Bachelor,Yes,No,6.8,2,Fail
+156,Sneha Reddy,11-B,22.8,100.0,78.3,High,Bachelor,Yes,No,6.7,1,Pass
+158,Arjun Rao,12-C,26.1,84.4,62.3,Medium,High School,Yes,Yes,5.0,1,Pass
+157,Meera Gupta,11-B,9.6,84.9,59.7,Low,High School,Yes,No,7.5,4,Fail
+159,Vivaan Pillai,12-C,9.4,84.2,46.3,High,Master+,Yes,Yes,5.3,1,Pass
+137,Vivaan Shetty,11-A,2.8,88.3,50.6,Medium,Master+,Yes,Yes,4.0,1,Fail
+174,Aarav Sharma,11-C,12.8,85.8,59.3,Medium,High School,Yes,No,6.6,1,Fail
+163,Priya Joshi,10-A,12.4,82.7,56.6,Medium,High School,Yes,No,6.1,3,Fail
+172,Divya Gupta,9-C,10.7,83.7,67.6,Medium,High School,Yes,Yes,6.0,0,Fail
+138,Rohan Verma,11-A,13.1,83.4,70.2,Low,High School,Yes,No,3.3,3,Fail
+164,Aarav Patel,12-A,16.0,78.5,97.8,Medium,Master+,Yes,Yes,6.0,0,Pass
+177,Divya Gupta,10-B,13.6,75.1,61.7,Low,No Formal,Yes,Yes,6.8,2,Fail
+178,Divya Joshi,10-B,12.4,100.0,81.6,Medium,High School,Yes,Yes,6.2,1,Pass
+157,Neha Singh,9-A,10.5,100.0,58.4,High,Master+,Yes,No,7.5,1,Pass
+158,Pooja Nair,11-B,17.3,67.5,42.6,Medium,Bachelor,Yes,Yes,8.7,2,Fail
+181,Rohan Sharma,10-C,14.1,66.9,61.1,Medium,High School,Yes,No,7.6,3,Pass
+158,Rohan Reddy,9-A,18.4,70.5,43.6,Medium,High School,Yes,Yes,8.2,1,Pass
+173,Pooja Menon,9-C,20.0,84.8,70.2,High,No Formal,Yes,No,8.3,2,Pass
+182,Ananya Pillai,10-C,6.9,92.7,55.1,Medium,High School,Yes,Yes,5.8,1,Pass
+183,Pranav Gupta,10-C,6.8,89.1,38.6,Medium,No Formal,Yes,Yes,7.5,0,Fail
+184,Aarav Das,10-C,8.2,80.1,86.3,Low,High School,No,No,8.2,1,Pass
+139,Ishaan Sharma,11-A,6.7,84.3,54.5,Low,High School,No,No,6.5,0,Fail
+175,Vivaan Nair,11-C,17.8,73.7,43.1,Medium,High School,No,No,6.1,1,Fail
+161,Kavya Joshi,12-B,17.8,83.1,82.6,High,No Formal,Yes,Yes,7.6,2,Pass
+164,Pooja Joshi,10-A,19.5,81.8,55.8,Medium,Master+,Yes,No,5.2,1,Pass
+174,Sneha Das,9-C,14.0,59.0,77.3,Low,High School,Yes,No,5.7,1,Pass
+159,Rahul Das,11-B,17.0,72.1,59.7,High,High School,No,Yes,6.2,1,Fail
+175,Rohan Verma,9-C,20.0,68.5,58.4,Medium,Master+,Yes,No,7.5,1,Pass
+162,Vivaan Verma,12-B,18.3,95.2,74.8,High,High School,Yes,No,7.3,3,Pass
+159,Diya Pillai,9-A,12.3,80.9,70.3,Low,High School,Yes,No,8.2,1,Pass
+160,Arjun Patel,12-C,21.4,89.3,76.8,Medium,Bachelor,No,No,5.9,2,Pass
+161,Ishaan Sharma,12-C,16.6,63.9,68.7,High,Bachelor,No,No,5.8,1,Pass
+160,Rohan Pillai,11-B,10.5,60.2,69.4,Low,High School,Yes,No,7.6,0,Fail
+179,Pooja Rao,10-B,9.8,90.0,76.4,Medium,Bachelor,Yes,No,6.0,1,Fail
+165,Aditya Nair,10-A,19.5,52.7,72.8,High,Bachelor,Yes,No,6.3,1,Pass
+185,Varun Iyer,10-C,18.2,92.7,60.0,Low,High School,No,Yes,4.8,1,Pass
+186,Sneha Krishnan,10-C,11.7,56.1,41.8,Low,No Formal,Yes,No,7.3,0,Fail
+176,Nikhil Reddy,9-C,20.5,92.1,74.4,Medium,No Formal,Yes,No,8.8,1,Pass
+167,Pooja Joshi,9-B,4.1,71.3,66.6,Medium,Bachelor,Yes,Yes,5.8,3,Fail
+162,Meera Krishnan,12-C,11.7,90.6,56.2,Low,High School,No,No,8.2,3,Fail
+177,Divya Das,9-C,13.8,100.0,83.9,Medium,High School,Yes,No,6.9,2,Pass
+180,Pranav Sharma,10-B,10.4,54.7,46.0,Medium,Bachelor,Yes,No,4.9,1,Fail
+163,Lakshmi Shetty,12-C,23.9,86.3,85.0,Low,Master+,Yes,No,5.9,3,Pass
+160,Aarthi Pillai,9-A,13.7,60.3,65.7,Medium,No Formal,Yes,Yes,5.9,0,Fail
+164,Lakshmi Kumar,12-C,14.0,91.1,74.4,High,No Formal,Yes,No,6.6,1,Pass
+181,Aditya Pillai,10-B,14.1,79.5,60.5,Medium,High School,Yes,No,7.5,2,Fail
