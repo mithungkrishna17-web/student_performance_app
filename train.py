@@ -10,9 +10,14 @@ import json
 import sys
 import warnings
 
-warnings.filterwarnings("ignore", category=FutureWarning)
 import os
-os.environ.setdefault("PYTHONWARNINGS", "ignore::FutureWarning")  # also silence CV worker processes
+
+warnings.filterwarnings("ignore")
+os.environ["PYTHONWARNINGS"] = "ignore"  # also silence the parallel worker processes
+
+# Keep parallelism small so training fits in low-memory hosts (e.g. Streamlit Cloud, 1 GB).
+# Set TRAIN_N_JOBS=-1 to use every CPU core on a powerful machine.
+N_JOBS = int(os.environ.get("TRAIN_N_JOBS", "2"))
 from pathlib import Path
 
 import joblib
@@ -55,8 +60,8 @@ MODELS = {
         {"clf__max_depth": [3, 5, 7, 10], "clf__min_samples_leaf": [1, 5, 10]},
     ),
     "Random Forest": (
-        RandomForestClassifier(random_state=42, class_weight="balanced", n_jobs=-1),
-        {"clf__n_estimators": [200, 400], "clf__max_depth": [None, 8, 12]},
+        RandomForestClassifier(random_state=42, class_weight="balanced", n_jobs=1),
+        {"clf__n_estimators": [100, 200], "clf__max_depth": [8, 12, 16]},
     ),
     "SVM": (
         SVC(probability=True, random_state=42, class_weight="balanced"),
@@ -86,7 +91,7 @@ def main(csv_path: Path) -> None:
 
     for name, (clf, grid) in MODELS.items():
         pipe = Pipeline([("pre", build_preprocessor()), ("clf", clf)])
-        search = GridSearchCV(pipe, grid, scoring="f1", cv=cv, n_jobs=-1)
+        search = GridSearchCV(pipe, grid, scoring="f1", cv=cv, n_jobs=N_JOBS)
         search.fit(X_train, y_train)
         best = search.best_estimator_
 

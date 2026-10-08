@@ -74,11 +74,11 @@ To use real student records, provide a CSV with the same column names (via
 | Model | Accuracy | Precision | Recall | F1 | ROC AUC |
 |---|---|---|---|---|---|
 | Decision Tree | 0.800 | 0.643 | 0.750 | 0.692 | 0.835 |
-| Random Forest | 0.840 | 0.730 | 0.742 | 0.736 | 0.909 |
-| **SVM** | **0.848** | 0.712 | **0.825** | **0.764** | **0.926** |
+| Random Forest | **0.858** | **0.760** | 0.767 | 0.763 | 0.908 |
+| **SVM** | 0.848 | 0.712 | **0.825** | **0.764** | **0.926** |
 
-SVM performs best overall and catches 82.5% of failing students. Random Forest
-has the highest precision (fewest false alarms). Previous grade, study hours
+SVM has the best F1 and recall, catching 82.5% of failing students. Random
+Forest has the highest accuracy and precision (fewest false alarms). Previous grade, study hours
 and attendance are the strongest predictors.
 
 ## Project structure
